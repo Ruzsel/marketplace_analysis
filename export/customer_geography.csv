@@ -1,0 +1,3262 @@
+year,month,marketplace_name,province,city,total_customers,total_orders,total_revenue
+2024,11,tiktok,jawa barat,kota cimahi,4,7,13587468.00
+2024,12,shopee,jawa barat,kota bogor,20,20,11447243.00
+2024,9,tiktok,jawa timur,kota malang,12,14,8969794.00
+2024,12,shopee,jawa barat,kabupaten bogor,84,97,7813216.00
+2024,8,tiktok,banten,kota tangerang,15,18,6594728.00
+2024,9,tiktok,nusa tenggara barat (ntb),kota mataram,61,63,6561379.00
+2024,7,shopee,jawa barat,kabupaten bogor,72,73,6446124.00
+2024,8,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,46,49,6438700.00
+2024,12,shopee,jawa barat,kabupaten bekasi,61,69,6356881.00
+2024,9,shopee,jawa barat,kabupaten bogor,79,85,6292971.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,54,57,6107806.00
+2024,6,shopee,jawa barat,kabupaten bogor,73,77,6073239.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,53,57,6029907.00
+2024,11,tiktok,jawa barat,kota bandung,51,54,5892547.00
+2024,9,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,41,44,5801146.00
+2024,9,tiktok,banten,kota tangerang,24,31,5796413.00
+2024,9,tiktok,jawa barat,kota bandung,47,49,5739679.00
+2024,11,shopee,jawa barat,kabupaten bogor,62,66,5721657.00
+2024,8,shopee,jawa barat,kabupaten bekasi,56,61,5658399.00
+2024,6,shopee,jawa barat,kabupaten bekasi,63,72,5644114.00
+2024,10,tiktok,nusa tenggara barat (ntb),kota mataram,46,51,5516517.00
+2024,7,shopee,jawa barat,kabupaten bekasi,69,78,5477752.00
+2024,9,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,45,47,5470428.00
+2024,8,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,50,50,5312771.00
+2024,8,tiktok,bali,kota denpasar,38,40,5201850.00
+2024,11,shopee,jawa barat,kabupaten bekasi,55,59,5183901.00
+2024,7,tiktok,jawa barat,kota bandung,40,43,5149023.00
+2024,8,shopee,jawa barat,kabupaten bogor,60,69,5117498.00
+2024,10,tiktok,jawa barat,kota bandung,48,49,5093514.00
+2024,8,tiktok,sulawesi selatan,kota makassar,31,33,5050138.00
+2024,12,shopee,banten,kabupaten tangerang,49,53,5032646.00
+2024,6,shopee,dki jakarta,kota jakarta timur,59,67,5020604.00
+2024,7,shopee,dki jakarta,kota jakarta timur,58,58,5005169.00
+2024,8,tiktok,jawa timur,kota surabaya,37,42,4972896.00
+2024,12,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,42,45,4941872.00
+2024,12,shopee,jawa timur,kota surabaya,18,21,4937905.00
+2024,9,tiktok,sulawesi selatan,kota makassar,37,37,4868894.00
+2024,11,tiktok,jawa barat,kabupaten bogor,22,24,4843099.00
+2024,7,tiktok,nusa tenggara barat (ntb),kota mataram,38,39,4835220.00
+2024,11,tiktok,nusa tenggara barat (ntb),kota mataram,34,34,4825645.00
+2024,10,shopee,jawa barat,kabupaten bogor,52,55,4795661.00
+2024,7,shopee,dki jakarta,kota jakarta selatan,56,59,4782258.00
+2024,8,tiktok,nusa tenggara barat (ntb),kota mataram,42,43,4749566.00
+2024,8,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,33,37,4649989.00
+2024,8,shopee,jawa barat,kota depok,46,52,4648973.00
+2024,8,tiktok,jawa barat,kota bandung,36,39,4642548.00
+2024,6,shopee,jawa barat,kota bekasi,53,58,4601211.00
+2024,8,shopee,banten,kabupaten tangerang,39,43,4401716.00
+2024,9,tiktok,bali,kota denpasar,36,38,4371447.00
+2024,8,shopee,dki jakarta,kota jakarta selatan,51,56,4331058.00
+2024,12,shopee,dki jakarta,kota jakarta timur,47,50,4312456.00
+2024,11,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,29,35,4241428.00
+2024,12,tiktok,nusa tenggara barat (ntb),kota mataram,28,30,4239242.00
+2024,7,tiktok,bali,kota denpasar,36,37,4214919.00
+2024,6,shopee,jawa barat,kota depok,38,43,4189513.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,33,37,4156101.00
+2024,8,shopee,jawa barat,kota bekasi,40,44,4149143.00
+2024,10,tiktok,bali,kota denpasar,40,40,4147712.00
+2024,6,shopee,dki jakarta,kota jakarta selatan,46,49,4127710.00
+2024,9,shopee,jawa barat,kota bekasi,45,48,4110439.00
+2024,7,shopee,dki jakarta,kota jakarta utara,35,38,4110310.00
+2024,10,tiktok,jawa timur,kota surabaya,37,39,4101054.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,31,34,4071996.00
+2024,12,shopee,dki jakarta,kota jakarta selatan,46,52,4039264.00
+2024,7,shopee,jawa barat,kota bekasi,47,51,4016292.00
+2024,11,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,38,38,3973125.00
+2024,12,shopee,jawa barat,kota bekasi,49,54,3929314.00
+2024,8,shopee,dki jakarta,kota jakarta timur,44,50,3919058.00
+2024,11,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,33,36,3907340.00
+2024,5,shopee,jawa barat,kabupaten bogor,39,43,3904825.00
+2024,12,tiktok,banten,kota tangerang,19,22,3874570.00
+2024,10,tiktok,banten,kota tangerang,28,29,3871647.00
+2024,7,shopee,banten,kota tangerang,42,42,3840216.00
+2024,11,shopee,dki jakarta,kota jakarta barat,40,47,3825333.00
+2024,10,shopee,dki jakarta,kota jakarta barat,29,38,3812061.00
+2024,9,shopee,jawa barat,kabupaten bekasi,46,50,3800094.00
+2024,8,tiktok,dki jakarta,kota jakarta selatan,21,24,3797318.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,30,34,3797219.00
+2024,12,tiktok,bali,kota denpasar,33,35,3780960.00
+2024,11,shopee,dki jakarta,kota jakarta selatan,44,46,3715780.00
+2024,10,tiktok,dki jakarta,kota jakarta selatan,30,32,3714821.00
+2024,8,tiktok,jawa timur,kabupaten sidoarjo,22,24,3696820.00
+2024,10,tiktok,sulawesi selatan,kota makassar,33,37,3693989.00
+2024,7,shopee,jawa barat,kota depok,49,52,3692157.00
+2024,7,tiktok,banten,kota tangerang,20,25,3686916.00
+2024,11,shopee,jawa barat,kota bekasi,39,41,3665471.00
+2024,11,shopee,jawa barat,kabupaten karawang,36,37,3664500.00
+2024,9,tiktok,jawa timur,kota surabaya,34,37,3653198.00
+2024,12,shopee,jawa barat,kabupaten karawang,42,44,3646026.00
+2024,11,tiktok,jawa timur,kota surabaya,34,34,3645906.00
+2024,11,tiktok,bali,kota denpasar,35,35,3600686.00
+2024,11,shopee,banten,kabupaten tangerang,38,42,3583132.00
+2024,10,tiktok,jawa barat,kabupaten bogor,32,32,3535457.00
+2024,7,shopee,jawa barat,kabupaten karawang,43,48,3497019.00
+2024,9,shopee,dki jakarta,kota jakarta barat,39,44,3491955.00
+2024,9,tiktok,bali,kabupaten badung,27,32,3491608.00
+2024,8,shopee,jawa barat,kabupaten karawang,38,39,3487995.00
+2024,12,shopee,banten,kota tangerang,36,39,3474958.00
+2024,10,tiktok,dki jakarta,kota jakarta timur,26,27,3474803.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,32,35,3459146.00
+2024,11,shopee,dki jakarta,kota jakarta timur,36,40,3448458.00
+2024,7,shopee,banten,kota tangerang selatan,41,44,3441691.00
+2024,9,shopee,banten,kabupaten tangerang,40,40,3441146.00
+2024,12,tiktok,jawa barat,kota bandung,35,35,3419668.00
+2024,8,shopee,dki jakarta,kota jakarta barat,43,48,3415507.00
+2024,10,shopee,jawa barat,kabupaten bekasi,42,49,3404967.00
+2024,9,shopee,dki jakarta,kota jakarta timur,43,49,3402580.00
+2024,8,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,10,13,3400632.00
+2024,7,tiktok,jawa timur,kabupaten sidoarjo,22,28,3335319.00
+2024,12,shopee,jawa barat,kota depok,37,41,3271201.00
+2024,10,tiktok,jawa barat,kabupaten indramayu,23,27,3256971.00
+2024,8,tiktok,dki jakarta,kota jakarta timur,25,26,3182788.00
+2024,6,shopee,banten,kota tangerang selatan,39,41,3133727.00
+2024,12,shopee,dki jakarta,kota jakarta barat,36,45,3127133.00
+2024,9,tiktok,kalimantan selatan,kota banjarmasin,26,29,3115066.00
+2024,8,tiktok,dki jakarta,kota jakarta barat,25,27,3108002.00
+2024,10,shopee,jawa barat,kota bekasi,35,38,3087930.00
+2024,6,shopee,dki jakarta,kota jakarta barat,31,33,3046222.00
+2024,9,shopee,dki jakarta,kota jakarta selatan,37,39,3021901.00
+2024,9,tiktok,kalimantan timur,kota balikpapan,26,26,3017984.00
+2024,9,shopee,banten,kota tangerang selatan,36,37,3017366.00
+2024,10,tiktok,jawa barat,kabupaten bandung barat,24,27,3001919.00
+2024,9,tiktok,di yogyakarta,kabupaten sleman,26,28,2976116.00
+2024,10,tiktok,jawa barat,kabupaten bandung,31,31,2963968.00
+2024,9,tiktok,jawa timur,kabupaten sidoarjo,26,29,2948160.00
+2024,7,shopee,banten,kabupaten tangerang,33,37,2923017.00
+2024,6,shopee,banten,kabupaten tangerang,36,40,2922772.00
+2024,12,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,28,29,2906930.00
+2024,7,tiktok,jawa barat,kabupaten bandung,26,27,2898303.00
+2024,8,tiktok,bali,kabupaten badung,28,29,2893951.00
+2024,7,tiktok,jawa timur,kota surabaya,23,25,2881880.00
+2024,10,tiktok,kalimantan selatan,kota banjarmasin,26,29,2874166.00
+2024,6,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,13,14,2870764.00
+2024,9,tiktok,jawa barat,kabupaten bandung,22,24,2861349.00
+2024,9,shopee,jawa barat,kabupaten karawang,29,30,2794244.00
+2024,9,tiktok,dki jakarta,kota jakarta timur,16,21,2790123.00
+2024,8,tiktok,bali,kabupaten jembrana,20,22,2759668.00
+2024,9,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,23,26,2752978.00
+2024,8,tiktok,jawa barat,kabupaten bekasi,23,23,2750800.00
+2024,7,tiktok,bali,kabupaten badung,20,27,2733591.00
+2024,7,tiktok,banten,kabupaten tangerang,22,25,2723238.00
+2024,7,tiktok,jawa barat,kabupaten bogor,21,22,2716413.00
+2024,10,tiktok,jawa timur,kabupaten sidoarjo,26,27,2706290.00
+2024,8,tiktok,banten,kota tangerang selatan,22,25,2705144.00
+2024,10,tiktok,di yogyakarta,kabupaten sleman,26,27,2692745.00
+2024,5,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,6,9,2662615.00
+2024,8,shopee,banten,kota tangerang selatan,31,32,2662032.00
+2024,10,shopee,dki jakarta,kota jakarta selatan,30,34,2647417.00
+2024,10,tiktok,bali,kabupaten jembrana,22,24,2639544.00
+2024,10,shopee,dki jakarta,kota jakarta timur,26,26,2632248.00
+2024,9,tiktok,jawa barat,kabupaten bogor,23,24,2597885.00
+2024,10,shopee,banten,kabupaten tangerang,30,32,2553206.00
+2024,9,tiktok,dki jakarta,kota jakarta selatan,24,25,2527668.00
+2024,10,tiktok,dki jakarta,kota jakarta utara,23,24,2524165.00
+2024,11,tiktok,sulawesi selatan,kota makassar,25,26,2515693.00
+2024,7,tiktok,kalimantan selatan,kota banjarmasin,21,21,2513186.00
+2024,7,tiktok,sulawesi selatan,kota makassar,22,23,2510591.00
+2024,11,tiktok,banten,kota tangerang,17,17,2502519.00
+2024,9,tiktok,jawa barat,kabupaten bekasi,20,23,2494990.00
+2024,8,tiktok,di yogyakarta,kabupaten sleman,22,22,2488112.00
+2024,9,tiktok,bali,kabupaten buleleng,20,21,2480573.00
+2024,9,tiktok,banten,kabupaten tangerang,25,26,2473907.00
+2024,10,shopee,jawa barat,kota depok,29,35,2470047.00
+2024,7,tiktok,dki jakarta,kota jakarta selatan,21,22,2465879.00
+2024,10,shopee,jawa barat,kabupaten karawang,27,29,2456312.00
+2024,10,tiktok,jawa barat,kota bekasi,23,24,2446054.00
+2024,9,tiktok,jawa barat,kabupaten cianjur,21,22,2434313.00
+2024,11,tiktok,jawa timur,kabupaten sidoarjo,23,23,2432965.00
+2024,9,tiktok,jawa tengah,kabupaten tegal,17,18,2404480.00
+2024,8,tiktok,jawa barat,kabupaten bogor,21,21,2395879.00
+2024,10,tiktok,jawa tengah,kota semarang,20,20,2352680.00
+2024,12,tiktok,jawa barat,kabupaten bekasi,23,25,2343748.00
+2024,6,tiktok,jawa timur,kabupaten sidoarjo,12,15,2334896.00
+2024,6,shopee,jawa barat,kabupaten karawang,28,29,2327473.00
+2024,9,tiktok,jawa timur,kabupaten pamekasan,13,16,2315608.00
+2024,10,tiktok,jawa barat,kabupaten purwakarta,20,21,2306680.00
+2024,11,tiktok,sulawesi selatan,kabupaten maros,3,3,2298753.00
+2024,10,tiktok,banten,kota tangerang selatan,22,24,2282908.00
+2024,12,shopee,banten,kota tangerang selatan,26,28,2280278.00
+2024,7,tiktok,jawa barat,kota depok,14,16,2270574.00
+2024,8,shopee,banten,kota tangerang,28,33,2263446.00
+2024,10,shopee,dki jakarta,kota jakarta utara,30,33,2259311.00
+2024,6,shopee,dki jakarta,kota jakarta pusat,23,25,2243322.00
+2024,10,tiktok,bali,kabupaten badung,20,20,2242830.00
+2024,10,tiktok,jawa barat,kabupaten cianjur,17,18,2235612.00
+2024,12,tiktok,banten,kota serang,16,17,2235073.00
+2024,10,tiktok,jawa tengah,kota surakarta (solo),17,21,2233902.00
+2024,9,shopee,dki jakarta,kota jakarta utara,19,19,2229161.00
+2024,9,shopee,banten,kota tangerang,24,26,2224166.00
+2024,10,tiktok,jawa barat,kabupaten bekasi,22,22,2218083.00
+2024,12,tiktok,dki jakarta,kota jakarta timur,13,16,2201798.00
+2024,11,shopee,jawa barat,kota depok,23,29,2183902.00
+2024,9,tiktok,dki jakarta,kota jakarta barat,19,19,2172648.00
+2024,11,shopee,dki jakarta,kota jakarta utara,24,27,2155635.00
+2024,11,tiktok,dki jakarta,kota jakarta timur,16,18,2155501.00
+2024,9,tiktok,banten,kota serang,19,19,2154522.00
+2024,8,tiktok,jawa barat,kabupaten bandung,19,21,2148321.00
+2024,11,tiktok,bali,kabupaten badung,17,19,2141065.00
+2024,6,shopee,banten,kota tangerang,22,24,2133716.00
+2024,7,shopee,jawa tengah,kabupaten brebes,16,21,2110212.00
+2024,12,shopee,jawa timur,kabupaten malang,19,20,2107452.00
+2024,7,shopee,dki jakarta,kota jakarta barat,28,32,2105397.00
+2024,10,shopee,banten,kota tangerang,25,26,2102760.00
+2024,8,tiktok,jawa tengah,kabupaten tegal,17,18,2091626.00
+2024,9,tiktok,jawa barat,kota depok,14,17,2082737.00
+2024,12,tiktok,bali,kabupaten badung,16,19,2076872.00
+2024,12,tiktok,jawa barat,kabupaten bandung,21,22,2072314.00
+2024,8,tiktok,jawa barat,kota bekasi,17,19,2067916.00
+2024,7,shopee,dki jakarta,kota jakarta pusat,23,25,2067360.00
+2024,6,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,13,13,2059979.00
+2024,8,tiktok,sumatera utara,kota medan,17,21,2058421.00
+2024,11,tiktok,kalimantan selatan,kota banjarmasin,13,14,2053929.00
+2024,12,tiktok,jawa barat,kabupaten indramayu,20,23,2049177.00
+2024,7,tiktok,dki jakarta,kota jakarta timur,18,20,2041911.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,15,17,2038645.00
+2024,10,tiktok,dki jakarta,kota jakarta pusat,20,20,2037757.00
+2024,8,tiktok,dki jakarta,kota jakarta utara,15,16,2031035.00
+2024,10,tiktok,dki jakarta,kota jakarta barat,18,19,2030782.00
+2024,9,tiktok,di yogyakarta,kabupaten bantul,19,21,2020559.00
+2024,12,tiktok,jawa tengah,kota semarang,17,18,2016129.00
+2024,11,tiktok,dki jakarta,kota jakarta utara,14,15,2015131.00
+2024,6,shopee,dki jakarta,kota jakarta utara,27,27,2010845.00
+2024,10,tiktok,bali,kabupaten buleleng,15,17,2008369.00
+2024,10,tiktok,jawa timur,kota malang,16,19,2006523.00
+2024,10,tiktok,jawa barat,kota depok,16,18,1997320.00
+2024,10,tiktok,di yogyakarta,kabupaten bantul,18,18,1995789.00
+2024,11,shopee,jawa timur,kabupaten kediri,17,18,1995423.00
+2024,12,tiktok,jawa barat,kabupaten bogor,22,22,1990167.00
+2024,9,shopee,jawa barat,kota depok,26,28,1984735.00
+2024,11,tiktok,di yogyakarta,kabupaten sleman,14,17,1984465.00
+2024,11,tiktok,jawa tengah,kota semarang,16,16,1973425.00
+2024,7,tiktok,kalimantan timur,kota balikpapan,15,16,1970015.00
+2024,11,shopee,banten,kota tangerang selatan,24,25,1968708.00
+2024,7,tiktok,di yogyakarta,kabupaten sleman,13,13,1967697.00
+2024,8,shopee,dki jakarta,kota jakarta utara,23,26,1963654.00
+2024,9,tiktok,banten,kabupaten serang,16,19,1962823.00
+2024,7,shopee,jawa timur,kota surabaya,21,21,1959680.00
+2024,8,shopee,dki jakarta,kota jakarta pusat,24,26,1959601.00
+2024,10,tiktok,kalimantan timur,kota balikpapan,14,16,1952079.00
+2024,8,tiktok,jawa barat,kabupaten garut,12,12,1949921.00
+2024,12,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,19,19,1948477.00
+2024,10,tiktok,jawa timur,kabupaten banyuwangi,15,17,1945577.00
+2024,7,tiktok,jawa barat,kota bekasi,15,16,1942724.00
+2024,9,tiktok,banten,kota tangerang selatan,17,17,1924589.00
+2024,12,tiktok,sumatera utara,kota medan,16,19,1914362.00
+2024,5,shopee,jawa barat,kabupaten bekasi,20,20,1899994.00
+2024,11,tiktok,jawa barat,kabupaten bandung barat,17,17,1899395.00
+2024,8,tiktok,banten,kota serang,17,19,1877607.00
+2024,7,tiktok,jawa tengah,kota semarang,14,16,1862523.00
+2024,8,tiktok,jawa barat,kota depok,16,17,1856485.00
+2024,7,tiktok,bali,kabupaten gianyar,13,15,1850606.00
+2024,6,tiktok,banten,kota tangerang,3,4,1837800.00
+2024,11,tiktok,jawa tengah,kabupaten brebes,15,18,1834977.00
+2024,10,tiktok,banten,kota serang,13,13,1819234.00
+2024,11,tiktok,banten,kabupaten serang,10,10,1816822.00
+2024,8,tiktok,di yogyakarta,kabupaten bantul,14,15,1814124.00
+2024,12,tiktok,di yogyakarta,kabupaten sleman,17,18,1808542.00
+2024,10,tiktok,sumatera utara,kota medan,17,18,1806997.00
+2024,8,shopee,jawa timur,kota surabaya,28,30,1806983.00
+2024,5,shopee,banten,kota tangerang selatan,14,15,1804321.00
+2024,5,shopee,dki jakarta,kota jakarta timur,20,21,1799243.00
+2024,10,tiktok,jawa tengah,kabupaten sukoharjo,15,15,1796119.00
+2024,12,tiktok,jawa timur,kota surabaya,19,19,1791874.00
+2024,12,tiktok,kalimantan selatan,kota banjarmasin,17,18,1785888.00
+2024,9,tiktok,bali,kabupaten gianyar,15,17,1767332.00
+2024,5,shopee,jawa barat,kota bekasi,25,31,1766976.00
+2024,7,shopee,jawa barat,kota bogor,22,25,1765325.00
+2024,11,tiktok,bali,kabupaten buleleng,16,19,1756352.00
+2024,7,tiktok,jawa tengah,kabupaten brebes,12,12,1753714.00
+2024,12,tiktok,jawa barat,kota bekasi,15,18,1743911.00
+2024,12,tiktok,sulawesi selatan,kota makassar,16,17,1740165.00
+2024,12,tiktok,jawa barat,kabupaten cianjur,16,16,1712421.00
+2024,11,tiktok,jawa barat,kota bekasi,15,15,1710459.00
+2024,5,shopee,jawa barat,kabupaten karawang,18,19,1708453.00
+2024,12,tiktok,banten,kabupaten tangerang,15,17,1703194.00
+2024,5,shopee,dki jakarta,kota jakarta selatan,19,21,1697174.00
+2024,12,tiktok,jawa barat,kabupaten bandung barat,10,13,1696969.00
+2024,8,tiktok,jawa tengah,kota semarang,17,17,1694381.00
+2024,10,tiktok,banten,kabupaten tangerang,15,15,1691526.00
+2024,7,tiktok,sumatera utara,kota medan,14,14,1690366.00
+2024,4,shopee,jawa barat,kabupaten bogor,13,16,1688688.00
+2024,12,shopee,dki jakarta,kota jakarta pusat,19,19,1688507.00
+2024,11,tiktok,banten,kota tangerang selatan,15,16,1682229.00
+2024,8,tiktok,kalimantan selatan,kota banjarbaru,13,13,1679517.00
+2024,11,tiktok,jawa barat,kota bogor,15,15,1679327.00
+2024,6,shopee,jawa barat,kota bogor,20,21,1677428.00
+2024,11,tiktok,jawa barat,kabupaten bandung,13,16,1669770.00
+2024,11,shopee,banten,kota tangerang,22,24,1657929.00
+2024,7,tiktok,jawa tengah,kabupaten tegal,14,15,1656461.00
+2024,12,tiktok,jawa tengah,kabupaten tegal,16,17,1646846.00
+2024,10,tiktok,jawa timur,kabupaten sumenep,15,16,1638836.00
+2024,11,tiktok,jawa timur,kabupaten banyuwangi,9,11,1629462.00
+2024,11,tiktok,jawa tengah,kabupaten tegal,14,15,1619166.00
+2024,9,tiktok,jawa barat,kota bekasi,15,15,1618145.00
+2024,12,shopee,jawa tengah,kabupaten klaten,12,12,1615671.00
+2024,10,tiktok,kalimantan selatan,kabupaten banjar,15,16,1605280.00
+2024,6,shopee,jawa timur,kabupaten kediri,11,14,1603525.00
+2024,8,tiktok,bali,kabupaten tabanan,15,15,1590157.00
+2024,11,tiktok,bali,kabupaten gianyar,13,13,1585755.00
+2024,6,tiktok,jawa barat,kabupaten bandung,9,9,1571226.00
+2024,11,tiktok,jawa barat,kabupaten bekasi,14,14,1562393.00
+2024,8,tiktok,bali,kabupaten gianyar,13,13,1551149.00
+2024,10,shopee,banten,kota tangerang selatan,18,19,1546681.00
+2024,8,tiktok,jawa barat,kabupaten cianjur,14,15,1545192.00
+2024,9,tiktok,bali,kabupaten jembrana,13,14,1528712.00
+2024,9,tiktok,jawa tengah,kabupaten kendal,15,16,1523055.00
+2024,6,tiktok,bali,kota denpasar,12,13,1523040.00
+2024,11,tiktok,jawa timur,kabupaten pamekasan,13,14,1514803.00
+2024,7,shopee,jawa timur,kabupaten sidoarjo,16,17,1507642.00
+2024,9,shopee,jawa timur,kabupaten jombang,18,22,1503937.00
+2024,9,tiktok,jawa tengah,kota semarang,16,16,1502765.00
+2024,7,tiktok,banten,kota cilegon,11,12,1502638.00
+2024,12,tiktok,dki jakarta,kota jakarta selatan,14,16,1502113.00
+2024,9,shopee,jawa barat,kota bogor,17,20,1497544.00
+2024,6,shopee,jawa timur,kota surabaya,17,17,1495700.00
+2024,7,shopee,jawa barat,kabupaten sukabumi,19,19,1495318.00
+2024,11,tiktok,dki jakarta,kota jakarta selatan,12,12,1490503.00
+2024,9,shopee,dki jakarta,kota jakarta pusat,20,21,1486366.00
+2024,9,tiktok,kalimantan selatan,kabupaten banjar,8,13,1477263.00
+2024,8,tiktok,kepulauan riau,kota batam,13,13,1473906.00
+2024,8,tiktok,jawa barat,kabupaten karawang,14,14,1472425.00
+2024,12,shopee,kepulauan riau,kota batam,10,11,1471373.00
+2024,11,tiktok,jawa timur,kabupaten kediri,13,15,1466393.00
+2024,11,tiktok,dki jakarta,kota jakarta pusat,11,14,1464431.00
+2024,9,shopee,jawa timur,kota surabaya,8,10,1463489.00
+2024,9,tiktok,jawa tengah,kabupaten kebumen,10,11,1462896.00
+2024,6,tiktok,nusa tenggara barat (ntb),kota mataram,12,12,1458854.00
+2024,11,tiktok,jawa barat,kota depok,12,13,1456465.00
+2024,9,tiktok,di yogyakarta,kabupaten gunung kidul,9,9,1452419.00
+2024,12,shopee,jawa tengah,kota semarang,17,17,1450746.00
+2024,10,tiktok,bali,kabupaten gianyar,14,14,1443206.00
+2024,8,tiktok,jawa barat,kabupaten indramayu,13,15,1435678.00
+2024,5,shopee,banten,kota tangerang,18,21,1429848.00
+2024,10,shopee,dki jakarta,kota jakarta pusat,17,18,1423701.00
+2024,10,tiktok,banten,kota cilegon,8,10,1421378.00
+2024,11,tiktok,jawa tengah,kabupaten sukoharjo,11,12,1418527.00
+2024,9,tiktok,dki jakarta,kota jakarta pusat,12,14,1415423.00
+2024,6,shopee,bali,kabupaten badung,3,3,1415107.00
+2024,10,shopee,jawa timur,kota surabaya,12,14,1380053.00
+2024,10,tiktok,bali,kabupaten tabanan,13,14,1377885.00
+2024,8,shopee,jawa tengah,kabupaten cilacap,13,14,1374758.00
+2024,8,tiktok,banten,kabupaten tangerang,12,13,1374071.00
+2024,9,shopee,sumatera selatan,kabupaten ogan komering ilir,4,4,1371912.00
+2024,12,tiktok,dki jakarta,kota jakarta utara,14,14,1366643.00
+2024,9,tiktok,jawa timur,kabupaten sumenep,11,14,1366260.00
+2024,11,tiktok,jawa tengah,kabupaten cilacap,8,10,1365783.00
+2024,12,tiktok,jawa tengah,kabupaten brebes,11,11,1364362.00
+2024,6,shopee,jawa tengah,kabupaten cilacap,17,17,1363045.00
+2024,6,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,8,8,1362680.00
+2024,9,shopee,jawa tengah,kabupaten cilacap,15,17,1360346.00
+2024,9,tiktok,jawa barat,kabupaten karawang,10,12,1358865.00
+2024,11,tiktok,banten,kabupaten tangerang,12,13,1357061.00
+2024,9,tiktok,bali,kabupaten klungkung,9,9,1355452.00
+2024,12,tiktok,sulawesi selatan,kabupaten maros,2,3,1355113.00
+2024,9,tiktok,jawa barat,kabupaten indramayu,14,14,1348488.00
+2024,12,tiktok,banten,kota tangerang selatan,13,13,1346160.00
+2024,9,shopee,jawa tengah,kota semarang,13,15,1342734.00
+2024,11,tiktok,jawa timur,kota malang,11,14,1341438.00
+2024,7,tiktok,jawa barat,kabupaten bekasi,14,14,1335829.00
+2024,7,shopee,jawa tengah,kota semarang,15,15,1333655.00
+2024,7,shopee,jawa tengah,kabupaten banyumas,13,14,1323826.00
+2024,7,tiktok,banten,kabupaten serang,11,13,1321080.00
+2024,9,shopee,jawa barat,kabupaten bandung,14,14,1317928.00
+2024,11,tiktok,jawa tengah,kabupaten grobogan,6,9,1317100.00
+2024,11,shopee,dki jakarta,kota jakarta pusat,15,16,1310003.00
+2024,11,tiktok,jawa timur,kabupaten sumenep,11,12,1309381.00
+2024,10,tiktok,jawa tengah,kabupaten tegal,12,13,1299564.00
+2024,6,tiktok,jawa timur,kota surabaya,10,11,1293496.00
+2024,7,tiktok,jawa timur,kabupaten bangkalan,10,10,1291689.00
+2024,9,tiktok,jawa barat,kabupaten cirebon,12,12,1288874.00
+2024,7,tiktok,jawa barat,kabupaten cianjur,12,12,1286607.00
+2024,8,tiktok,jawa tengah,kabupaten kebumen,9,10,1281845.00
+2024,5,shopee,jawa barat,kota depok,13,14,1274433.00
+2024,11,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,14,14,1271526.00
+2024,7,shopee,jawa timur,kabupaten mojokerto,11,12,1266112.00
+2024,9,tiktok,jawa tengah,kabupaten brebes,9,9,1265548.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,11,11,1263005.00
+2024,10,tiktok,riau,kabupaten kampar,8,8,1254377.00
+2024,9,tiktok,jawa tengah,kabupaten karanganyar,6,7,1253063.00
+2024,8,tiktok,jawa barat,kabupaten cirebon,10,12,1250146.00
+2024,8,tiktok,banten,kota cilegon,10,11,1249597.00
+2024,4,shopee,dki jakarta,kota jakarta selatan,16,17,1246278.00
+2024,9,tiktok,sumatera utara,kota medan,12,13,1242955.00
+2024,10,tiktok,jawa barat,kabupaten garut,10,11,1242436.00
+2024,8,tiktok,bali,kabupaten buleleng,12,12,1240321.00
+2024,8,shopee,jawa tengah,kabupaten semarang,9,11,1238764.00
+2024,10,tiktok,jawa tengah,kabupaten banyumas,12,12,1237375.00
+2024,7,shopee,jawa tengah,kabupaten magelang,15,16,1235985.00
+2024,9,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,9,10,1232121.00
+2024,12,shopee,jawa barat,kota bandung,16,16,1231511.00
+2024,11,shopee,jawa barat,kota bogor,15,17,1226950.00
+2024,8,tiktok,jawa timur,kabupaten pamekasan,10,11,1224011.00
+2024,8,shopee,jawa tengah,kabupaten brebes,12,15,1222358.00
+2024,6,tiktok,jawa barat,kota bandung,9,9,1220393.00
+2024,8,shopee,jawa barat,kota bogor,15,18,1219256.00
+2024,8,shopee,lampung,kota bandar lampung,10,13,1214974.00
+2024,7,tiktok,dki jakarta,kota jakarta barat,12,12,1212921.00
+2024,7,tiktok,jawa barat,kabupaten bandung barat,11,11,1210506.00
+2024,7,tiktok,banten,kota tangerang selatan,12,12,1207129.00
+2024,12,shopee,jawa tengah,kabupaten banyumas,14,17,1205977.00
+2024,11,tiktok,dki jakarta,kota jakarta barat,12,13,1204919.00
+2024,9,tiktok,jawa barat,kota tasikmalaya,9,9,1204288.00
+2024,6,shopee,jawa tengah,kabupaten brebes,14,15,1203415.00
+2024,12,shopee,jawa tengah,kabupaten tegal,14,17,1202305.00
+2024,11,tiktok,jawa barat,kabupaten cianjur,9,11,1199518.00
+2024,9,shopee,kalimantan timur,kota balikpapan,9,9,1196857.00
+2024,8,tiktok,jawa tengah,kabupaten magelang,9,10,1194606.00
+2024,11,tiktok,jawa tengah,kabupaten banyumas,8,9,1194064.00
+2024,5,shopee,jawa barat,kota bogor,11,13,1189532.00
+2024,10,tiktok,jawa timur,kabupaten pamekasan,11,12,1186338.00
+2024,6,tiktok,,,1,6,1185920.00
+2024,4,shopee,jawa barat,kabupaten karawang,14,14,1185390.00
+2024,7,tiktok,di yogyakarta,kabupaten bantul,10,11,1184151.00
+2024,9,tiktok,di yogyakarta,kota yogyakarta,13,13,1177600.00
+2024,9,tiktok,lampung,kabupaten lampung timur,10,12,1168199.00
+2024,4,shopee,jawa barat,kabupaten bekasi,10,11,1166378.00
+2024,5,tiktok,jawa timur,kabupaten sidoarjo,3,3,1166204.00
+2024,10,tiktok,kepulauan riau,kota batam,9,11,1162563.00
+2024,5,shopee,banten,kabupaten tangerang,13,15,1162356.00
+2024,6,tiktok,jawa timur,kabupaten kediri,6,8,1161937.00
+2024,7,tiktok,dki jakarta,kota jakarta pusat,11,12,1158388.00
+2024,9,tiktok,kepulauan riau,kota batam,9,11,1153732.00
+2024,6,shopee,jawa barat,kabupaten bandung,11,13,1148359.00
+2024,12,tiktok,dki jakarta,kota jakarta pusat,10,10,1147703.00
+2024,12,tiktok,jawa timur,kabupaten sidoarjo,12,12,1138607.00
+2024,8,shopee,jawa timur,kabupaten kediri,10,10,1136470.00
+2024,9,shopee,jawa tengah,kabupaten sukoharjo,11,11,1130223.00
+2024,10,tiktok,jawa tengah,kabupaten brebes,8,10,1129543.00
+2024,11,tiktok,bangka belitung,kabupaten belitung,8,10,1121710.00
+2024,7,shopee,jawa tengah,kabupaten tegal,13,14,1119087.00
+2024,6,tiktok,bali,kabupaten badung,7,9,1118365.00
+2024,12,tiktok,jawa timur,kabupaten banyuwangi,10,12,1117875.00
+2024,10,tiktok,jawa tengah,kabupaten cilacap,11,12,1115840.00
+2024,9,tiktok,nusa tenggara barat (ntb),kabupaten lombok utara,9,11,1115731.00
+2024,12,shopee,jawa timur,kabupaten pasuruan,10,10,1114062.00
+2024,6,shopee,jawa tengah,kabupaten semarang,11,12,1109772.00
+2024,4,shopee,jawa barat,kota bekasi,10,10,1109745.00
+2024,8,shopee,jawa timur,kabupaten mojokerto,13,17,1097072.00
+2024,9,shopee,jawa timur,kabupaten sidoarjo,12,12,1096475.00
+2024,12,tiktok,jawa barat,kabupaten cirebon,10,10,1096453.00
+2024,8,tiktok,jawa tengah,kabupaten pemalang,9,10,1094726.00
+2024,11,shopee,jawa tengah,kabupaten purworejo,4,4,1088042.00
+2024,12,shopee,jawa barat,kabupaten sukabumi,12,14,1087309.00
+2024,11,tiktok,kalimantan selatan,kabupaten banjar,5,5,1084593.00
+2024,7,shopee,sumatera selatan,kota palembang,11,14,1081976.00
+2024,12,tiktok,bali,kabupaten jembrana,8,8,1077749.00
+2024,4,shopee,dki jakarta,kota jakarta timur,15,15,1075860.00
+2024,12,tiktok,di yogyakarta,kabupaten bantul,11,11,1073519.00
+2024,6,shopee,jawa tengah,kabupaten kudus,6,6,1069893.00
+2024,7,tiktok,jawa barat,kabupaten karawang,8,9,1068646.00
+2024,9,tiktok,jawa tengah,kabupaten cilacap,11,12,1068558.00
+2024,9,shopee,jawa tengah,kabupaten boyolali,10,12,1068162.00
+2024,8,tiktok,jawa barat,kota cimahi,9,10,1066666.00
+2024,11,tiktok,jawa timur,kabupaten bangkalan,9,9,1064930.00
+2024,8,tiktok,jawa barat,kabupaten bandung barat,9,9,1063919.00
+2024,6,tiktok,jawa barat,kota bekasi,9,9,1061752.00
+2024,10,tiktok,jawa tengah,kabupaten temanggung,7,8,1059015.00
+2024,8,shopee,di yogyakarta,kabupaten sleman,12,12,1058073.00
+2024,5,tiktok,dki jakarta,kota jakarta timur,6,7,1055169.00
+2024,8,tiktok,banten,kabupaten serang,8,10,1053083.00
+2024,10,tiktok,jawa timur,kabupaten malang,10,10,1050814.00
+2024,12,shopee,dki jakarta,kota jakarta utara,13,15,1047289.00
+2024,6,shopee,jawa barat,kabupaten sukabumi,11,14,1047119.00
+2024,12,shopee,jawa timur,kabupaten kediri,13,16,1046408.00
+2024,12,shopee,kalimantan timur,kabupaten kutai kartanegara,2,3,1044159.00
+2024,6,shopee,jawa timur,kabupaten sidoarjo,11,11,1043901.00
+2024,7,tiktok,banten,kota serang,7,7,1041891.00
+2024,6,shopee,kepulauan riau,kota tanjung pinang,3,3,1040385.00
+2024,10,tiktok,jawa timur,kabupaten bangkalan,10,10,1040143.00
+2024,12,tiktok,jawa timur,kabupaten sumenep,10,12,1038060.00
+2024,6,tiktok,di yogyakarta,kabupaten sleman,6,7,1035604.00
+2024,7,tiktok,dki jakarta,kota jakarta utara,6,7,1035426.00
+2024,9,tiktok,jawa tengah,kota surakarta (solo),9,10,1034037.00
+2024,8,tiktok,jawa barat,kabupaten purwakarta,7,7,1030934.00
+2024,9,shopee,jawa barat,kabupaten sukabumi,12,14,1030347.00
+2024,9,tiktok,sumatera selatan,kota palembang,9,9,1029953.00
+2024,10,tiktok,jawa barat,kabupaten cirebon,10,10,1029153.00
+2024,6,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,6,8,1028934.00
+2024,5,shopee,dki jakarta,kota jakarta barat,14,14,1028492.00
+2024,10,tiktok,jawa timur,kabupaten blitar,2,2,1027503.00
+2024,10,shopee,jawa barat,kota bandung,10,11,1026772.00
+2024,12,tiktok,banten,kabupaten serang,9,9,1026107.00
+2024,10,shopee,jawa timur,kabupaten blitar,14,14,1024724.00
+2024,7,shopee,jawa barat,kabupaten bandung,10,14,1020842.00
+2024,9,tiktok,jawa barat,kota bogor,7,8,1019710.00
+2024,11,tiktok,bali,kabupaten tabanan,11,11,1018637.00
+2024,6,tiktok,jawa barat,kabupaten bekasi,8,8,1018245.00
+2024,9,tiktok,kalimantan timur,kota samarinda,4,5,1016600.00
+2024,9,tiktok,jawa tengah,kabupaten magelang,7,7,1012280.00
+2024,12,tiktok,dki jakarta,kota jakarta barat,9,10,1008966.00
+2024,9,shopee,lampung,kabupaten lampung tengah,12,14,1008385.00
+2024,11,shopee,jawa barat,kota bandung,10,12,1006936.00
+2024,11,shopee,jawa tengah,kabupaten cilacap,11,11,1006872.00
+2024,8,shopee,kepulauan riau,kota batam,10,11,1004099.00
+2024,12,tiktok,jawa timur,kabupaten bangkalan,10,10,1001070.00
+2024,6,tiktok,sulawesi selatan,kota makassar,8,9,1000599.00
+2024,4,shopee,banten,kota tangerang selatan,12,14,995186.00
+2024,8,tiktok,jawa tengah,kabupaten demak,8,9,993455.00
+2024,12,tiktok,jawa timur,kota malang,11,11,990761.00
+2024,8,shopee,sumatera utara,kabupaten deli serdang,8,8,989300.00
+2024,8,tiktok,jawa tengah,kota surakarta (solo),9,9,988540.00
+2024,11,shopee,jawa tengah,kota semarang,12,13,987834.00
+2024,12,shopee,kalimantan barat,kabupaten ketapang,2,2,987610.00
+2024,8,shopee,jawa barat,kota bandung,10,12,987163.00
+2024,11,tiktok,jawa tengah,kota tegal,9,9,985085.00
+2024,12,shopee,lampung,kabupaten lampung tengah,11,11,984519.00
+2024,9,shopee,di yogyakarta,kabupaten sleman,10,11,982437.00
+2024,10,tiktok,lampung,kota bandar lampung,8,9,980981.00
+2024,12,tiktok,jawa barat,kota depok,10,10,980045.00
+2024,10,tiktok,jawa tengah,kabupaten kudus,9,9,976325.00
+2024,11,shopee,jawa tengah,kabupaten pekalongan,13,13,971320.00
+2024,7,tiktok,di yogyakarta,kota yogyakarta,9,9,970449.00
+2024,12,shopee,jawa tengah,kabupaten cilacap,13,15,966859.00
+2024,4,shopee,dki jakarta,kota jakarta pusat,10,11,966467.00
+2024,9,tiktok,jawa timur,kabupaten bangkalan,10,10,965669.00
+2024,10,tiktok,jawa barat,kota bogor,9,10,957410.00
+2024,5,shopee,dki jakarta,kota jakarta utara,13,14,956123.00
+2024,11,shopee,jawa timur,kabupaten sidoarjo,10,12,953359.00
+2024,8,tiktok,di yogyakarta,kabupaten gunung kidul,8,9,952039.00
+2024,10,tiktok,jawa barat,kota cimahi,8,9,950824.00
+2024,10,tiktok,jawa timur,kabupaten mojokerto,9,11,944115.00
+2024,12,shopee,sulawesi selatan,kabupaten wajo,1,2,943350.00
+2024,10,shopee,jawa timur,kabupaten jombang,10,12,933662.00
+2024,6,shopee,banten,kabupaten serang,9,11,933001.00
+2024,9,shopee,jawa tengah,kabupaten pekalongan,13,15,932051.00
+2024,4,tiktok,banten,kota tangerang,1,1,931000.00
+2024,7,tiktok,jawa tengah,kota surakarta (solo),9,9,930360.00
+2024,6,shopee,jawa tengah,kabupaten klaten,10,10,927400.00
+2024,6,shopee,di yogyakarta,kabupaten sleman,8,8,925762.00
+2024,11,tiktok,jawa barat,kabupaten indramayu,8,8,922324.00
+2024,10,tiktok,jawa timur,kabupaten ngawi,8,9,918585.00
+2024,11,tiktok,sumatera utara,kabupaten deli serdang,10,10,915704.00
+2024,11,shopee,jawa timur,kota surabaya,13,17,914820.00
+2024,10,shopee,jawa tengah,kabupaten temanggung,10,11,914386.00
+2024,10,tiktok,jawa tengah,kabupaten pemalang,9,9,914262.00
+2024,9,tiktok,jawa barat,kota cimahi,9,9,914215.00
+2024,5,shopee,dki jakarta,kota jakarta pusat,11,11,914054.00
+2024,10,tiktok,lampung,kabupaten lampung tengah,10,10,913021.00
+2024,10,shopee,jawa timur,kabupaten malang,9,9,912585.00
+2024,9,tiktok,jawa barat,kabupaten bandung barat,10,10,911151.00
+2024,11,shopee,jawa tengah,kabupaten magelang,8,12,910750.00
+2024,11,tiktok,banten,kota cilegon,9,9,910303.00
+2024,7,tiktok,jawa timur,kabupaten sumenep,8,8,908940.00
+2024,9,tiktok,jawa barat,kabupaten tasikmalaya,4,4,908237.00
+2024,8,tiktok,lampung,kabupaten lampung tengah,6,6,908162.00
+2024,8,shopee,jawa timur,kabupaten jombang,13,13,907915.00
+2024,10,shopee,jawa barat,kabupaten bandung,9,9,907495.00
+2024,7,tiktok,jawa barat,kabupaten subang,6,7,902749.00
+2024,9,shopee,lampung,kabupaten lampung timur,10,10,902286.00
+2024,8,tiktok,kalimantan selatan,kota banjarmasin,8,12,899491.00
+2024,12,tiktok,jawa barat,kabupaten garut,10,10,897834.00
+2024,5,tiktok,banten,kota tangerang,3,3,896150.00
+2024,11,tiktok,jawa barat,kabupaten karawang,8,9,894881.00
+2024,12,tiktok,bali,kabupaten bangli,6,8,894456.00
+2024,10,tiktok,jawa tengah,kabupaten klaten,9,9,892252.00
+2024,10,tiktok,jawa timur,kabupaten kediri,9,9,891504.00
+2024,12,shopee,jawa timur,kabupaten lamongan,15,17,891397.00
+2024,6,shopee,jawa timur,kabupaten mojokerto,7,7,884516.00
+2024,10,shopee,jawa tengah,kabupaten magelang,10,10,883193.00
+2024,12,tiktok,jawa barat,kota bogor,8,8,881639.00
+2024,9,shopee,jawa timur,kabupaten malang,10,11,872131.00
+2024,8,tiktok,jawa timur,kabupaten bangkalan,8,8,872104.00
+2024,6,shopee,jawa tengah,kabupaten sukoharjo,9,9,871905.00
+2024,11,tiktok,banten,kota serang,7,8,870828.00
+2024,9,tiktok,jawa tengah,kabupaten pemalang,8,9,868707.00
+2024,12,shopee,jawa tengah,kabupaten brebes,11,12,865628.00
+2024,12,tiktok,jawa tengah,kabupaten kendal,8,9,865543.00
+2024,10,shopee,jawa barat,kota bogor,11,12,865387.00
+2024,8,tiktok,jawa barat,kabupaten sukabumi,8,8,864670.00
+2024,10,tiktok,jawa tengah,kabupaten magelang,9,9,863798.00
+2024,12,tiktok,sumatera selatan,kota palembang,8,9,863287.00
+2024,10,tiktok,jawa barat,kabupaten karawang,9,10,862906.00
+2024,7,tiktok,jawa barat,kota bogor,7,7,862550.00
+2024,9,shopee,jawa timur,kabupaten pasuruan,12,14,862150.00
+2024,6,tiktok,jawa barat,kabupaten cianjur,7,7,861650.00
+2024,7,tiktok,bali,kabupaten buleleng,7,10,860638.00
+2024,8,tiktok,jawa tengah,kota tegal,7,8,853334.00
+2024,12,tiktok,kalimantan barat,kota pontianak,4,6,852988.00
+2024,6,shopee,jawa timur,kabupaten malang,9,10,851717.00
+2024,8,tiktok,jawa barat,kabupaten subang,7,7,850850.00
+2024,7,shopee,kepulauan riau,kota batam,8,9,848982.00
+2024,10,tiktok,sulawesi utara,kota manado,6,6,848336.00
+2024,10,shopee,jawa tengah,kabupaten klaten,9,9,847865.00
+2024,8,tiktok,jawa timur,kabupaten jember,5,6,847495.00
+2024,7,shopee,jawa tengah,kota magelang,5,5,846656.00
+2024,12,shopee,jawa tengah,kabupaten purbalingga,10,10,845100.00
+2024,6,shopee,bali,kota denpasar,6,7,845073.00
+2024,7,tiktok,jawa barat,kabupaten cirebon,8,8,844923.00
+2024,12,shopee,jawa barat,kabupaten bandung,11,13,844515.00
+2024,8,tiktok,jawa timur,kabupaten gresik,7,9,843616.00
+2024,9,tiktok,jawa timur,kabupaten sampang,8,9,843290.00
+2024,9,tiktok,jawa barat,kabupaten kuningan,8,8,842924.00
+2024,9,shopee,jawa timur,kabupaten blitar,10,10,842412.00
+2024,11,shopee,jawa timur,kabupaten malang,9,9,839613.00
+2024,10,shopee,jawa tengah,kabupaten cilacap,7,8,838597.00
+2024,9,tiktok,sulawesi utara,kota manado,8,8,837004.00
+2024,9,tiktok,lampung,kota bandar lampung,7,8,834912.00
+2024,9,tiktok,sulawesi selatan,kabupaten maros,2,4,833828.00
+2024,12,tiktok,banten,kota cilegon,9,9,833201.00
+2024,8,tiktok,bali,kabupaten bangli,8,8,832505.00
+2024,10,shopee,jawa timur,kabupaten sidoarjo,11,12,830048.00
+2024,7,tiktok,kalimantan selatan,kabupaten banjar,4,5,827900.00
+2024,9,tiktok,jawa timur,kabupaten jombang,8,8,826759.00
+2024,9,shopee,jawa tengah,kabupaten klaten,10,10,826185.00
+2024,10,shopee,jawa tengah,kabupaten kudus,10,13,825203.00
+2024,11,tiktok,di yogyakarta,kota yogyakarta,6,6,824741.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa barat,5,7,824463.00
+2024,7,tiktok,jawa tengah,kabupaten sukoharjo,5,5,823800.00
+2024,12,tiktok,di yogyakarta,kota yogyakarta,8,8,819617.00
+2024,11,tiktok,sulawesi tenggara,kota kendari,8,9,818442.00
+2024,8,tiktok,jawa tengah,kabupaten kendal,7,8,815242.00
+2024,7,tiktok,jawa tengah,kabupaten sragen,4,4,814510.00
+2024,8,tiktok,jawa timur,kabupaten mojokerto,8,8,814044.00
+2024,9,tiktok,kalimantan selatan,kabupaten kota baru,5,6,809548.00
+2024,9,tiktok,dki jakarta,kota jakarta utara,7,7,807675.00
+2024,7,tiktok,kepulauan riau,kota batam,8,8,805240.00
+2024,12,tiktok,jawa tengah,kabupaten karanganyar,4,5,804880.00
+2024,11,shopee,jawa tengah,kabupaten banyumas,11,13,803168.00
+2024,7,shopee,jawa timur,kabupaten malang,9,11,803036.00
+2024,9,shopee,jawa tengah,kabupaten tegal,9,13,800015.00
+2024,12,tiktok,jawa barat,kabupaten subang,8,8,798862.00
+2024,7,shopee,jawa barat,kabupaten cianjur,8,9,798202.00
+2024,7,tiktok,jawa timur,kota malang,4,4,797897.00
+2024,8,tiktok,jawa timur,kabupaten sampang,8,8,797272.00
+2024,8,tiktok,jawa timur,kabupaten pasuruan,7,7,796313.00
+2024,8,tiktok,jawa timur,kota malang,7,8,794185.00
+2024,9,tiktok,jawa timur,kabupaten malang,7,7,793338.00
+2024,7,tiktok,jawa tengah,kabupaten demak,8,8,791381.00
+2024,7,shopee,jawa tengah,kabupaten boyolali,11,12,790010.00
+2024,11,shopee,jawa timur,kabupaten pasuruan,7,8,788650.00
+2024,8,tiktok,sumatera utara,kabupaten deli serdang,8,8,787848.00
+2024,9,shopee,jawa tengah,kabupaten wonosobo,4,5,783775.00
+2024,10,tiktok,banten,kabupaten serang,7,7,782404.00
+2024,9,tiktok,jawa timur,kabupaten lumajang,8,8,779617.00
+2024,8,tiktok,bangka belitung,kabupaten belitung,4,4,779340.00
+2024,11,shopee,sulawesi utara,kabupaten bolaang mongondow (bolmong),4,5,778635.00
+2024,9,shopee,jawa barat,kota bandung,10,10,778615.00
+2024,7,tiktok,jawa barat,kabupaten kuningan,5,6,775140.00
+2024,7,tiktok,jawa timur,kabupaten gresik,5,5,774287.00
+2024,6,tiktok,jawa barat,kabupaten karawang,4,4,773856.00
+2024,8,shopee,jawa tengah,kabupaten pati,2,2,771756.00
+2024,6,shopee,jawa timur,kabupaten lamongan,6,7,769842.00
+2024,12,shopee,jawa timur,kota malang,10,10,769596.00
+2024,6,shopee,sumatera selatan,kota palembang,8,9,768455.00
+2024,11,tiktok,jawa tengah,kota surakarta (solo),6,7,765791.00
+2024,11,shopee,jawa timur,kabupaten blitar,8,8,765131.00
+2024,11,tiktok,di yogyakarta,kabupaten bantul,7,7,764828.00
+2024,8,tiktok,jawa tengah,kabupaten temanggung,4,4,764419.00
+2024,9,tiktok,jawa barat,kabupaten sumedang,4,4,764231.00
+2024,10,tiktok,jawa timur,kabupaten pasuruan,7,7,764047.00
+2024,9,shopee,kepulauan riau,kota batam,6,7,762918.00
+2024,12,shopee,jawa tengah,kabupaten pekalongan,9,9,762785.00
+2024,8,tiktok,jawa tengah,kabupaten sukoharjo,6,7,762728.00
+2024,11,shopee,sumatera utara,kabupaten deli serdang,9,11,760190.00
+2024,7,shopee,jawa timur,kabupaten lamongan,8,11,759413.00
+2024,9,tiktok,sulawesi selatan,kabupaten luwu timur,6,6,758919.00
+2024,8,tiktok,jawa tengah,kabupaten cilacap,6,7,757692.00
+2024,11,shopee,jawa tengah,kabupaten sragen,8,8,755570.00
+2024,8,shopee,jawa timur,kabupaten sidoarjo,10,12,755349.00
+2024,8,tiktok,jawa timur,kabupaten malang,5,5,755241.00
+2024,10,shopee,jawa tengah,kota semarang,9,10,755199.00
+2024,8,shopee,lampung,kabupaten lampung tengah,7,9,754849.00
+2024,10,shopee,jawa timur,kabupaten kediri,8,9,754476.00
+2024,9,tiktok,gorontalo,kota gorontalo,4,6,754241.00
+2024,8,tiktok,dki jakarta,kota jakarta pusat,7,7,753621.00
+2024,11,tiktok,kepulauan riau,kota batam,7,7,751590.00
+2024,11,shopee,jawa tengah,kabupaten brebes,12,12,750978.00
+2024,11,tiktok,kalimantan selatan,kota banjarbaru,5,7,750741.00
+2024,9,shopee,jawa tengah,kabupaten banyumas,10,12,748613.00
+2024,9,shopee,jawa tengah,kabupaten kendal,9,10,748275.00
+2024,11,shopee,jawa tengah,kabupaten boyolali,7,8,747965.00
+2024,10,tiktok,sulawesi selatan,kabupaten gowa,8,9,747693.00
+2024,12,tiktok,kalimantan timur,kota balikpapan,7,9,747675.00
+2024,6,shopee,jawa tengah,kota semarang,10,12,746510.00
+2024,7,shopee,jawa tengah,kota surakarta (solo),10,11,746395.00
+2024,6,tiktok,dki jakarta,kota jakarta barat,6,6,745209.00
+2024,11,shopee,jawa barat,kabupaten cianjur,8,8,743305.00
+2024,8,tiktok,di yogyakarta,kota yogyakarta,7,7,742460.00
+2024,11,shopee,jawa timur,kabupaten tuban,5,6,741981.00
+2024,12,tiktok,bali,kabupaten gianyar,8,8,741844.00
+2024,9,tiktok,bali,kabupaten tabanan,7,8,740619.00
+2024,11,shopee,jawa barat,kabupaten sukabumi,10,10,740608.00
+2024,8,tiktok,jawa tengah,kabupaten brebes,5,7,739890.00
+2024,11,shopee,jawa timur,kabupaten lamongan,7,9,739044.00
+2024,6,shopee,sulawesi tengah,kabupaten banggai,4,4,738827.00
+2024,10,tiktok,jawa timur,kabupaten gresik,7,8,738755.00
+2024,7,tiktok,jawa tengah,kabupaten pekalongan,5,7,738629.00
+2024,12,shopee,jawa tengah,kabupaten kudus,8,10,737868.00
+2024,9,tiktok,jawa timur,kabupaten pasuruan,6,6,736099.00
+2024,11,tiktok,jawa barat,kabupaten cirebon,8,8,735922.00
+2024,7,tiktok,bali,kabupaten jembrana,6,6,735692.00
+2024,8,shopee,sumatera selatan,kota palembang,5,6,734927.00
+2024,6,shopee,jawa tengah,kabupaten boyolali,8,8,734409.00
+2024,12,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,7,8,730317.00
+2024,11,shopee,lampung,kota bandar lampung,8,8,729732.00
+2024,7,shopee,banten,kabupaten lebak,8,8,727062.00
+2024,7,shopee,jawa tengah,kabupaten pemalang,8,8,725489.00
+2024,8,tiktok,,,1,6,722881.00
+2024,7,tiktok,jawa barat,kabupaten garut,6,7,722372.00
+2024,8,tiktok,kalimantan timur,kota balikpapan,7,8,721351.00
+2024,9,shopee,nusa tenggara barat (ntb),kabupaten lombok utara,1,2,719105.00
+2024,10,tiktok,sulawesi selatan,kota palopo,3,3,718755.00
+2024,7,shopee,jawa timur,kabupaten gresik,9,10,715696.00
+2024,10,tiktok,jawa tengah,kota pekalongan,7,7,715185.00
+2024,12,tiktok,jawa barat,kota cirebon,7,7,714991.00
+2024,9,tiktok,jawa tengah,kabupaten sukoharjo,6,6,714080.00
+2024,9,shopee,jawa tengah,kabupaten brebes,12,12,712075.00
+2024,9,shopee,jawa tengah,kabupaten temanggung,7,7,711975.00
+2024,6,shopee,lampung,kota bandar lampung,11,12,711697.00
+2024,11,tiktok,jawa barat,kota tasikmalaya,6,7,709692.00
+2024,4,shopee,kepulauan riau,kota batam,5,5,709438.00
+2024,7,shopee,jawa barat,kota bandung,8,9,708841.00
+2024,7,shopee,lampung,kabupaten lampung tengah,9,13,707903.00
+2024,11,shopee,jambi,kota jambi,2,2,706414.00
+2024,9,tiktok,jawa tengah,kabupaten banyumas,7,7,703940.00
+2024,12,tiktok,jawa barat,kabupaten purwakarta,7,7,703737.00
+2024,10,tiktok,kalimantan barat,kota pontianak,6,6,702116.00
+2024,6,tiktok,kalimantan timur,kota balikpapan,6,6,699336.00
+2024,9,shopee,jawa tengah,kabupaten magelang,9,11,698155.00
+2024,9,shopee,lampung,kota bandar lampung,8,9,697226.00
+2024,10,tiktok,jawa barat,kota cirebon,6,6,696924.00
+2024,12,tiktok,kepulauan riau,kota batam,6,8,696380.00
+2024,8,tiktok,jawa timur,kabupaten banyuwangi,7,7,696110.00
+2024,12,shopee,jawa barat,kabupaten bandung barat,6,8,694141.00
+2024,8,shopee,jawa tengah,kabupaten banyumas,9,10,693304.00
+2024,10,tiktok,jawa tengah,kabupaten batang,7,7,691692.00
+2024,11,shopee,jawa tengah,kabupaten purbalingga,8,8,690695.00
+2024,7,shopee,di yogyakarta,kabupaten sleman,10,10,690570.00
+2024,11,shopee,jawa tengah,kabupaten tegal,7,7,690229.00
+2024,8,shopee,jawa tengah,kabupaten demak,6,7,688619.00
+2024,8,tiktok,jawa tengah,kabupaten boyolali,5,5,688391.00
+2024,10,tiktok,nusa tenggara timur (ntt),kota kupang,6,7,688146.00
+2024,11,tiktok,jawa barat,kabupaten garut,7,7,687294.00
+2024,10,shopee,kalimantan tengah,kabupaten kapuas,2,4,687286.00
+2024,12,shopee,sulawesi selatan,kota makassar,7,7,686494.00
+2024,6,tiktok,jawa barat,kabupaten bandung barat,5,5,686019.00
+2024,7,shopee,lampung,kota bandar lampung,6,6,686006.00
+2024,7,tiktok,bali,kabupaten klungkung,6,7,685877.00
+2024,7,shopee,jawa tengah,kabupaten kudus,8,8,685009.00
+2024,6,shopee,jawa timur,kabupaten jombang,7,7,684752.00
+2024,7,shopee,sulawesi selatan,kota makassar,7,7,683889.00
+2024,11,tiktok,jawa tengah,kabupaten purbalingga,7,7,683279.00
+2024,10,shopee,jawa timur,kabupaten mojokerto,5,5,681845.00
+2024,5,tiktok,jawa timur,kota surabaya,5,6,681732.00
+2024,11,shopee,banten,kabupaten serang,7,7,681274.00
+2024,10,tiktok,jawa barat,kabupaten sumedang,6,7,680050.00
+2024,7,shopee,sumatera utara,kota medan,7,7,679412.00
+2024,9,shopee,jawa tengah,kabupaten wonogiri,6,9,675474.00
+2024,7,tiktok,kalimantan selatan,kota banjarbaru,5,5,674952.00
+2024,6,shopee,kepulauan riau,kota batam,7,7,672184.00
+2024,12,shopee,jawa barat,kabupaten subang,7,7,671016.00
+2024,11,tiktok,jawa timur,kabupaten pasuruan,2,2,670255.00
+2024,5,shopee,jawa tengah,kota semarang,8,8,666273.00
+2024,9,tiktok,jawa timur,kabupaten kediri,5,5,662160.00
+2024,5,tiktok,nusa tenggara barat (ntb),kota mataram,6,6,662135.00
+2024,9,tiktok,jawa tengah,kabupaten demak,6,6,658909.00
+2024,7,tiktok,jawa barat,kabupaten sukabumi,6,6,658291.00
+2024,11,tiktok,jawa barat,kabupaten subang,7,7,657273.00
+2024,8,shopee,jawa tengah,kabupaten kendal,5,6,654907.00
+2024,6,tiktok,jawa timur,kabupaten bangkalan,5,5,654600.00
+2024,9,shopee,jawa barat,kabupaten cirebon,3,3,654150.00
+2024,11,tiktok,jawa barat,kabupaten sukabumi,5,5,653230.00
+2024,7,shopee,jawa tengah,kota tegal,8,9,653084.00
+2024,9,shopee,jawa tengah,kabupaten pemalang,8,10,652045.00
+2024,10,tiktok,jawa timur,kabupaten jember,6,6,651874.00
+2024,9,tiktok,sulawesi tengah,kota palu,6,6,651260.00
+2024,12,shopee,jawa tengah,kabupaten magelang,10,10,649013.00
+2024,11,tiktok,jawa tengah,kabupaten klaten,6,6,648559.00
+2024,6,shopee,jawa tengah,kabupaten banyumas,11,11,648151.00
+2024,4,shopee,jawa barat,kota depok,9,10,647386.00
+2024,12,shopee,jawa timur,kabupaten jombang,7,7,647371.00
+2024,7,shopee,jawa timur,kabupaten jombang,7,10,646399.00
+2024,9,shopee,jawa timur,kabupaten lamongan,8,10,645479.00
+2024,12,tiktok,jawa barat,kota tasikmalaya,7,7,645349.00
+2024,10,shopee,jawa tengah,kabupaten banyumas,9,9,645039.00
+2024,6,tiktok,sumatera utara,kota medan,4,4,645030.00
+2024,10,tiktok,jawa tengah,kabupaten demak,5,5,643314.00
+2024,6,tiktok,sulawesi utara,kota manado,3,4,641050.00
+2024,6,shopee,jawa tengah,kabupaten pemalang,7,7,640925.00
+2024,7,tiktok,kalimantan barat,kabupaten sambas,4,6,640911.00
+2024,9,shopee,jawa barat,kabupaten cianjur,8,8,640245.00
+2024,11,shopee,jawa tengah,kabupaten semarang,6,8,640201.00
+2024,12,tiktok,jawa tengah,kabupaten pemalang,6,7,639785.00
+2024,6,shopee,jawa timur,kabupaten nganjuk,10,12,639682.00
+2024,11,shopee,jawa timur,kabupaten jombang,6,7,638301.00
+2024,7,tiktok,sumatera utara,kabupaten deli serdang,4,4,637438.00
+2024,12,shopee,jawa tengah,kabupaten pati,6,7,636939.00
+2024,11,tiktok,jawa timur,kabupaten sampang,7,7,631424.00
+2024,5,shopee,jawa timur,kota surabaya,5,5,629810.00
+2024,11,shopee,banten,kabupaten pandeglang,5,6,629646.00
+2024,8,tiktok,nusa tenggara barat (ntb),kabupaten lombok utara,4,4,628822.00
+2024,11,tiktok,kalimantan timur,kota balikpapan,7,7,628289.00
+2024,8,tiktok,sulawesi selatan,kabupaten gowa,6,6,628202.00
+2024,10,shopee,jawa tengah,kota surakarta (solo),9,9,626962.00
+2024,6,shopee,jawa tengah,kabupaten tegal,8,8,626623.00
+2024,12,tiktok,jawa tengah,kota surakarta (solo),6,7,626288.00
+2024,12,tiktok,jawa tengah,kabupaten cilacap,6,6,626068.00
+2024,6,tiktok,jawa tengah,kabupaten tegal,5,5,622903.00
+2024,8,shopee,jawa tengah,kabupaten purworejo,3,3,622237.00
+2024,7,shopee,lampung,kabupaten lampung timur,7,7,621616.00
+2024,11,tiktok,sumatera selatan,kota palembang,6,6,621406.00
+2024,11,tiktok,bangka belitung,kabupaten bangka barat,3,3,621344.00
+2024,9,tiktok,lampung,kabupaten lampung tengah,6,6,620704.00
+2024,12,shopee,sumatera selatan,kabupaten muara enim,5,5,619157.00
+2024,6,shopee,jawa timur,kabupaten pasuruan,7,8,616880.00
+2024,12,tiktok,jawa barat,kota cimahi,6,6,616808.00
+2024,12,shopee,sumatera selatan,kabupaten ogan komering ulu timur,6,6,615976.00
+2024,8,tiktok,kalimantan selatan,kabupaten tanah laut,5,6,615618.00
+2024,6,tiktok,jawa barat,kabupaten bogor,5,5,615420.00
+2024,10,tiktok,riau,kota pekanbaru,7,7,613307.00
+2024,7,tiktok,di yogyakarta,kabupaten gunung kidul,6,6,613140.00
+2024,7,shopee,jawa barat,kabupaten subang,6,6,612607.00
+2024,9,tiktok,banten,kota cilegon,4,6,612461.00
+2024,9,tiktok,sulawesi selatan,kabupaten sidenreng rappang/rapang,4,5,611530.00
+2024,10,tiktok,jawa tengah,kabupaten kendal,7,7,611439.00
+2024,12,shopee,lampung,kota bandar lampung,6,7,611016.00
+2024,6,shopee,jawa barat,kota bandung,7,7,609738.00
+2024,6,shopee,jawa barat,kabupaten bandung barat,7,7,609425.00
+2024,10,shopee,banten,kabupaten serang,6,7,609243.00
+2024,11,shopee,di yogyakarta,kabupaten sleman,7,9,609178.00
+2024,7,tiktok,sulawesi tenggara,kota kendari,3,3,608462.00
+2024,10,tiktok,bali,kabupaten klungkung,6,6,607629.00
+2024,9,tiktok,jawa timur,kabupaten gresik,6,6,607091.00
+2024,4,shopee,banten,kabupaten tangerang,7,7,606991.00
+2024,9,tiktok,jawa barat,kabupaten sukabumi,4,6,605436.00
+2024,11,tiktok,bangka belitung,kabupaten bangka,3,3,604904.00
+2024,5,tiktok,jawa tengah,kabupaten pemalang,3,3,604033.00
+2024,9,tiktok,banten,kabupaten pandeglang,4,5,604028.00
+2024,12,tiktok,bali,kabupaten buleleng,6,6,602786.00
+2024,6,tiktok,jawa barat,kota depok,5,5,602211.00
+2024,7,tiktok,sulawesi utara,kota manado,5,5,600730.00
+2024,12,tiktok,jawa timur,kabupaten gresik,6,6,600440.00
+2024,11,shopee,jawa timur,kabupaten tulungagung,6,6,599824.00
+2024,8,shopee,jawa tengah,kota surakarta (solo),6,6,598295.00
+2024,9,shopee,kalimantan tengah,kabupaten kota waringin barat,5,5,597548.00
+2024,7,tiktok,bali,kabupaten tabanan,6,6,596623.00
+2024,10,tiktok,jawa tengah,kabupaten kebumen,5,5,596452.00
+2024,12,tiktok,riau,kota pekanbaru,4,4,596032.00
+2024,7,shopee,jawa tengah,kabupaten grobogan,6,6,596001.00
+2024,12,tiktok,kalimantan selatan,kabupaten tanah bumbu,6,6,595809.00
+2024,8,shopee,jawa tengah,kabupaten pekalongan,7,7,595077.00
+2024,11,shopee,jawa tengah,kabupaten klaten,9,10,593875.00
+2024,8,shopee,lampung,kabupaten lampung timur,7,7,593803.00
+2024,10,shopee,jawa timur,kabupaten lamongan,11,12,592556.00
+2024,7,shopee,jawa timur,kabupaten pasuruan,6,6,591559.00
+2024,7,tiktok,jawa tengah,kabupaten boyolali,3,6,590700.00
+2024,11,shopee,bangka belitung,kota pangkal pinang,5,5,588864.00
+2024,10,shopee,jawa barat,kabupaten sukabumi,7,8,588680.00
+2024,8,shopee,jawa barat,kabupaten cianjur,3,4,587581.00
+2024,7,shopee,sumatera selatan,kabupaten musi banyuasin,5,6,586020.00
+2024,10,shopee,jawa tengah,kabupaten pemalang,6,6,584610.00
+2024,5,tiktok,jawa barat,kabupaten bekasi,2,2,584500.00
+2024,9,shopee,kalimantan timur,kota bontang,1,1,580396.00
+2024,5,shopee,jawa timur,kabupaten blitar,5,6,580103.00
+2024,8,tiktok,sulawesi selatan,kabupaten sidenreng rappang/rapang,5,5,579212.00
+2024,7,shopee,jawa timur,kabupaten nganjuk,7,7,577966.00
+2024,6,tiktok,jawa tengah,kota surakarta (solo),5,5,577732.00
+2024,7,tiktok,jawa tengah,kabupaten klaten,5,6,576500.00
+2024,12,tiktok,jawa barat,kabupaten sumedang,6,6,575381.00
+2024,9,tiktok,jawa barat,kabupaten garut,6,6,574223.00
+2024,12,tiktok,kalimantan selatan,kabupaten tanah laut,3,5,571269.00
+2024,11,tiktok,riau,kabupaten kampar,5,5,571257.00
+2024,8,tiktok,kalimantan selatan,kabupaten banjar,5,5,570640.00
+2024,7,shopee,jawa tengah,kabupaten purbalingga,8,8,569901.00
+2024,8,shopee,jawa tengah,kabupaten kebumen,4,4,568963.00
+2024,8,shopee,jawa timur,kabupaten tulungagung,8,8,568246.00
+2024,8,shopee,di yogyakarta,kabupaten bantul,3,3,567610.00
+2024,11,tiktok,sumatera utara,kota medan,6,6,566988.00
+2024,7,shopee,jawa tengah,kabupaten demak,5,6,566929.00
+2024,11,tiktok,di yogyakarta,kabupaten gunung kidul,5,5,566838.00
+2024,7,shopee,jawa timur,kabupaten kediri,9,10,565021.00
+2024,6,tiktok,kalimantan selatan,kota banjarmasin,6,6,564934.00
+2024,12,shopee,kalimantan tengah,kabupaten kota waringin timur,4,6,563948.00
+2024,6,tiktok,bali,kabupaten gianyar,4,5,563752.00
+2024,10,tiktok,jawa timur,kabupaten jombang,6,6,562739.00
+2024,9,tiktok,kalimantan selatan,kota banjarbaru,4,5,561751.00
+2024,4,tiktok,nusa tenggara barat (ntb),kabupaten bima,1,2,561500.00
+2024,8,shopee,lampung,kabupaten tulang bawang,8,8,561252.00
+2024,12,shopee,jawa tengah,kabupaten wonosobo,6,7,560606.00
+2024,9,tiktok,jawa tengah,kabupaten semarang,4,5,558089.00
+2024,12,shopee,di yogyakarta,kabupaten sleman,8,8,557012.00
+2024,7,tiktok,jawa timur,kabupaten trenggalek,5,5,555795.00
+2024,6,shopee,kalimantan tengah,kabupaten kota waringin timur,4,4,554628.00
+2024,7,shopee,jawa tengah,kabupaten jepara,5,5,554098.00
+2024,12,tiktok,jawa timur,kabupaten lumajang,5,6,553576.00
+2024,7,tiktok,jawa tengah,kabupaten banyumas,5,5,553432.00
+2024,6,shopee,di yogyakarta,kabupaten bantul,7,7,552592.00
+2024,11,tiktok,jawa tengah,kabupaten batang,3,4,552100.00
+2024,7,shopee,jawa tengah,kabupaten pati,3,3,551890.00
+2024,8,shopee,jawa timur,kabupaten magetan,6,8,551393.00
+2024,6,shopee,jawa timur,kota malang,3,3,550645.00
+2024,10,tiktok,sulawesi tenggara,kota kendari,5,5,550099.00
+2024,10,shopee,banten,kota serang,6,7,548989.00
+2024,10,shopee,jawa timur,kota malang,5,5,548648.00
+2024,6,shopee,lampung,kabupaten lampung tengah,5,5,546544.00
+2024,12,shopee,jawa timur,kabupaten mojokerto,9,11,546292.00
+2024,7,tiktok,jawa barat,kota cimahi,5,5,545660.00
+2024,7,tiktok,bangka belitung,kabupaten belitung,5,5,544154.00
+2024,12,tiktok,nusa tenggara barat (ntb),kabupaten lombok utara,6,6,543831.00
+2024,6,shopee,jawa tengah,kabupaten jepara,6,8,543008.00
+2024,11,tiktok,bali,kabupaten jembrana,6,6,542900.00
+2024,6,tiktok,dki jakarta,kota jakarta selatan,5,5,542830.00
+2024,12,shopee,jawa barat,kabupaten indramayu,6,6,541290.00
+2024,7,tiktok,jawa timur,kota madiun,4,4,540474.00
+2024,12,shopee,jawa tengah,kabupaten kebumen,3,5,539796.00
+2024,11,shopee,jawa tengah,kabupaten sukoharjo,6,6,537904.00
+2024,12,tiktok,jawa barat,kabupaten karawang,5,6,537464.00
+2024,7,tiktok,jawa tengah,kabupaten magelang,5,5,536994.00
+2024,6,shopee,jawa timur,kabupaten blitar,7,7,536987.00
+2024,9,shopee,jawa tengah,kabupaten jepara,6,6,536302.00
+2024,12,tiktok,jawa timur,kabupaten pasuruan,2,2,535136.00
+2024,12,tiktok,riau,kabupaten bengkalis,4,6,534890.00
+2024,10,shopee,sumatera selatan,kota palembang,8,8,534542.00
+2024,7,tiktok,jawa barat,kota tasikmalaya,5,6,534366.00
+2024,9,shopee,jawa tengah,kabupaten grobogan,6,9,534202.00
+2024,12,tiktok,bali,kabupaten tabanan,5,5,534155.00
+2024,11,shopee,jawa tengah,kabupaten kudus,6,7,533728.00
+2024,11,shopee,kalimantan tengah,kabupaten kapuas,2,2,533415.00
+2024,6,shopee,jawa timur,kabupaten bojonegoro,5,5,533144.00
+2024,7,shopee,jawa tengah,kabupaten sukoharjo,6,6,532994.00
+2024,10,tiktok,jawa barat,kota tasikmalaya,6,6,532812.00
+2024,12,shopee,bangka belitung,kabupaten bangka,1,2,532806.00
+2024,8,tiktok,jawa tengah,kabupaten banjarnegara,6,6,532704.00
+2024,8,shopee,jawa timur,kabupaten blitar,8,8,532290.00
+2024,10,tiktok,bali,kabupaten karangasem,5,5,531851.00
+2024,5,tiktok,jawa tengah,kabupaten kebumen,4,5,530880.00
+2024,7,tiktok,jawa tengah,kabupaten banjarnegara,5,5,530698.00
+2024,6,shopee,banten,kota serang,5,5,530382.00
+2024,10,tiktok,jawa timur,kabupaten tuban,5,5,530239.00
+2024,7,tiktok,jawa timur,kabupaten banyuwangi,5,5,529750.00
+2024,5,shopee,kepulauan riau,kota batam,5,5,527985.00
+2024,5,shopee,jawa tengah,kabupaten banyumas,6,6,527734.00
+2024,9,tiktok,jawa tengah,kabupaten kudus,4,5,527719.00
+2024,11,tiktok,bangka belitung,kabupaten belitung timur,4,4,523998.00
+2024,11,shopee,banten,kabupaten lebak,7,7,523727.00
+2024,9,tiktok,kalimantan selatan,kabupaten tanah bumbu,2,2,523646.00
+2024,6,shopee,jawa tengah,kabupaten pekalongan,8,9,523291.00
+2024,9,tiktok,sulawesi tenggara,kota kendari,4,4,523003.00
+2024,7,shopee,jawa tengah,kabupaten temanggung,5,5,522228.00
+2024,11,shopee,kalimantan tengah,kabupaten kota waringin barat,3,5,522131.00
+2024,12,tiktok,jawa timur,kabupaten sampang,5,5,521583.00
+2024,8,shopee,sulawesi utara,kota manado,4,4,521355.00
+2024,6,tiktok,banten,kota tangerang selatan,5,5,519565.00
+2024,12,tiktok,jawa tengah,kabupaten magelang,6,6,518582.00
+2024,6,shopee,sumatera utara,kabupaten deli serdang,5,6,518569.00
+2024,7,shopee,jawa timur,kabupaten magetan,5,5,518523.00
+2024,12,tiktok,sulawesi tengah,kota palu,5,5,518279.00
+2024,10,tiktok,kalimantan selatan,kabupaten tanah laut,5,5,518079.00
+2024,6,tiktok,kalimantan selatan,kota banjarbaru,4,4,518040.00
+2024,6,tiktok,jawa tengah,kabupaten magelang,4,4,517520.00
+2024,5,shopee,jawa tengah,kabupaten cilacap,5,5,517019.00
+2024,12,shopee,jawa timur,kabupaten gresik,6,6,515899.00
+2024,12,shopee,jawa timur,kabupaten sidoarjo,7,8,515589.00
+2024,9,shopee,jawa tengah,kabupaten kudus,7,7,514491.00
+2024,8,tiktok,jawa tengah,kabupaten batang,5,5,514258.00
+2024,8,tiktok,kepulauan riau,kota tanjung pinang,4,5,513676.00
+2024,11,shopee,jawa barat,kabupaten bandung,7,7,513412.00
+2024,3,tiktok,banten,kota tangerang,2,2,513120.00
+2024,11,tiktok,jawa tengah,kabupaten kebumen,5,5,513024.00
+2024,12,shopee,jawa tengah,kota surakarta (solo),5,5,512877.00
+2024,10,shopee,jawa timur,kabupaten gresik,8,9,512804.00
+2024,10,shopee,jawa tengah,kabupaten tegal,7,8,512566.00
+2024,8,shopee,sumatera utara,kota medan,4,4,511682.00
+2024,12,shopee,jawa timur,kota kediri,5,6,511657.00
+2024,6,shopee,kalimantan timur,kota balikpapan,6,7,511216.00
+2024,10,shopee,lampung,kabupaten lampung timur,5,5,510426.00
+2024,9,tiktok,jawa tengah,kabupaten boyolali,5,6,508771.00
+2024,6,tiktok,banten,kabupaten tangerang,3,3,508383.00
+2024,5,shopee,jawa barat,kota sukabumi,2,2,508237.00
+2024,12,tiktok,jawa barat,kabupaten kuningan,3,5,507736.00
+2024,7,tiktok,kalimantan timur,kota samarinda,4,4,507600.00
+2024,9,tiktok,jawa timur,kabupaten jember,4,5,506587.00
+2024,11,tiktok,jawa tengah,kabupaten kendal,5,5,506550.00
+2024,11,shopee,jawa timur,kabupaten gresik,6,7,506350.00
+2024,12,shopee,sumatera utara,kabupaten deli serdang,5,5,506097.00
+2024,9,shopee,sumatera selatan,kota palembang,5,5,503753.00
+2024,5,shopee,jawa tengah,kabupaten pekalongan,3,3,503217.00
+2024,7,tiktok,sulawesi tengah,kota palu,4,4,502930.00
+2024,6,shopee,jawa timur,kabupaten madiun,5,5,502560.00
+2024,8,shopee,jawa timur,kabupaten gresik,7,7,502471.00
+2024,9,shopee,jawa timur,kabupaten kediri,8,10,502088.00
+2024,9,tiktok,jawa tengah,kabupaten temanggung,5,5,501822.00
+2024,11,shopee,jawa timur,kabupaten mojokerto,6,7,501059.00
+2024,7,tiktok,riau,kabupaten siak,4,4,500829.00
+2024,7,tiktok,sumatera selatan,kota palembang,4,4,500480.00
+2024,6,tiktok,jawa tengah,kabupaten kebumen,4,4,499800.00
+2024,9,tiktok,jawa tengah,kota tegal,5,5,499538.00
+2024,11,shopee,sumatera selatan,kabupaten ogan komering ulu timur,5,5,499275.00
+2024,5,tiktok,banten,kota tangerang selatan,4,5,499185.00
+2024,6,shopee,jawa tengah,kabupaten batang,7,7,499115.00
+2024,12,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa barat,5,5,498406.00
+2024,6,shopee,jawa barat,kabupaten cianjur,6,6,498361.00
+2024,7,shopee,sumatera utara,kabupaten deli serdang,5,6,497361.00
+2024,12,shopee,jawa barat,kabupaten cianjur,6,6,497035.00
+2024,8,tiktok,jawa timur,kabupaten tulungagung,3,4,496720.00
+2024,6,tiktok,jawa timur,kabupaten gresik,3,3,496649.00
+2024,8,tiktok,jawa tengah,kabupaten kudus,5,5,496192.00
+2024,6,tiktok,dki jakarta,kota jakarta timur,5,5,495960.00
+2024,7,shopee,lampung,kabupaten lampung selatan,5,6,494437.00
+2024,9,tiktok,jawa barat,kota cirebon,5,5,493838.00
+2024,10,tiktok,bangka belitung,kabupaten belitung,5,5,493570.00
+2024,9,shopee,jawa timur,kabupaten jember,5,5,492615.00
+2024,11,tiktok,jawa barat,kabupaten purwakarta,5,5,492272.00
+2024,5,tiktok,jawa barat,kota bandung,4,4,491362.00
+2024,10,shopee,jawa timur,kabupaten tulungagung,6,6,491047.00
+2024,9,shopee,banten,kabupaten pandeglang,5,5,490277.00
+2024,8,tiktok,jawa tengah,kabupaten klaten,5,5,489681.00
+2024,6,shopee,banten,kabupaten lebak,6,8,488604.00
+2024,11,shopee,sumatera utara,kota medan,5,6,485998.00
+2024,8,tiktok,sumatera selatan,kota palembang,5,5,484245.00
+2024,10,tiktok,kalimantan timur,kabupaten kutai kartanegara,5,5,484116.00
+2024,12,tiktok,jawa timur,kabupaten mojokerto,4,4,482269.00
+2024,6,tiktok,jawa barat,kota tasikmalaya,4,4,482050.00
+2024,7,shopee,jawa tengah,kabupaten karanganyar,6,6,481668.00
+2024,8,tiktok,kalimantan barat,kabupaten kubu raya,2,5,480606.00
+2024,8,tiktok,jawa barat,kabupaten sumedang,4,5,480000.00
+2024,12,shopee,jawa tengah,kabupaten boyolali,6,6,478573.00
+2024,6,shopee,jawa tengah,kabupaten banjarnegara,5,6,478565.00
+2024,8,shopee,jawa barat,kabupaten bandung,6,7,478532.00
+2024,8,tiktok,kalimantan timur,kabupaten kutai timur,4,5,478509.00
+2024,10,tiktok,sulawesi tengah,kota palu,5,5,478106.00
+2024,11,shopee,jawa tengah,kabupaten pemalang,6,6,477754.00
+2024,8,shopee,jawa tengah,kota tegal,3,5,477465.00
+2024,8,tiktok,jawa tengah,kabupaten pati,4,4,477150.00
+2024,6,shopee,jawa tengah,kota surakarta (solo),6,6,476847.00
+2024,12,shopee,di yogyakarta,kabupaten bantul,6,6,476257.00
+2024,12,shopee,banten,kota serang,6,6,475440.00
+2024,12,shopee,jawa tengah,kabupaten semarang,4,4,474019.00
+2024,8,tiktok,banten,kabupaten lebak,4,4,473890.00
+2024,10,tiktok,jawa tengah,kota salatiga,3,5,472824.00
+2024,7,shopee,jawa timur,kabupaten blitar,6,6,472083.00
+2024,9,shopee,jawa timur,kabupaten mojokerto,6,6,471628.00
+2024,7,shopee,jawa tengah,kabupaten klaten,7,7,471433.00
+2024,9,tiktok,riau,kabupaten kampar,5,5,471036.00
+2024,12,shopee,jawa tengah,kabupaten sukoharjo,5,5,470609.00
+2024,12,tiktok,jawa tengah,kabupaten batang,5,5,470136.00
+2024,6,tiktok,jawa tengah,kabupaten cilacap,4,4,470065.00
+2024,12,shopee,jawa tengah,kota tegal,6,6,469541.00
+2024,11,shopee,kalimantan timur,kabupaten berau,4,4,469176.00
+2024,7,tiktok,bali,kabupaten bangli,3,4,468990.00
+2024,10,tiktok,kalimantan tengah,kabupaten kota waringin timur,5,5,468557.00
+2024,7,tiktok,bali,kabupaten karangasem,4,4,468486.00
+2024,10,tiktok,jawa tengah,kabupaten boyolali,4,5,468342.00
+2024,8,shopee,jawa timur,kota malang,4,5,467051.00
+2024,12,tiktok,banten,kabupaten lebak,5,6,465831.00
+2024,7,shopee,jawa tengah,kabupaten cilacap,5,5,465616.00
+2024,12,shopee,banten,kabupaten lebak,6,7,465487.00
+2024,9,shopee,kalimantan timur,kabupaten kutai kartanegara,2,2,464008.00
+2024,12,shopee,jawa timur,kabupaten banyuwangi,5,5,463651.00
+2024,10,shopee,lampung,kabupaten lampung tengah,7,7,462998.00
+2024,12,tiktok,jawa timur,kabupaten situbondo,4,5,462655.00
+2024,10,tiktok,kalimantan timur,kota samarinda,5,5,461302.00
+2024,12,shopee,jawa barat,kabupaten kuningan,5,5,461055.00
+2024,9,shopee,jawa tengah,kabupaten semarang,6,7,460572.00
+2024,6,shopee,kalimantan selatan,kota banjarbaru,3,4,460344.00
+2024,7,shopee,jawa tengah,kabupaten kebumen,6,9,459919.00
+2024,9,shopee,sulawesi selatan,kota makassar,4,4,459870.00
+2024,11,tiktok,,,1,5,459537.00
+2024,5,shopee,jawa tengah,kabupaten batang,5,6,459377.00
+2024,7,tiktok,jawa barat,kabupaten sumedang,5,5,459194.00
+2024,7,tiktok,jawa timur,kabupaten malang,5,5,458071.00
+2024,10,tiktok,sulawesi selatan,kabupaten maros,1,1,457410.00
+2024,6,tiktok,jawa barat,kota bogor,4,4,455500.00
+2024,9,shopee,jawa barat,kabupaten bandung barat,5,5,455486.00
+2024,7,tiktok,jawa timur,kabupaten sampang,3,5,454882.00
+2024,8,tiktok,sulawesi selatan,kabupaten bulukumba,4,4,453086.00
+2024,6,shopee,jawa tengah,kabupaten karanganyar,4,5,452986.00
+2024,8,tiktok,jawa tengah,kabupaten banyumas,3,3,452763.00
+2024,8,shopee,sulawesi selatan,kota makassar,5,5,451025.00
+2024,12,shopee,lampung,kabupaten lampung barat,4,4,450483.00
+2024,6,shopee,lampung,kabupaten lampung timur,6,6,449849.00
+2024,11,shopee,kalimantan timur,kabupaten penajam paser utara,2,2,449578.00
+2024,12,tiktok,lampung,kota bandar lampung,4,4,449450.00
+2024,9,shopee,banten,kabupaten lebak,8,9,447464.00
+2024,12,tiktok,kalimantan timur,kota samarinda,3,3,446674.00
+2024,12,shopee,jawa tengah,kabupaten jepara,5,5,446552.00
+2024,10,shopee,jawa tengah,kabupaten boyolali,6,6,445568.00
+2024,9,shopee,jawa timur,kota malang,5,7,445248.00
+2024,12,shopee,jawa barat,kota sukabumi,6,7,444680.00
+2024,10,tiktok,di yogyakarta,kabupaten kulon progo,4,4,443380.00
+2024,6,tiktok,bali,kabupaten buleleng,5,5,442980.00
+2024,6,shopee,jawa barat,kabupaten subang,5,5,442311.00
+2024,6,shopee,jawa tengah,kabupaten sragen,5,6,441710.00
+2024,6,tiktok,jawa tengah,kabupaten sragen,2,2,441586.00
+2024,12,tiktok,jawa tengah,kabupaten kebumen,4,4,441160.00
+2024,12,tiktok,jawa tengah,kabupaten purbalingga,3,4,440860.00
+2024,7,tiktok,jawa tengah,kabupaten pemalang,4,4,440596.00
+2024,5,tiktok,jawa tengah,kabupaten boyolali,4,4,440244.00
+2024,10,tiktok,sumatera selatan,kabupaten muara enim,3,3,440101.00
+2024,11,shopee,jawa timur,kota malang,5,7,440015.00
+2024,6,shopee,bengkulu,kabupaten rejang lebong,4,4,439577.00
+2024,8,tiktok,jawa timur,kabupaten kediri,5,5,439089.00
+2024,10,tiktok,jawa barat,kabupaten kuningan,4,4,438812.00
+2024,12,shopee,kalimantan barat,kabupaten kubu raya,1,1,437636.00
+2024,12,shopee,jawa timur,kabupaten bojonegoro,6,6,437498.00
+2024,11,tiktok,jawa timur,kabupaten mojokerto,3,4,436059.00
+2024,8,tiktok,jawa timur,kabupaten jombang,3,3,435785.00
+2024,10,shopee,jawa tengah,kabupaten brebes,6,6,435665.00
+2024,10,tiktok,jawa tengah,kabupaten pati,4,4,435306.00
+2024,12,shopee,sulawesi selatan,kabupaten jeneponto,1,1,435264.00
+2024,8,shopee,jawa tengah,kabupaten magelang,6,6,434957.00
+2024,7,tiktok,,,1,4,434480.00
+2024,11,shopee,banten,kota serang,3,3,434026.00
+2024,8,shopee,jawa barat,kabupaten sukabumi,6,7,434007.00
+2024,8,tiktok,riau,kota pekanbaru,4,4,433673.00
+2024,7,shopee,kalimantan timur,kabupaten berau,2,2,433019.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten lombok utara,4,4,432893.00
+2024,12,tiktok,jawa timur,kabupaten jombang,5,5,432781.00
+2024,12,shopee,lampung,kabupaten lampung timur,5,5,432125.00
+2024,9,tiktok,jawa tengah,kabupaten wonosobo,3,4,431767.00
+2024,7,shopee,riau,kabupaten kampar,3,3,431062.00
+2024,9,shopee,banten,kabupaten serang,5,7,430504.00
+2024,12,shopee,kalimantan timur,kabupaten kutai timur,4,4,430463.00
+2024,8,tiktok,kalimantan timur,kabupaten kutai kartanegara,3,4,429266.00
+2024,5,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,3,3,428870.00
+2024,6,tiktok,sumatera selatan,kota palembang,4,4,427750.00
+2024,10,tiktok,sumatera selatan,kota palembang,4,4,427448.00
+2024,10,tiktok,jawa barat,kota sukabumi,4,4,426508.00
+2024,8,tiktok,kalimantan timur,kota samarinda,4,4,426364.00
+2024,6,tiktok,banten,kota serang,4,4,426050.00
+2024,7,tiktok,jawa tengah,kabupaten karanganyar,4,4,425830.00
+2024,12,tiktok,jawa timur,kota mojokerto,5,5,424762.00
+2024,7,tiktok,jawa timur,kabupaten jember,2,2,424080.00
+2024,7,shopee,jawa tengah,kabupaten wonosobo,4,4,423856.00
+2024,12,tiktok,sulawesi selatan,kabupaten gowa,4,4,422462.00
+2024,10,shopee,lampung,kota bandar lampung,6,6,421593.00
+2024,11,shopee,jawa barat,kabupaten bandung barat,4,4,421360.00
+2024,10,tiktok,jawa timur,kabupaten sampang,4,4,420019.00
+2024,11,shopee,banten,kota cilegon,4,4,420018.00
+2024,10,tiktok,banten,kabupaten pandeglang,4,4,419400.00
+2024,4,tiktok,banten,kota cilegon,4,4,419267.00
+2024,11,shopee,lampung,kabupaten tulang bawang barat,4,4,418587.00
+2024,6,shopee,sulawesi utara,kota manado,2,2,418406.00
+2024,11,shopee,lampung,kabupaten lampung tengah,4,5,417998.00
+2024,12,tiktok,gorontalo,kota gorontalo,4,5,417997.00
+2024,8,tiktok,riau,kabupaten rokan hulu,3,3,417410.00
+2024,11,tiktok,di yogyakarta,kabupaten kulon progo,4,4,417226.00
+2024,9,shopee,kalimantan timur,kota samarinda,4,4,416725.00
+2024,5,tiktok,bali,kota denpasar,3,3,416062.00
+2024,9,shopee,jawa barat,kabupaten kuningan,3,3,415843.00
+2024,8,tiktok,jawa tengah,kabupaten grobogan,4,4,415734.00
+2024,8,tiktok,kalimantan tengah,kota palangka raya,4,5,415170.00
+2024,12,shopee,jawa barat,kabupaten garut,4,4,415014.00
+2024,6,tiktok,jawa timur,kabupaten bondowoso,3,3,414551.00
+2024,12,tiktok,jawa tengah,kota pekalongan,3,3,414289.00
+2024,6,shopee,kalimantan selatan,kabupaten banjar,4,4,413936.00
+2024,9,shopee,jawa tengah,kabupaten pati,4,4,413681.00
+2024,12,shopee,banten,kabupaten serang,4,4,413140.00
+2024,7,shopee,kalimantan timur,kabupaten penajam paser utara,4,4,412778.00
+2024,9,tiktok,sumatera utara,kabupaten asahan,4,4,412279.00
+2024,10,shopee,jawa tengah,kabupaten sragen,5,5,412076.00
+2024,10,tiktok,jawa tengah,kabupaten semarang,5,5,410827.00
+2024,5,shopee,di yogyakarta,kabupaten sleman,4,5,410433.00
+2024,7,shopee,jawa timur,kota kediri,4,5,410399.00
+2024,10,tiktok,jawa timur,kabupaten trenggalek,4,4,409594.00
+2024,9,shopee,jawa barat,kabupaten sumedang,4,4,409542.00
+2024,9,shopee,jawa barat,kota tasikmalaya,5,5,409201.00
+2024,5,shopee,bengkulu,kota bengkulu,1,1,409056.00
+2024,11,tiktok,sumatera selatan,kabupaten ogan komering ilir,4,4,409055.00
+2024,8,shopee,jawa tengah,kota semarang,9,9,409042.00
+2024,7,shopee,kalimantan tengah,kabupaten kota waringin timur,4,5,408891.00
+2024,8,shopee,jawa timur,kabupaten nganjuk,5,5,408746.00
+2024,11,tiktok,bali,kabupaten karangasem,4,4,407862.00
+2024,11,shopee,di yogyakarta,kabupaten bantul,5,5,407513.00
+2024,12,tiktok,jawa tengah,kabupaten banyumas,4,4,406234.00
+2024,12,shopee,jawa timur,kabupaten ngawi,4,4,405718.00
+2024,7,tiktok,lampung,kabupaten lampung timur,4,4,405299.00
+2024,11,shopee,lampung,kabupaten tulang bawang,5,5,404346.00
+2024,7,tiktok,jawa timur,kabupaten tulungagung,3,4,404010.00
+2024,5,shopee,di yogyakarta,kabupaten bantul,5,5,403867.00
+2024,6,tiktok,kalimantan selatan,kabupaten tanah bumbu,2,3,402600.00
+2024,11,shopee,sulawesi utara,kabupaten minahasa selatan,3,3,402497.00
+2024,9,shopee,jawa timur,kabupaten madiun,5,5,401290.00
+2024,8,tiktok,jawa barat,kota sukabumi,3,4,401244.00
+2024,11,tiktok,jawa barat,kota cirebon,3,5,401141.00
+2024,7,shopee,sumatera utara,kabupaten langkat,5,5,400843.00
+2024,9,tiktok,jawa timur,kabupaten tulungagung,4,4,399560.00
+2024,9,shopee,jawa tengah,kabupaten demak,6,6,399322.00
+2024,11,shopee,jawa barat,kabupaten cirebon,3,5,399165.00
+2024,7,shopee,jawa tengah,kabupaten semarang,3,3,398714.00
+2024,9,tiktok,kalimantan barat,kota pontianak,4,4,398352.00
+2024,9,shopee,kalimantan tengah,kabupaten kota waringin timur,1,1,398324.00
+2024,5,shopee,jawa barat,kota bandung,5,8,398293.00
+2024,8,shopee,jawa tengah,kabupaten sragen,3,4,398008.00
+2024,10,shopee,lampung,kabupaten pringsewu,4,4,397548.00
+2024,6,shopee,jambi,kabupaten tanjung jabung barat,1,1,397490.00
+2024,8,tiktok,sulawesi selatan,kabupaten barru,2,3,397226.00
+2024,9,shopee,jawa timur,kabupaten gresik,6,6,397184.00
+2024,12,tiktok,kalimantan tengah,kabupaten kota waringin timur,3,4,397035.00
+2024,12,tiktok,jawa timur,kabupaten pamekasan,4,4,396776.00
+2024,5,tiktok,di yogyakarta,kota yogyakarta,3,3,396242.00
+2024,10,tiktok,jawa tengah,kota tegal,4,4,395619.00
+2024,9,shopee,lampung,kabupaten tulang bawang,4,4,395116.00
+2024,6,shopee,jawa tengah,kabupaten temanggung,4,5,394842.00
+2024,6,shopee,sumatera selatan,kabupaten ogan komering ulu timur,4,4,394386.00
+2024,7,shopee,jawa timur,kabupaten tulungagung,6,7,394197.00
+2024,11,shopee,jawa timur,kabupaten ngawi,4,4,393973.00
+2024,9,shopee,bali,kota denpasar,4,5,392912.00
+2024,7,tiktok,jawa tengah,kabupaten pati,3,4,392703.00
+2024,7,tiktok,bangka belitung,kabupaten belitung timur,2,2,392282.00
+2024,6,shopee,jawa tengah,kota salatiga,3,3,392139.00
+2024,12,tiktok,jawa tengah,kabupaten pati,3,4,392049.00
+2024,7,shopee,jawa tengah,kabupaten banjarnegara,4,4,391155.00
+2024,8,tiktok,jawa timur,kabupaten sumenep,4,6,390902.00
+2024,7,tiktok,banten,kabupaten pandeglang,3,4,390780.00
+2024,12,shopee,jawa tengah,kabupaten pemalang,5,5,390469.00
+2024,7,tiktok,jawa tengah,kota pekalongan,3,4,389862.00
+2024,4,shopee,dki jakarta,kota jakarta utara,5,5,389781.00
+2024,5,tiktok,bali,kabupaten badung,4,4,388890.00
+2024,9,tiktok,jawa timur,kota madiun,4,4,388835.00
+2024,8,tiktok,jawa tengah,kabupaten sragen,3,4,388395.00
+2024,7,shopee,jawa timur,kabupaten ngawi,4,4,387234.00
+2024,11,tiktok,sumatera utara,kabupaten simalungun,3,3,387197.00
+2024,12,shopee,jawa timur,kabupaten magetan,7,8,386880.00
+2024,5,shopee,jawa tengah,kabupaten tegal,5,5,386270.00
+2024,7,shopee,jawa tengah,kabupaten pekalongan,7,11,385869.00
+2024,7,tiktok,kalimantan tengah,kabupaten kota waringin timur,3,3,385500.00
+2024,10,tiktok,kalimantan selatan,kabupaten tapin,4,4,384720.00
+2024,5,tiktok,jawa barat,kota bogor,3,3,384000.00
+2024,9,shopee,jawa tengah,kota surakarta (solo),5,5,383542.00
+2024,10,shopee,kepulauan riau,kota batam,4,4,383495.00
+2024,6,tiktok,jawa timur,kabupaten malang,4,4,383210.00
+2024,10,tiktok,di yogyakarta,kabupaten gunung kidul,4,4,381340.00
+2024,7,shopee,jawa timur,kota malang,5,6,379678.00
+2024,8,shopee,jawa tengah,kabupaten jepara,5,5,379326.00
+2024,11,tiktok,jawa tengah,kabupaten jepara,2,4,379079.00
+2024,12,shopee,jawa timur,kabupaten blitar,5,6,378067.00
+2024,9,tiktok,jawa barat,kabupaten subang,5,5,378020.00
+2024,8,tiktok,jawa timur,kabupaten trenggalek,3,3,377756.00
+2024,7,tiktok,kalimantan selatan,kabupaten hulu sungai selatan,4,4,376375.00
+2024,6,shopee,jawa tengah,kabupaten purbalingga,3,3,376284.00
+2024,12,shopee,jawa barat,kabupaten tasikmalaya,3,4,376213.00
+2024,9,shopee,jawa tengah,kabupaten sragen,6,6,375985.00
+2024,9,tiktok,sulawesi selatan,kabupaten soppeng,3,3,375956.00
+2024,12,tiktok,bali,kabupaten karangasem,3,5,375948.00
+2024,10,tiktok,jawa tengah,kabupaten wonogiri,4,4,375694.00
+2024,11,tiktok,jawa barat,kabupaten sumedang,4,4,375606.00
+2024,9,tiktok,di yogyakarta,kabupaten kulon progo,4,5,375486.00
+2024,4,shopee,nanggroe aceh darussalam (nad),kabupaten aceh besar,1,1,373996.00
+2024,11,tiktok,bangka belitung,kota pangkal pinang,4,4,373948.00
+2024,12,tiktok,sulawesi utara,kota manado,4,4,373636.00
+2024,6,tiktok,jawa timur,kota malang,3,3,372847.00
+2024,5,shopee,jawa barat,kabupaten sukabumi,5,6,372467.00
+2024,6,tiktok,jawa tengah,kota pekalongan,3,3,371300.00
+2024,9,tiktok,jawa timur,kota kediri,4,4,371230.00
+2024,7,tiktok,sulawesi selatan,kabupaten gowa,3,4,367960.00
+2024,5,shopee,jawa barat,kabupaten bandung,5,5,367779.00
+2024,7,shopee,sumatera utara,kabupaten serdang bedagai,2,2,366584.00
+2024,5,shopee,jawa timur,kabupaten lumajang,4,5,365751.00
+2024,12,shopee,lampung,kabupaten lampung selatan,4,4,365237.00
+2024,9,tiktok,jawa timur,kabupaten trenggalek,3,3,361590.00
+2024,12,tiktok,sulawesi selatan,kabupaten takalar,3,3,359864.00
+2024,7,shopee,jambi,kota jambi,3,3,359785.00
+2024,11,tiktok,jawa timur,kabupaten gresik,3,3,358983.00
+2024,9,shopee,jawa timur,kabupaten bojonegoro,4,5,358390.00
+2024,10,tiktok,bali,kabupaten bangli,2,3,357700.00
+2024,4,tiktok,bali,kota denpasar,3,3,357043.00
+2024,5,shopee,sumatera selatan,kota palembang,6,6,355336.00
+2024,8,shopee,jawa tengah,kabupaten purbalingga,6,7,355267.00
+2024,11,tiktok,jawa timur,kabupaten malang,3,3,355211.00
+2024,10,shopee,jawa tengah,kabupaten jepara,3,5,354791.00
+2024,6,shopee,jawa timur,kabupaten ngawi,4,4,354569.00
+2024,9,tiktok,sulawesi utara,kabupaten minahasa utara,3,4,353571.00
+2024,6,shopee,sumatera selatan,kabupaten ogan komering ilir,2,2,353110.00
+2024,8,tiktok,lampung,kabupaten lampung utara,3,3,352370.00
+2024,7,shopee,bengkulu,kabupaten rejang lebong,4,4,351894.00
+2024,9,shopee,jawa timur,kota kediri,5,5,351720.00
+2024,7,shopee,jawa timur,kabupaten bojonegoro,3,3,351539.00
+2024,7,shopee,jawa tengah,kabupaten wonogiri,4,4,351337.00
+2024,12,tiktok,jawa tengah,kabupaten wonogiri,3,3,351176.00
+2024,10,tiktok,jawa timur,kota kediri,4,4,350726.00
+2024,5,tiktok,jawa tengah,kabupaten batang,3,3,350471.00
+2024,5,shopee,jawa tengah,kabupaten pati,4,4,350164.00
+2024,9,tiktok,jawa tengah,kabupaten klaten,2,3,349746.00
+2024,4,tiktok,jawa timur,kota surabaya,3,4,348682.00
+2024,9,tiktok,kalimantan selatan,kabupaten tanah laut,3,3,348441.00
+2024,8,shopee,jawa timur,kabupaten banyuwangi,4,5,348377.00
+2024,5,shopee,jawa timur,kabupaten jombang,3,4,348315.00
+2024,11,tiktok,bali,kabupaten bangli,3,3,347016.00
+2024,9,shopee,jawa barat,kabupaten majalengka,4,5,346745.00
+2024,8,shopee,jawa tengah,kabupaten grobogan,6,6,346358.00
+2024,9,tiktok,jawa timur,kabupaten blitar,3,3,345671.00
+2024,8,shopee,kalimantan timur,kabupaten berau,2,2,345558.00
+2024,11,tiktok,jambi,kota jambi,3,4,345372.00
+2024,5,shopee,kalimantan barat,kabupaten sintang,2,2,344468.00
+2024,11,shopee,jawa timur,kabupaten banyuwangi,5,5,344363.00
+2024,10,tiktok,jawa tengah,kabupaten banjarnegara,4,4,343513.00
+2024,10,shopee,sulawesi selatan,kabupaten bulukumba,3,3,342935.00
+2024,8,shopee,kalimantan timur,kota samarinda,2,4,342044.00
+2024,6,tiktok,bali,kabupaten tabanan,3,3,341462.00
+2024,9,tiktok,jawa barat,kabupaten purwakarta,2,3,341258.00
+2024,10,tiktok,jawa timur,kabupaten pacitan,4,4,341086.00
+2024,11,tiktok,sumatera utara,kota tebing tinggi,2,2,340557.00
+2024,9,tiktok,jawa timur,kota pasuruan,4,4,339555.00
+2024,12,tiktok,sulawesi tenggara,kabupaten konawe kepulauan,4,4,339395.00
+2024,6,tiktok,riau,kabupaten bengkalis,1,1,338984.00
+2024,6,tiktok,jawa tengah,kota tegal,3,3,338706.00
+2024,5,tiktok,jawa barat,kota bekasi,3,3,338529.00
+2024,10,shopee,jawa tengah,kabupaten pekalongan,5,5,338314.00
+2024,6,tiktok,jawa tengah,kabupaten demak,1,1,337996.00
+2024,8,tiktok,sulawesi selatan,kabupaten pangkajene kepulauan,4,4,337888.00
+2024,10,shopee,kalimantan timur,kota samarinda,3,3,337688.00
+2024,12,tiktok,sulawesi selatan,kabupaten bone,3,3,337184.00
+2024,10,shopee,kalimantan selatan,kota banjarbaru,1,2,337020.00
+2024,10,shopee,bali,kota denpasar,3,4,336938.00
+2024,7,tiktok,sulawesi utara,kota bitung,3,3,336719.00
+2024,11,tiktok,sulawesi barat,kabupaten mamuju,3,3,336680.00
+2024,10,shopee,jawa timur,kabupaten lumajang,4,5,336680.00
+2024,7,tiktok,kalimantan tengah,kota palangka raya,2,3,336499.00
+2024,8,shopee,jawa timur,kabupaten malang,7,7,335548.00
+2024,7,tiktok,jawa barat,kota cirebon,2,2,334660.00
+2024,5,tiktok,sulawesi selatan,kabupaten maros,3,3,334467.00
+2024,11,shopee,jawa barat,kota tasikmalaya,4,4,334054.00
+2024,8,shopee,lampung,kabupaten tanggamus,3,4,333875.00
+2024,8,shopee,jawa timur,kabupaten tuban,4,5,333775.00
+2024,7,shopee,jawa timur,kota madiun,3,3,333364.00
+2024,7,tiktok,sulawesi selatan,kabupaten pinrang,3,3,333060.00
+2024,11,tiktok,jawa timur,kota kediri,3,3,332593.00
+2024,11,tiktok,jawa timur,kabupaten pacitan,3,3,332309.00
+2024,6,shopee,jawa timur,kabupaten tulungagung,4,4,332057.00
+2024,10,shopee,sumatera selatan,kabupaten musi banyuasin,3,3,331953.00
+2024,12,tiktok,bangka belitung,kabupaten bangka barat,3,3,331701.00
+2024,10,shopee,jawa timur,kabupaten ngawi,3,3,331632.00
+2024,10,shopee,jawa timur,kabupaten tuban,5,7,331513.00
+2024,10,shopee,jawa tengah,kabupaten karanganyar,3,3,331473.00
+2024,3,shopee,dki jakarta,kota jakarta pusat,1,1,331120.00
+2024,5,shopee,jawa tengah,kabupaten brebes,4,5,330372.00
+2024,4,shopee,jawa timur,kabupaten tulungagung,2,3,330330.00
+2024,12,shopee,lampung,kabupaten way kanan,5,6,330255.00
+2024,7,tiktok,jawa tengah,kabupaten kebumen,2,3,330000.00
+2024,12,tiktok,jawa tengah,kota tegal,3,3,329945.00
+2024,12,tiktok,bali,kabupaten klungkung,3,3,329601.00
+2024,7,tiktok,kalimantan selatan,kabupaten tapin,3,3,329420.00
+2024,10,tiktok,di yogyakarta,kota yogyakarta,4,4,329342.00
+2024,8,shopee,jawa timur,kabupaten lamongan,5,5,329319.00
+2024,10,tiktok,bangka belitung,kota pangkal pinang,3,3,329168.00
+2024,7,tiktok,jawa timur,kabupaten madiun,3,3,328890.00
+2024,8,shopee,kepulauan riau,kabupaten karimun,3,3,328838.00
+2024,12,shopee,jambi,kabupaten tanjung jabung timur,3,3,328479.00
+2024,11,tiktok,riau,kota pekanbaru,3,3,328405.00
+2024,12,tiktok,bangka belitung,kota pangkal pinang,3,3,328354.00
+2024,12,shopee,banten,kabupaten pandeglang,5,5,327944.00
+2024,10,tiktok,sumatera utara,kabupaten karo,3,3,327856.00
+2024,9,shopee,jawa barat,kabupaten subang,3,3,327539.00
+2024,7,tiktok,jawa timur,kabupaten pamekasan,2,2,327489.00
+2024,8,shopee,jawa tengah,kabupaten karanganyar,3,3,327416.00
+2024,8,tiktok,jawa tengah,kabupaten wonogiri,3,3,327331.00
+2024,9,shopee,jawa tengah,kabupaten kebumen,3,4,327179.00
+2024,9,shopee,jawa timur,kabupaten nganjuk,5,6,326968.00
+2024,10,tiktok,sulawesi selatan,kabupaten bulukumba,3,3,326946.00
+2024,10,shopee,jawa tengah,kabupaten wonosobo,5,5,326637.00
+2024,5,shopee,kalimantan barat,kota pontianak,1,1,326400.00
+2024,11,tiktok,sulawesi selatan,kabupaten bone,2,4,326296.00
+2024,6,shopee,kalimantan timur,kabupaten kutai kartanegara,3,5,326278.00
+2024,9,tiktok,jawa timur,kabupaten banyuwangi,3,3,325953.00
+2024,12,tiktok,riau,kota dumai,3,3,325919.00
+2024,9,shopee,lampung,kota metro,3,3,325918.00
+2024,8,shopee,sumatera selatan,kabupaten musi banyuasin,3,3,325725.00
+2024,6,shopee,jawa timur,kota kediri,4,4,325342.00
+2024,9,tiktok,lampung,kabupaten pringsewu,2,3,324860.00
+2024,9,shopee,lampung,kabupaten way kanan,3,3,324856.00
+2024,7,tiktok,jambi,kabupaten tanjung jabung barat,2,4,324836.00
+2024,10,tiktok,kalimantan tengah,kota palangka raya,3,3,324692.00
+2024,8,shopee,sulawesi utara,kabupaten minahasa,3,3,324428.00
+2024,10,tiktok,papua,kabupaten mimika,2,3,324300.00
+2024,8,tiktok,jawa barat,kota bogor,3,3,324106.00
+2024,10,tiktok,sulawesi selatan,kota parepare,3,3,323957.00
+2024,7,tiktok,sulawesi selatan,kabupaten maros,1,2,323726.00
+2024,4,tiktok,jawa timur,kabupaten sidoarjo,3,3,323420.00
+2024,12,tiktok,sulawesi selatan,kabupaten pinrang,3,3,323125.00
+2024,11,tiktok,jawa tengah,kabupaten pemalang,3,3,323051.00
+2024,9,tiktok,jawa timur,kota batu,3,3,322992.00
+2024,11,tiktok,sulawesi selatan,kabupaten luwu utara,3,3,322755.00
+2024,7,shopee,bengkulu,kabupaten bengkulu utara,1,2,322528.00
+2024,5,tiktok,sumatera utara,kota medan,2,3,321809.00
+2024,5,shopee,jawa timur,kabupaten lamongan,4,4,321515.00
+2024,7,tiktok,kalimantan barat,kota pontianak,3,3,321280.00
+2024,10,tiktok,banten,kabupaten lebak,3,3,320102.00
+2024,4,shopee,dki jakarta,kota jakarta barat,4,4,319842.00
+2024,10,shopee,jawa barat,kabupaten cianjur,4,5,319450.00
+2024,7,shopee,jawa barat,kota tasikmalaya,3,3,318730.00
+2024,9,shopee,bali,kabupaten badung,2,2,318544.00
+2024,11,tiktok,jawa tengah,kabupaten magelang,3,3,318381.00
+2024,11,shopee,sulawesi barat,kabupaten mamuju,1,1,318042.00
+2024,10,tiktok,kalimantan utara,kabupaten malinau,3,3,317942.00
+2024,11,tiktok,jawa tengah,kabupaten wonogiri,3,3,317761.00
+2024,9,tiktok,riau,kota pekanbaru,3,3,317635.00
+2024,11,shopee,jawa barat,kabupaten indramayu,4,4,317286.00
+2024,11,shopee,jawa timur,kabupaten bojonegoro,3,3,317137.00
+2024,10,tiktok,bengkulu,kota bengkulu,3,3,317075.00
+2024,9,shopee,lampung,kabupaten lampung utara,4,5,316689.00
+2024,5,shopee,lampung,kota bandar lampung,4,4,316537.00
+2024,11,shopee,lampung,kabupaten lampung timur,3,3,316355.00
+2024,8,shopee,jawa tengah,kabupaten sukoharjo,5,6,316197.00
+2024,10,shopee,di yogyakarta,kabupaten sleman,4,5,315920.00
+2024,12,shopee,sulawesi selatan,kabupaten gowa,3,3,315461.00
+2024,10,tiktok,jawa barat,kabupaten tasikmalaya,3,3,314832.00
+2024,8,shopee,jawa timur,kabupaten ngawi,6,6,314592.00
+2024,10,tiktok,jambi,kabupaten bungo,3,3,314402.00
+2024,8,shopee,jawa tengah,kabupaten pemalang,5,6,314019.00
+2024,6,shopee,sulawesi selatan,kabupaten gowa,6,7,313664.00
+2024,8,tiktok,jawa tengah,kabupaten semarang,3,3,313326.00
+2024,10,tiktok,nanggroe aceh darussalam (nad),kota banda aceh,2,3,313300.00
+2024,12,shopee,jawa barat,kabupaten purwakarta,3,3,313042.00
+2024,11,tiktok,jawa timur,kota madiun,2,3,312746.00
+2024,10,tiktok,sumatera utara,kabupaten deli serdang,3,4,312316.00
+2024,9,shopee,sumatera selatan,kabupaten musi banyuasin,1,1,312224.00
+2024,6,tiktok,jawa timur,kabupaten banyuwangi,3,3,312195.00
+2024,5,tiktok,dki jakarta,kota jakarta barat,3,3,312130.00
+2024,8,shopee,jawa barat,kabupaten kuningan,4,4,311707.00
+2024,6,tiktok,jawa barat,kabupaten tasikmalaya,3,3,311180.00
+2024,5,shopee,lampung,kabupaten lampung tengah,3,3,310941.00
+2024,8,tiktok,lampung,kabupaten lampung timur,3,3,310000.00
+2024,4,tiktok,jawa timur,kabupaten sampang,2,3,309783.00
+2024,9,tiktok,sulawesi selatan,kabupaten wajo,3,3,309598.00
+2024,10,shopee,sumatera selatan,kabupaten ogan komering ulu timur,4,5,309372.00
+2024,10,tiktok,kalimantan selatan,kota banjarbaru,3,3,309122.00
+2024,8,tiktok,bali,kabupaten klungkung,3,3,308704.00
+2024,12,shopee,lampung,kabupaten tulang bawang barat,3,3,308186.00
+2024,11,shopee,lampung,kabupaten lampung selatan,3,3,308007.00
+2024,10,tiktok,riau,kabupaten rokan hulu,3,3,307524.00
+2024,7,tiktok,kalimantan timur,kabupaten berau,3,3,307446.00
+2024,11,shopee,kepulauan riau,kota batam,5,5,307227.00
+2024,5,tiktok,jawa timur,kabupaten gresik,3,3,306225.00
+2024,4,tiktok,dki jakarta,kota jakarta selatan,3,3,305955.00
+2024,4,shopee,kalimantan barat,kota pontianak,4,4,305712.00
+2024,9,shopee,bengkulu,kota bengkulu,4,4,305652.00
+2024,8,tiktok,gorontalo,kabupaten gorontalo,4,4,305519.00
+2024,5,shopee,jawa tengah,kabupaten boyolali,3,3,305258.00
+2024,10,tiktok,jawa tengah,kabupaten karanganyar,3,3,305249.00
+2024,11,tiktok,jawa tengah,kabupaten kudus,2,3,305101.00
+2024,7,shopee,sumatera selatan,kabupaten ogan komering ulu timur,4,4,305072.00
+2024,5,shopee,sumatera selatan,kabupaten muara enim,3,3,305011.00
+2024,11,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa barat,2,3,304877.00
+2024,9,shopee,lampung,kabupaten lampung selatan,4,4,304438.00
+2024,10,shopee,jawa tengah,kabupaten sukoharjo,4,4,303965.00
+2024,5,shopee,jawa barat,kabupaten garut,3,4,303886.00
+2024,7,tiktok,gorontalo,kabupaten gorontalo,3,3,303280.00
+2024,10,tiktok,jawa tengah,kabupaten pekalongan,3,3,303223.00
+2024,5,tiktok,banten,kabupaten tangerang,3,4,303113.00
+2024,6,shopee,jawa barat,kabupaten cirebon,3,3,303076.00
+2024,12,tiktok,bangka belitung,kabupaten belitung,3,3,302405.00
+2024,11,shopee,sulawesi selatan,kabupaten gowa,3,3,301973.00
+2024,9,tiktok,sumatera utara,kabupaten deli serdang,3,3,301596.00
+2024,10,shopee,di yogyakarta,kabupaten bantul,3,3,301550.00
+2024,7,shopee,kalimantan barat,kabupaten sanggau,3,4,300918.00
+2024,6,shopee,jawa timur,kota pasuruan,2,2,300850.00
+2024,7,shopee,jawa barat,kota sukabumi,3,3,300504.00
+2024,10,tiktok,jawa tengah,kabupaten grobogan,2,3,299866.00
+2024,7,shopee,bangka belitung,kabupaten bangka,3,3,299722.00
+2024,12,tiktok,kalimantan barat,kabupaten kubu raya,3,3,299243.00
+2024,10,tiktok,kalimantan timur,kabupaten penajam paser utara,3,3,298490.00
+2024,7,tiktok,jawa tengah,kabupaten cilacap,3,3,298321.00
+2024,9,shopee,jawa barat,kota sukabumi,4,4,297907.00
+2024,12,tiktok,kalimantan selatan,kabupaten tabalong,3,3,297724.00
+2024,8,shopee,jawa timur,kabupaten jember,5,5,297643.00
+2024,7,shopee,jawa barat,kota cimahi,3,3,297510.00
+2024,10,shopee,jawa tengah,kabupaten pati,4,5,297121.00
+2024,7,shopee,di yogyakarta,kabupaten bantul,4,5,297026.00
+2024,9,shopee,di yogyakarta,kabupaten kulon progo,3,3,296826.00
+2024,7,tiktok,jawa barat,kabupaten purwakarta,3,3,296570.00
+2024,10,shopee,bangka belitung,kota pangkal pinang,3,3,296137.00
+2024,9,tiktok,jawa tengah,kabupaten wonogiri,3,3,295906.00
+2024,10,tiktok,jawa timur,kota mojokerto,2,3,295732.00
+2024,6,shopee,jawa tengah,kabupaten purworejo,4,5,295281.00
+2024,7,tiktok,jawa tengah,kabupaten batang,3,3,295100.00
+2024,9,shopee,sumatera utara,kabupaten deli serdang,4,4,294985.00
+2024,7,shopee,di yogyakarta,kota yogyakarta,3,3,294907.00
+2024,10,tiktok,gorontalo,kota gorontalo,3,3,294357.00
+2024,11,tiktok,jawa tengah,kabupaten semarang,3,3,294068.00
+2024,6,shopee,sulawesi selatan,kota makassar,3,3,293932.00
+2024,6,tiktok,jawa barat,kota cirebon,2,2,293000.00
+2024,9,tiktok,jawa tengah,kabupaten purbalingga,3,4,292516.00
+2024,6,shopee,kalimantan timur,kota samarinda,3,3,292332.00
+2024,12,shopee,jawa tengah,kabupaten grobogan,4,4,291712.00
+2024,5,shopee,jawa tengah,kabupaten demak,3,4,291626.00
+2024,10,tiktok,jawa barat,kabupaten sukabumi,2,2,291191.00
+2024,9,shopee,jawa timur,kabupaten tulungagung,3,3,288619.00
+2024,5,shopee,jawa tengah,kabupaten kudus,3,3,288581.00
+2024,10,tiktok,sulawesi selatan,kabupaten pinrang,3,3,288137.00
+2024,8,shopee,jawa barat,kabupaten purwakarta,3,4,288080.00
+2024,9,tiktok,kalimantan timur,kabupaten kutai barat,3,3,287776.00
+2024,11,shopee,sumatera selatan,kabupaten musi banyuasin,3,5,287472.00
+2024,11,tiktok,jawa timur,kabupaten jombang,1,3,287446.00
+2024,5,shopee,jawa timur,kabupaten sidoarjo,4,6,286172.00
+2024,10,tiktok,sulawesi selatan,kabupaten bone,3,3,285940.00
+2024,7,shopee,jawa timur,kabupaten lumajang,3,3,285748.00
+2024,10,shopee,jawa tengah,kabupaten banjarnegara,3,5,285418.00
+2024,4,shopee,jawa barat,kota sukabumi,3,3,285304.00
+2024,6,tiktok,jawa timur,kabupaten sumenep,3,3,285208.00
+2024,8,shopee,jawa barat,kabupaten bandung barat,3,4,285021.00
+2024,9,shopee,jawa tengah,kabupaten karanganyar,5,5,284914.00
+2024,8,tiktok,kalimantan selatan,kabupaten tanah bumbu,2,3,284840.00
+2024,5,tiktok,jawa timur,kabupaten bangkalan,2,2,284650.00
+2024,11,shopee,jawa timur,kabupaten madiun,2,2,284114.00
+2024,10,tiktok,sulawesi selatan,kabupaten luwu timur,3,3,284084.00
+2024,4,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,3,3,283523.00
+2024,8,shopee,jawa tengah,kabupaten boyolali,4,4,283245.00
+2024,8,tiktok,kalimantan selatan,kabupaten hulu sungai selatan,3,3,281719.00
+2024,6,shopee,sumatera utara,kota medan,3,3,281282.00
+2024,9,shopee,sumatera selatan,kabupaten musi rawas,3,3,281082.00
+2024,7,shopee,banten,kota cilegon,3,3,280884.00
+2024,11,tiktok,jawa tengah,kota salatiga,3,3,280329.00
+2024,11,tiktok,sulawesi selatan,kabupaten luwu timur,3,3,280139.00
+2024,12,shopee,jawa timur,kabupaten nganjuk,5,5,279977.00
+2024,7,tiktok,riau,kota pekanbaru,3,3,278920.00
+2024,11,shopee,jawa tengah,kabupaten batang,3,3,278798.00
+2024,5,shopee,jawa barat,kabupaten purwakarta,3,3,277785.00
+2024,12,shopee,lampung,kabupaten lampung utara,3,3,276660.00
+2024,10,shopee,sumatera utara,kota medan,5,6,276516.00
+2024,8,shopee,bangka belitung,kota pangkal pinang,5,5,276432.00
+2024,8,shopee,lampung,kota metro,2,2,276371.00
+2024,8,shopee,jawa tengah,kabupaten tegal,6,8,276313.00
+2024,11,tiktok,lampung,kabupaten lampung utara,3,3,275795.00
+2024,12,tiktok,sulawesi selatan,kabupaten sidenreng rappang/rapang,3,3,275700.00
+2024,12,shopee,kalimantan selatan,kota banjarbaru,3,3,274918.00
+2024,12,tiktok,sumatera selatan,kabupaten muara enim,3,3,274034.00
+2024,10,tiktok,jawa timur,kabupaten magetan,3,3,274033.00
+2024,12,shopee,di yogyakarta,kabupaten kulon progo,3,3,273929.00
+2024,10,shopee,banten,kabupaten pandeglang,3,3,273174.00
+2024,6,tiktok,jawa tengah,kabupaten pemalang,2,2,272730.00
+2024,7,tiktok,sulawesi selatan,kabupaten wajo,1,1,272640.00
+2024,10,shopee,jawa tengah,kabupaten demak,3,3,271628.00
+2024,4,shopee,lampung,kabupaten lampung utara,1,1,271564.00
+2024,11,shopee,jawa timur,kota kediri,3,3,271272.00
+2024,7,shopee,kalimantan barat,kota pontianak,3,3,271132.00
+2024,9,shopee,kalimantan selatan,kabupaten tanah bumbu,2,2,271096.00
+2024,5,tiktok,bangka belitung,kabupaten belitung timur,2,2,271000.00
+2024,4,shopee,jawa timur,kabupaten jombang,3,3,270741.00
+2024,6,shopee,jawa timur,kabupaten lumajang,3,3,270137.00
+2024,11,tiktok,jawa timur,kabupaten jember,3,3,269926.00
+2024,7,tiktok,jawa timur,kota kediri,3,3,269616.00
+2024,5,tiktok,jawa barat,kabupaten bogor,3,3,269600.00
+2024,10,tiktok,lampung,kabupaten lampung utara,3,3,269552.00
+2024,8,tiktok,jawa tengah,kota pekalongan,2,2,269488.00
+2024,12,shopee,kalimantan barat,kabupaten sambas,1,1,269192.00
+2024,12,tiktok,jambi,kota jambi,3,3,268990.00
+2024,11,shopee,jawa tengah,kabupaten kebumen,3,3,268425.00
+2024,12,shopee,sumatera utara,kota medan,2,3,268424.00
+2024,9,shopee,banten,kota serang,3,3,267910.00
+2024,8,shopee,jawa timur,kota batu,3,3,267319.00
+2024,7,tiktok,jawa tengah,kabupaten kudus,3,3,267060.00
+2024,11,tiktok,bali,kabupaten klungkung,2,3,266341.00
+2024,8,shopee,riau,kota pekanbaru,3,3,265762.00
+2024,8,shopee,jawa timur,kabupaten lumajang,3,4,265743.00
+2024,12,shopee,jawa timur,kabupaten tulungagung,4,4,265377.00
+2024,6,tiktok,jawa barat,kabupaten indramayu,2,2,264245.00
+2024,8,shopee,jawa tengah,kabupaten klaten,3,3,264115.00
+2024,6,shopee,jawa barat,kabupaten kuningan,3,3,263386.00
+2024,9,shopee,jawa tengah,kabupaten rembang,3,3,263234.00
+2024,9,shopee,jawa timur,kota batu,2,3,262919.00
+2024,6,shopee,jawa tengah,kabupaten kebumen,3,3,261833.00
+2024,11,shopee,sumatera selatan,kabupaten muara enim,3,3,261437.00
+2024,11,tiktok,nusa tenggara barat (ntb),kabupaten lombok utara,3,3,261281.00
+2024,12,shopee,jawa tengah,kabupaten temanggung,3,3,260350.00
+2024,8,tiktok,sulawesi selatan,kabupaten luwu utara,2,3,259875.00
+2024,12,tiktok,jawa tengah,kabupaten temanggung,3,3,259715.00
+2024,4,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa,2,2,259280.00
+2024,9,shopee,sulawesi utara,kabupaten bolaang mongondow timur,2,5,259232.00
+2024,3,tiktok,jawa timur,kota surabaya,3,3,259040.00
+2024,8,shopee,banten,kabupaten serang,4,4,258838.00
+2024,10,shopee,jawa tengah,kabupaten grobogan,3,3,258695.00
+2024,4,tiktok,kalimantan timur,kota samarinda,3,3,258513.00
+2024,12,shopee,jawa barat,kabupaten ciamis,3,3,258364.00
+2024,9,shopee,lampung,kabupaten tulang bawang barat,3,4,258229.00
+2024,7,tiktok,sumatera utara,kabupaten tapanuli utara,1,1,258000.00
+2024,6,shopee,jawa tengah,kabupaten magelang,3,4,257744.00
+2024,9,tiktok,jambi,kota jambi,3,3,257511.00
+2024,7,tiktok,jawa timur,kabupaten magetan,2,2,257500.00
+2024,7,shopee,jawa barat,kabupaten bandung barat,4,4,257486.00
+2024,9,shopee,di yogyakarta,kabupaten bantul,3,3,256233.00
+2024,10,tiktok,sulawesi tengah,kabupaten sigi,1,2,255780.00
+2024,9,shopee,jawa barat,kabupaten tasikmalaya,3,5,255303.00
+2024,4,shopee,jawa timur,kabupaten sidoarjo,3,3,255192.00
+2024,5,shopee,jawa tengah,kabupaten magelang,4,4,255017.00
+2024,6,tiktok,riau,kota pekanbaru,2,2,254850.00
+2024,8,shopee,banten,kabupaten lebak,4,4,254419.00
+2024,11,shopee,jawa tengah,kabupaten temanggung,3,3,254112.00
+2024,7,shopee,jawa barat,kabupaten purwakarta,3,3,254110.00
+2024,12,tiktok,di yogyakarta,kabupaten gunung kidul,3,3,253823.00
+2024,6,shopee,kalimantan barat,kota pontianak,2,2,253200.00
+2024,6,tiktok,bangka belitung,kabupaten belitung timur,2,2,253195.00
+2024,5,tiktok,bali,kabupaten gianyar,2,2,252935.00
+2024,7,shopee,banten,kota serang,4,5,252671.00
+2024,6,shopee,kalimantan barat,kabupaten kubu raya,3,3,252353.00
+2024,7,shopee,kalimantan timur,kota samarinda,2,2,252275.00
+2024,5,tiktok,jawa timur,kabupaten sumenep,2,2,252180.00
+2024,9,tiktok,kalimantan barat,kabupaten kubu raya,3,3,252119.00
+2024,9,shopee,sumatera utara,kota medan,5,5,251585.00
+2024,11,shopee,sulawesi utara,kabupaten minahasa,2,2,250277.00
+2024,9,shopee,lampung,kabupaten pesisir barat,1,1,250064.00
+2024,9,tiktok,jawa timur,kabupaten madiun,2,3,249800.00
+2024,11,tiktok,kalimantan selatan,kabupaten barito kuala,1,2,249650.00
+2024,8,tiktok,jambi,kota sungaipenuh,2,2,249115.00
+2024,7,tiktok,sulawesi tengah,kabupaten banggai,1,2,248650.00
+2024,12,shopee,jawa barat,kabupaten sumedang,3,3,248239.00
+2024,12,shopee,kalimantan tengah,kabupaten katingan,1,1,247732.00
+2024,6,shopee,lampung,kabupaten mesuji,1,1,247440.00
+2024,12,tiktok,jawa timur,kabupaten malang,3,3,247408.00
+2024,6,shopee,sulawesi tengah,kabupaten morowali utara,2,2,246595.00
+2024,9,tiktok,sulawesi selatan,kabupaten gowa,2,2,246509.00
+2024,5,tiktok,jawa tengah,kabupaten magelang,2,2,246180.00
+2024,5,shopee,jawa timur,kabupaten kediri,3,3,244849.00
+2024,8,tiktok,jawa timur,kabupaten blitar,2,2,244000.00
+2024,5,shopee,jawa tengah,kabupaten sukoharjo,3,3,243390.00
+2024,10,shopee,jawa timur,kabupaten pasuruan,4,4,243076.00
+2024,11,tiktok,banten,kabupaten lebak,2,2,242420.00
+2024,9,tiktok,kalimantan tengah,kota palangka raya,2,2,241021.00
+2024,12,tiktok,jawa tengah,kabupaten klaten,3,3,240626.00
+2024,8,shopee,kalimantan timur,kabupaten kutai kartanegara,2,3,240572.00
+2024,8,tiktok,lampung,kota bandar lampung,2,2,240512.00
+2024,6,shopee,bengkulu,kabupaten bengkulu tengah,1,1,240482.00
+2024,12,tiktok,lampung,kabupaten lampung selatan,2,2,240342.00
+2024,12,shopee,sulawesi utara,kota manado,2,2,240299.00
+2024,11,tiktok,sulawesi tenggara,kabupaten bombana,2,2,240127.00
+2024,7,tiktok,sulawesi selatan,kabupaten sinjai,2,2,239100.00
+2024,10,tiktok,jawa tengah,kabupaten purworejo,2,2,239007.00
+2024,6,shopee,lampung,kabupaten tulang bawang barat,2,2,238830.00
+2024,6,shopee,kepulauan riau,kabupaten karimun,2,2,238700.00
+2024,7,shopee,kalimantan tengah,kota palangka raya,3,3,238502.00
+2024,6,tiktok,bali,kabupaten jembrana,3,3,238479.00
+2024,10,tiktok,kalimantan selatan,kabupaten hulu sungai utara,1,1,238312.00
+2024,6,tiktok,sulawesi selatan,kabupaten soppeng,2,2,238050.00
+2024,7,tiktok,sumatera selatan,kabupaten ogan komering ulu timur,1,1,238000.00
+2024,10,shopee,kalimantan timur,kabupaten berau,2,2,237472.00
+2024,6,shopee,sumatera utara,kabupaten mandailing natal,1,1,237132.00
+2024,10,shopee,sulawesi utara,kota manado,3,3,237076.00
+2024,11,tiktok,kepulauan riau,kabupaten karimun,2,2,236946.00
+2024,11,shopee,sulawesi selatan,kota makassar,2,2,236835.00
+2024,4,tiktok,jawa barat,kabupaten bogor,2,2,236742.00
+2024,12,shopee,kalimantan tengah,kabupaten kota waringin barat,2,2,236528.00
+2024,6,shopee,jawa tengah,kabupaten demak,4,5,236192.00
+2024,8,shopee,lampung,kabupaten lampung selatan,2,2,236134.00
+2024,5,tiktok,jawa barat,kabupaten bandung barat,2,2,235700.00
+2024,12,shopee,jawa timur,kota mojokerto,2,2,235612.00
+2024,11,shopee,bengkulu,kabupaten bengkulu selatan,2,2,234981.00
+2024,12,tiktok,jawa tengah,kabupaten pekalongan,2,2,234754.00
+2024,6,tiktok,dki jakarta,kota jakarta pusat,2,2,234338.00
+2024,10,shopee,sulawesi utara,kabupaten bolaang mongondow (bolmong),2,2,234178.00
+2024,8,tiktok,sulawesi selatan,kabupaten soppeng,2,2,234160.00
+2024,6,tiktok,jawa barat,kabupaten ciamis,3,3,233959.00
+2024,10,shopee,di yogyakarta,kabupaten gunung kidul,3,5,233620.00
+2024,10,tiktok,lampung,kabupaten lampung timur,3,3,232840.00
+2024,6,tiktok,riau,kabupaten kampar,1,1,232400.00
+2024,11,shopee,jawa tengah,kota magelang,2,2,232369.00
+2024,7,shopee,jawa barat,kabupaten sumedang,3,3,232075.00
+2024,8,tiktok,sulawesi selatan,kabupaten luwu,2,2,232020.00
+2024,12,tiktok,jawa barat,kabupaten ciamis,3,3,231826.00
+2024,5,tiktok,jawa tengah,kabupaten sukoharjo,2,2,231800.00
+2024,10,tiktok,kalimantan selatan,kabupaten hulu sungai tengah,2,2,231254.00
+2024,11,tiktok,sulawesi tengah,kabupaten morowali,2,2,231000.00
+2024,12,tiktok,bangka belitung,kabupaten bangka selatan,2,2,230840.00
+2024,12,tiktok,jawa tengah,kota magelang,2,2,230802.00
+2024,11,tiktok,jawa tengah,kabupaten pekalongan,2,2,230631.00
+2024,7,tiktok,gorontalo,kota gorontalo,2,2,230480.00
+2024,9,tiktok,sumatera utara,kabupaten karo,2,2,230260.00
+2024,6,tiktok,bangka belitung,kabupaten belitung,2,2,230100.00
+2024,11,shopee,sumatera utara,kabupaten mandailing natal,1,1,230008.00
+2024,10,shopee,jawa barat,kota tasikmalaya,2,2,229850.00
+2024,8,shopee,banten,kabupaten pandeglang,2,2,229471.00
+2024,9,shopee,jambi,kabupaten merangin,2,2,229400.00
+2024,7,tiktok,di yogyakarta,kabupaten kulon progo,2,2,229370.00
+2024,8,tiktok,sulawesi tengah,kabupaten banggai,2,2,229331.00
+2024,8,shopee,kalimantan timur,kabupaten kutai timur,2,2,229247.00
+2024,6,tiktok,jawa tengah,kabupaten kudus,2,2,229069.00
+2024,10,shopee,jawa timur,kabupaten bojonegoro,3,4,228726.00
+2024,8,shopee,jawa tengah,kabupaten kudus,3,3,228721.00
+2024,11,shopee,jawa barat,kabupaten purwakarta,3,3,228691.00
+2024,5,shopee,banten,kabupaten lebak,2,2,228657.00
+2024,8,tiktok,jawa tengah,kabupaten blora,1,1,228400.00
+2024,12,tiktok,kalimantan selatan,kabupaten hulu sungai tengah,3,3,227987.00
+2024,11,tiktok,kalimantan barat,kabupaten kubu raya,2,2,227805.00
+2024,10,tiktok,jawa timur,kabupaten lamongan,2,2,227800.00
+2024,6,tiktok,jawa tengah,kabupaten banyumas,2,2,227794.00
+2024,10,shopee,jawa tengah,kabupaten purbalingga,3,3,227734.00
+2024,6,tiktok,banten,kota cilegon,2,2,226957.00
+2024,6,tiktok,sumatera selatan,kota prabumulih,1,3,226916.00
+2024,11,shopee,bengkulu,kabupaten bengkulu utara,2,2,226774.00
+2024,10,tiktok,sulawesi utara,kota bitung,2,2,226479.00
+2024,9,tiktok,sulawesi selatan,kabupaten jeneponto,2,2,226430.00
+2024,11,tiktok,sumatera selatan,kabupaten muara enim,2,2,226336.00
+2024,9,tiktok,riau,kabupaten rokan hulu,2,2,226180.00
+2024,11,shopee,jambi,kabupaten kerinci,2,2,226150.00
+2024,7,tiktok,kalimantan timur,kabupaten kutai timur,2,2,225720.00
+2024,9,tiktok,sulawesi selatan,kabupaten bantaeng,2,2,225482.00
+2024,11,tiktok,jawa tengah,kabupaten demak,1,2,225250.00
+2024,5,tiktok,jawa barat,kabupaten bandung,2,2,225150.00
+2024,4,tiktok,jawa barat,kabupaten bekasi,1,2,225040.00
+2024,6,tiktok,jawa barat,kabupaten kuningan,2,2,225000.00
+2024,11,tiktok,kalimantan barat,kota pontianak,3,3,224826.00
+2024,7,tiktok,kalimantan selatan,kabupaten tabalong,2,2,224820.00
+2024,11,shopee,di yogyakarta,kabupaten kulon progo,2,2,224604.00
+2024,11,tiktok,nusa tenggara timur (ntt),kota kupang,2,2,224533.00
+2024,11,tiktok,kalimantan tengah,kota palangka raya,2,2,224503.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten bima,2,2,224040.00
+2024,12,shopee,sumatera selatan,kabupaten musi rawas,2,2,223771.00
+2024,8,shopee,sumatera selatan,kabupaten ogan ilir,2,2,223466.00
+2024,11,shopee,kalimantan timur,kota balikpapan,2,2,223419.00
+2024,12,shopee,sumatera selatan,kabupaten ogan komering ilir,2,2,223361.00
+2024,8,tiktok,sulawesi tengah,kota palu,3,3,223175.00
+2024,12,shopee,kalimantan timur,kota samarinda,2,2,223004.00
+2024,5,tiktok,jawa timur,kabupaten banyuwangi,2,2,222800.00
+2024,12,tiktok,kalimantan selatan,kabupaten tapin,1,2,222785.00
+2024,8,shopee,kalimantan tengah,kabupaten kota waringin timur,2,2,222687.00
+2024,12,shopee,sulawesi utara,kabupaten bolaang mongondow (bolmong),2,2,222064.00
+2024,6,shopee,jawa barat,kabupaten indramayu,3,3,222052.00
+2024,11,shopee,jambi,kabupaten batang hari,2,2,221876.00
+2024,11,shopee,lampung,kota metro,3,4,221302.00
+2024,9,tiktok,lampung,kabupaten lampung utara,2,2,221200.00
+2024,10,shopee,kalimantan timur,kota balikpapan,2,2,221139.00
+2024,4,shopee,lampung,kabupaten way kanan,2,2,220972.00
+2024,9,shopee,jawa timur,kabupaten lumajang,3,3,220916.00
+2024,10,shopee,sulawesi tenggara,kabupaten kolaka,2,3,220888.00
+2024,11,shopee,bali,kabupaten badung,2,2,220797.00
+2024,12,tiktok,nusa tenggara timur (ntt),kabupaten manggarai,1,2,220770.00
+2024,12,shopee,jawa barat,kota tasikmalaya,2,2,220770.00
+2024,8,tiktok,nusa tenggara timur (ntt),kota kupang,2,2,220575.00
+2024,10,shopee,sumatera utara,kota binjai,2,2,220534.00
+2024,10,shopee,kalimantan tengah,kabupaten kota waringin timur,2,2,220465.00
+2024,8,shopee,jawa barat,kota sukabumi,3,3,220443.00
+2024,10,tiktok,riau,kabupaten bengkalis,2,2,220339.00
+2024,10,tiktok,kalimantan tengah,kabupaten pulang pisau,1,2,220232.00
+2024,6,tiktok,jawa tengah,kabupaten temanggung,2,2,220150.00
+2024,9,tiktok,jawa tengah,kabupaten pekalongan,2,2,220140.00
+2024,10,shopee,jawa tengah,kabupaten kendal,2,2,220118.00
+2024,10,shopee,sumatera utara,kabupaten serdang bedagai,2,2,220075.00
+2024,9,tiktok,sumatera barat,kota padang,1,2,220069.00
+2024,11,tiktok,jawa timur,kabupaten situbondo,2,2,220012.00
+2024,9,shopee,sumatera utara,kabupaten simalungun,2,2,219682.00
+2024,11,shopee,kalimantan barat,kabupaten ketapang,1,1,219562.00
+2024,5,tiktok,sulawesi selatan,kota makassar,2,2,219240.00
+2024,9,shopee,jawa timur,kabupaten ponorogo,3,3,219158.00
+2024,8,tiktok,sulawesi utara,kabupaten minahasa,2,2,219014.00
+2024,5,tiktok,dki jakarta,kota jakarta utara,1,2,218700.00
+2024,12,tiktok,gorontalo,kabupaten pohuwato,1,2,218643.00
+2024,11,shopee,jawa tengah,kabupaten rembang,2,2,218619.00
+2024,11,tiktok,jawa tengah,kabupaten pati,2,2,218165.00
+2024,10,tiktok,jawa barat,kabupaten majalengka,2,2,218160.00
+2024,9,tiktok,sumatera utara,kota pematang siantar,1,2,217972.00
+2024,6,tiktok,banten,kabupaten serang,2,2,217760.00
+2024,11,shopee,jawa tengah,kota surakarta (solo),3,3,217654.00
+2024,5,shopee,jawa timur,kabupaten nganjuk,2,2,217384.00
+2024,8,tiktok,di yogyakarta,kabupaten kulon progo,2,2,217150.00
+2024,9,tiktok,jawa barat,kota sukabumi,2,2,217092.00
+2024,8,tiktok,riau,kabupaten kampar,2,2,217070.00
+2024,7,tiktok,sulawesi utara,kabupaten minahasa utara,2,2,217000.00
+2024,8,shopee,kalimantan barat,kota pontianak,3,3,216774.00
+2024,8,tiktok,sulawesi utara,kabupaten minahasa utara,2,2,216623.00
+2024,6,tiktok,kepulauan riau,kabupaten bintan,2,2,216356.00
+2024,7,tiktok,riau,kabupaten indragiri hilir,2,2,216334.00
+2024,10,tiktok,sulawesi selatan,kabupaten wajo,1,2,216200.00
+2024,10,tiktok,kalimantan selatan,kabupaten tabalong,2,2,216200.00
+2024,11,shopee,sumatera utara,kabupaten serdang bedagai,2,2,216183.00
+2024,9,tiktok,kalimantan timur,kabupaten kutai kartanegara,3,3,216170.00
+2024,7,tiktok,lampung,kabupaten lampung utara,1,1,216100.00
+2024,8,shopee,jawa timur,kabupaten trenggalek,2,2,216065.00
+2024,11,shopee,jawa timur,kota madiun,2,4,216018.00
+2024,6,tiktok,jawa barat,kabupaten sukabumi,1,2,215745.00
+2024,6,tiktok,di yogyakarta,kabupaten bantul,2,2,215680.00
+2024,10,shopee,kalimantan selatan,kabupaten tabalong,2,2,215585.00
+2024,8,shopee,bangka belitung,kabupaten bangka,2,2,215575.00
+2024,9,tiktok,kalimantan selatan,kabupaten hulu sungai tengah,2,2,215433.00
+2024,4,tiktok,jawa barat,kota bandung,2,2,215328.00
+2024,10,shopee,sulawesi selatan,kabupaten gowa,2,2,215315.00
+2024,4,tiktok,jawa barat,kota tasikmalaya,1,2,215170.00
+2024,7,tiktok,lampung,kabupaten tanggamus,2,2,215158.00
+2024,11,shopee,kalimantan tengah,kabupaten kota waringin timur,2,2,215100.00
+2024,10,shopee,lampung,kabupaten lampung selatan,2,3,214973.00
+2024,8,tiktok,sulawesi tenggara,kabupaten konawe,2,2,214845.00
+2024,9,tiktok,jawa timur,kabupaten probolinggo,2,2,214740.00
+2024,4,shopee,jawa barat,kota bogor,2,2,214550.00
+2024,4,tiktok,jawa barat,kabupaten cianjur,1,2,214480.00
+2024,8,tiktok,banten,kabupaten pandeglang,2,2,214104.00
+2024,9,tiktok,jawa tengah,kabupaten rembang,2,2,214089.00
+2024,8,tiktok,bangka belitung,kabupaten bangka barat,1,1,213968.00
+2024,11,shopee,jawa barat,kabupaten kuningan,2,3,213927.00
+2024,12,tiktok,jawa tengah,kabupaten demak,2,2,213900.00
+2024,10,shopee,lampung,kota metro,2,2,213840.00
+2024,8,shopee,kalimantan timur,kota balikpapan,1,1,213820.00
+2024,7,shopee,jawa timur,kabupaten jember,2,2,213125.00
+2024,12,shopee,bengkulu,kota bengkulu,2,2,213107.00
+2024,7,tiktok,kalimantan selatan,kabupaten tanah laut,2,2,212995.00
+2024,4,tiktok,jawa barat,kota cimahi,2,2,212438.00
+2024,9,shopee,jambi,kabupaten kerinci,3,3,212378.00
+2024,9,shopee,kalimantan barat,kota pontianak,2,2,212257.00
+2024,5,tiktok,dki jakarta,kota jakarta selatan,2,2,212064.00
+2024,8,shopee,jawa tengah,kota pekalongan,4,4,211987.00
+2024,11,shopee,kalimantan tengah,kabupaten katingan,2,2,211957.00
+2024,9,shopee,jawa timur,kabupaten ngawi,2,2,211759.00
+2024,10,tiktok,sulawesi selatan,kabupaten luwu utara,2,2,211642.00
+2024,12,shopee,jawa barat,kabupaten cirebon,2,2,211354.00
+2024,7,tiktok,riau,kabupaten kampar,2,2,211280.00
+2024,10,shopee,sumatera selatan,kabupaten muara enim,2,3,211012.00
+2024,11,tiktok,lampung,kota metro,2,2,210986.00
+2024,10,shopee,jawa timur,kabupaten nganjuk,3,3,210859.00
+2024,8,shopee,bengkulu,kota bengkulu,2,2,210784.00
+2024,11,shopee,jambi,kabupaten sarolangun,2,2,210744.00
+2024,7,tiktok,sulawesi selatan,kabupaten takalar,2,2,210648.00
+2024,7,shopee,bali,kota denpasar,3,3,210624.00
+2024,8,tiktok,sulawesi selatan,kabupaten maros,2,2,210600.00
+2024,7,shopee,sumatera selatan,kabupaten ogan komering ulu selatan,2,2,210416.00
+2024,9,tiktok,sumatera utara,kabupaten labuhan batu selatan,1,2,210400.00
+2024,8,tiktok,sumatera selatan,kabupaten ogan komering ilir,2,2,210317.00
+2024,12,shopee,lampung,kabupaten pesawaran,2,2,210201.00
+2024,12,shopee,jawa tengah,kabupaten karanganyar,2,2,210112.00
+2024,9,tiktok,bali,kabupaten karangasem,2,2,210012.00
+2024,6,tiktok,jawa barat,kabupaten purwakarta,2,3,210000.00
+2024,10,shopee,sulawesi selatan,kota makassar,2,2,209961.00
+2024,12,tiktok,bangka belitung,kabupaten belitung timur,2,2,209907.00
+2024,6,shopee,bengkulu,kabupaten bengkulu selatan,2,2,209845.00
+2024,11,tiktok,jawa barat,kabupaten kuningan,2,2,209726.00
+2024,8,shopee,jawa timur,kabupaten bojonegoro,5,5,209440.00
+2024,11,shopee,jawa timur,kabupaten jember,3,3,209328.00
+2024,12,shopee,di yogyakarta,kota yogyakarta,2,2,209325.00
+2024,10,tiktok,jawa timur,kota pasuruan,2,2,208952.00
+2024,12,tiktok,kalimantan tengah,kabupaten kota waringin barat,2,2,208916.00
+2024,10,tiktok,sulawesi selatan,kabupaten sidenreng rappang/rapang,2,2,208843.00
+2024,11,shopee,kalimantan tengah,kabupaten seruyan,3,3,208740.00
+2024,12,tiktok,jawa tengah,kabupaten grobogan,2,2,208663.00
+2024,12,shopee,jambi,kabupaten tebo,2,2,208621.00
+2024,3,shopee,jawa timur,kabupaten mojokerto,3,3,208560.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa barat,2,2,208400.00
+2024,6,tiktok,jawa tengah,kabupaten kendal,2,2,208264.00
+2024,11,tiktok,riau,kabupaten rokan hilir,2,2,208060.00
+2024,8,tiktok,jawa tengah,kabupaten jepara,3,3,207961.00
+2024,9,tiktok,jawa timur,kabupaten mojokerto,2,2,207832.00
+2024,4,tiktok,dki jakarta,kota jakarta pusat,2,2,207780.00
+2024,9,shopee,sulawesi tengah,kabupaten morowali,2,2,207514.00
+2024,4,tiktok,jawa timur,kabupaten bangkalan,2,2,207180.00
+2024,10,tiktok,nanggroe aceh darussalam (nad),kabupaten aceh singkil,2,2,207132.00
+2024,11,shopee,riau,kabupaten kampar,2,2,207076.00
+2024,9,shopee,jawa barat,kabupaten purwakarta,3,3,207044.00
+2024,12,tiktok,jawa timur,kabupaten kediri,2,2,206965.00
+2024,12,shopee,sumatera selatan,kabupaten ogan komering ulu selatan,2,2,206878.00
+2024,7,shopee,jambi,kabupaten batang hari,2,2,206442.00
+2024,6,shopee,jawa timur,kota blitar,2,2,206370.00
+2024,12,shopee,bali,kabupaten badung,2,2,205992.00
+2024,12,tiktok,jawa timur,kota pasuruan,1,1,205939.00
+2024,9,tiktok,nanggroe aceh darussalam (nad),kota banda aceh,2,2,205718.00
+2024,10,tiktok,jawa timur,kota batu,2,2,205446.00
+2024,10,tiktok,kalimantan selatan,kabupaten tanah bumbu,1,1,205150.00
+2024,12,shopee,sumatera utara,kota tebing tinggi,2,3,205109.00
+2024,6,shopee,jawa tengah,kabupaten grobogan,2,3,204906.00
+2024,4,tiktok,jawa barat,kabupaten subang,2,2,204819.00
+2024,5,shopee,jawa tengah,kabupaten karanganyar,2,2,204697.00
+2024,7,tiktok,kalimantan selatan,kabupaten barito kuala,2,2,203635.00
+2024,7,shopee,kalimantan barat,kabupaten kapuas hulu,2,2,203407.00
+2024,10,shopee,lampung,kabupaten lampung utara,4,4,203046.00
+2024,12,tiktok,riau,kabupaten indragiri hilir,2,2,202916.00
+2024,12,shopee,kalimantan timur,kabupaten berau,2,2,202870.00
+2024,4,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,2,2,202240.00
+2024,12,shopee,jawa timur,kota pasuruan,2,2,202185.00
+2024,9,tiktok,sulawesi selatan,kabupaten takalar,2,2,201476.00
+2024,5,tiktok,kalimantan barat,kota pontianak,2,2,201450.00
+2024,7,tiktok,jawa timur,kabupaten bondowoso,2,2,201430.00
+2024,11,shopee,jawa tengah,kabupaten wonogiri,2,2,201322.00
+2024,11,shopee,sumatera selatan,kabupaten empat lawang,2,2,201281.00
+2024,9,shopee,jambi,kota jambi,2,2,201269.00
+2024,11,tiktok,kalimantan tengah,kabupaten barito timur,1,1,201206.00
+2024,7,shopee,lampung,kabupaten tulang bawang barat,2,2,200757.00
+2024,10,shopee,jawa timur,kabupaten madiun,2,2,200641.00
+2024,6,tiktok,jawa timur,kabupaten pamekasan,1,2,200500.00
+2024,7,tiktok,jawa timur,kota pasuruan,2,2,200280.00
+2024,12,tiktok,jawa tengah,kabupaten sragen,2,3,200051.00
+2024,9,tiktok,banten,kabupaten lebak,2,2,199983.00
+2024,12,shopee,jawa tengah,kota pekalongan,2,2,199910.00
+2024,10,tiktok,jawa tengah,kabupaten jepara,2,2,199892.00
+2024,7,tiktok,jawa tengah,kabupaten kendal,2,2,199813.00
+2024,10,shopee,banten,kota cilegon,2,2,199739.00
+2024,10,tiktok,sulawesi selatan,kabupaten soppeng,2,2,199352.00
+2024,10,tiktok,jawa barat,kabupaten subang,2,2,199262.00
+2024,9,tiktok,bangka belitung,kabupaten belitung timur,2,2,199220.00
+2024,10,tiktok,jawa tengah,kabupaten sragen,2,2,199032.00
+2024,10,tiktok,sulawesi tengah,kabupaten morowali,2,2,198930.00
+2024,10,tiktok,kalimantan selatan,kabupaten balangan,2,2,198776.00
+2024,5,shopee,jawa tengah,kota salatiga,2,2,198709.00
+2024,10,tiktok,sulawesi barat,kabupaten mamuju,2,2,198524.00
+2024,10,tiktok,lampung,kabupaten tanggamus,1,1,198408.00
+2024,11,tiktok,jawa timur,kabupaten trenggalek,2,2,198220.00
+2024,8,shopee,kalimantan selatan,kabupaten tapin,2,3,198199.00
+2024,12,tiktok,sulawesi selatan,kota parepare,2,2,197756.00
+2024,7,tiktok,lampung,kota metro,1,2,197700.00
+2024,5,tiktok,bali,kabupaten jembrana,2,2,197660.00
+2024,7,shopee,jawa barat,kabupaten kuningan,2,3,197607.00
+2024,10,tiktok,jawa tengah,kabupaten purbalingga,2,2,197408.00
+2024,12,tiktok,sumatera utara,kabupaten deli serdang,2,2,197306.00
+2024,6,shopee,lampung,kabupaten lampung selatan,2,2,197281.00
+2024,9,tiktok,kalimantan selatan,kabupaten tabalong,2,2,197262.00
+2024,11,tiktok,jawa barat,kabupaten majalengka,2,2,196982.00
+2024,6,shopee,jawa timur,kabupaten bangkalan,2,2,196666.00
+2024,5,shopee,jawa timur,kabupaten madiun,2,2,196553.00
+2024,4,shopee,jawa barat,kabupaten bandung,2,2,196491.00
+2024,4,tiktok,kalimantan selatan,kabupaten tapin,2,2,196280.00
+2024,12,tiktok,nusa tenggara barat (ntb),kota bima,2,2,196036.00
+2024,5,shopee,jawa tengah,kabupaten semarang,2,4,195944.00
+2024,8,shopee,bali,kota denpasar,2,2,195930.00
+2024,6,shopee,jambi,kota jambi,2,2,195930.00
+2024,11,shopee,jawa timur,kota probolinggo,3,3,195875.00
+2024,6,shopee,jawa timur,kota mojokerto,2,2,195522.00
+2024,5,shopee,jawa timur,kabupaten malang,2,2,195483.00
+2024,7,shopee,sulawesi selatan,kabupaten pangkajene kepulauan,2,2,195433.00
+2024,9,shopee,riau,kabupaten bengkalis,2,2,194976.00
+2024,6,shopee,jambi,kabupaten muaro jambi,2,2,194846.00
+2024,11,tiktok,jawa timur,kabupaten madiun,2,2,194843.00
+2024,5,shopee,kalimantan timur,kota balikpapan,2,2,194519.00
+2024,12,tiktok,jawa tengah,kabupaten purworejo,2,2,194378.00
+2024,6,shopee,jawa timur,kabupaten jember,3,3,194352.00
+2024,8,shopee,jawa timur,kota madiun,3,7,193955.00
+2024,7,tiktok,jawa barat,kabupaten tasikmalaya,2,2,193780.00
+2024,7,shopee,sumatera selatan,kabupaten lahat,2,2,193625.00
+2024,5,shopee,jawa barat,kabupaten cianjur,2,2,193418.00
+2024,8,shopee,sumatera selatan,kabupaten ogan komering ulu timur,4,4,193062.00
+2024,6,shopee,gorontalo,kabupaten pohuwato,1,1,193050.00
+2024,12,shopee,sulawesi barat,kabupaten polewali mandar,1,2,192736.00
+2024,12,tiktok,sulawesi utara,kota kotamobagu,2,2,192727.00
+2024,6,shopee,jawa barat,kota cimahi,2,2,192374.00
+2024,4,shopee,jawa timur,kabupaten nganjuk,2,2,191506.00
+2024,8,shopee,jambi,kabupaten bungo,2,2,191337.00
+2024,11,shopee,jawa timur,kabupaten ponorogo,3,3,189999.00
+2024,7,shopee,jawa tengah,kota salatiga,2,2,189998.00
+2024,5,shopee,kalimantan selatan,kota banjarmasin,2,2,189986.00
+2024,12,shopee,jambi,kabupaten batang hari,2,3,189939.00
+2024,11,shopee,kalimantan timur,kabupaten kutai timur,2,2,189684.00
+2024,5,shopee,sulawesi tenggara,kabupaten kolaka,2,2,189656.00
+2024,8,shopee,jawa barat,kota tasikmalaya,1,1,189618.00
+2024,9,shopee,kalimantan selatan,kota banjarbaru,3,3,189592.00
+2024,9,shopee,kalimantan selatan,kabupaten tanah laut,3,3,189309.00
+2024,7,tiktok,jawa tengah,kabupaten wonogiri,2,2,189280.00
+2024,5,tiktok,di yogyakarta,kabupaten sleman,2,2,189150.00
+2024,10,shopee,lampung,kabupaten tanggamus,2,2,188938.00
+2024,7,shopee,kalimantan timur,kota balikpapan,3,3,188924.00
+2024,7,shopee,jawa timur,kabupaten banyuwangi,4,6,188601.00
+2024,9,shopee,sulawesi selatan,kabupaten luwu utara,1,1,188572.00
+2024,9,shopee,jawa timur,kabupaten tuban,3,3,188338.00
+2024,4,shopee,jawa timur,kabupaten blitar,3,3,187936.00
+2024,9,tiktok,kalimantan selatan,kabupaten hulu sungai utara,1,2,187416.00
+2024,9,shopee,kalimantan tengah,kota palangka raya,2,2,187324.00
+2024,10,tiktok,kalimantan barat,kabupaten sambas,1,1,187116.00
+2024,12,shopee,lampung,kota metro,2,2,186619.00
+2024,5,shopee,jawa tengah,kabupaten temanggung,2,2,186578.00
+2024,11,tiktok,sulawesi utara,kota manado,2,2,186441.00
+2024,8,tiktok,sulawesi utara,kota manado,2,2,186080.00
+2024,7,shopee,jawa timur,kabupaten madiun,2,2,185830.00
+2024,12,shopee,nanggroe aceh darussalam (nad),kabupaten aceh singkil,2,2,185193.00
+2024,6,shopee,jawa barat,kabupaten majalengka,4,4,184936.00
+2024,6,shopee,jawa barat,kabupaten garut,2,2,184926.00
+2024,12,shopee,sumatera selatan,kota palembang,5,6,184823.00
+2024,11,shopee,jawa barat,kabupaten sumedang,4,4,184707.00
+2024,10,tiktok,jawa timur,kabupaten lumajang,2,2,184484.00
+2024,7,shopee,kalimantan timur,kabupaten kutai kartanegara,2,2,184052.00
+2024,5,tiktok,sumatera selatan,kota palembang,1,2,183867.00
+2024,8,tiktok,jawa barat,kota cirebon,2,2,183760.00
+2024,11,shopee,kalimantan timur,kota samarinda,2,2,183681.00
+2024,7,tiktok,sulawesi barat,kabupaten mamuju utara,2,2,183198.00
+2024,7,shopee,jawa timur,kabupaten tuban,2,2,183154.00
+2024,12,tiktok,jawa timur,kota kediri,2,2,182922.00
+2024,6,shopee,dki jakarta,kabupaten kepulauan seribu,2,2,182856.00
+2024,6,tiktok,jawa timur,kota pasuruan,2,2,182806.00
+2024,4,shopee,jambi,kabupaten tebo,1,1,182682.00
+2024,8,tiktok,kalimantan tengah,kabupaten kota waringin timur,2,2,182520.00
+2024,10,shopee,kalimantan barat,kota pontianak,3,3,182127.00
+2024,6,shopee,banten,kabupaten pandeglang,3,5,182108.00
+2024,8,shopee,jawa tengah,kabupaten wonosobo,3,3,180372.00
+2024,6,tiktok,lampung,kabupaten lampung selatan,2,2,180094.00
+2024,11,shopee,jawa barat,kabupaten garut,4,4,180000.00
+2024,8,shopee,jawa barat,kabupaten majalengka,2,2,179644.00
+2024,10,tiktok,jawa timur,kota probolinggo,1,2,179321.00
+2024,9,tiktok,jawa timur,kabupaten bondowoso,2,2,179240.00
+2024,12,shopee,kalimantan barat,kabupaten sintang,2,2,178677.00
+2024,12,shopee,jawa timur,kota madiun,2,3,178341.00
+2024,7,tiktok,jawa timur,kabupaten kediri,2,2,178330.00
+2024,6,tiktok,sulawesi selatan,kabupaten maros,1,1,178100.00
+2024,6,shopee,sumatera utara,kota binjai,2,2,177323.00
+2024,6,tiktok,jawa barat,kota banjar,2,2,177100.00
+2024,9,shopee,lampung,kabupaten lampung barat,2,2,176794.00
+2024,6,tiktok,jawa barat,kota cimahi,2,2,176100.00
+2024,6,shopee,jawa timur,kabupaten magetan,3,3,176049.00
+2024,3,shopee,banten,kota tangerang selatan,2,2,176000.00
+2024,12,tiktok,sulawesi tenggara,kota kendari,2,2,175285.00
+2024,7,shopee,kepulauan riau,kota tanjung pinang,2,2,175276.00
+2024,9,shopee,sumatera selatan,kabupaten ogan komering ulu selatan,2,2,174938.00
+2024,9,shopee,jawa timur,kabupaten magetan,3,3,174927.00
+2024,11,shopee,jawa tengah,kabupaten wonosobo,2,2,174894.00
+2024,12,tiktok,jawa timur,kabupaten trenggalek,2,2,174857.00
+2024,5,shopee,jawa tengah,kabupaten pemalang,2,2,174790.00
+2024,6,shopee,jawa tengah,kota pekalongan,2,2,174659.00
+2024,12,tiktok,jawa barat,kabupaten majalengka,2,2,174599.00
+2024,3,shopee,jawa barat,kota bogor,2,2,174000.00
+2024,6,shopee,jawa timur,kabupaten sampang,2,2,173941.00
+2024,12,shopee,jawa tengah,kabupaten demak,2,2,173889.00
+2024,5,tiktok,kalimantan selatan,kota banjarmasin,2,2,173740.00
+2024,12,tiktok,jawa timur,kabupaten ngawi,2,2,173714.00
+2024,4,shopee,banten,kota tangerang,2,2,173607.00
+2024,5,shopee,kalimantan barat,kota singkawang,2,3,173342.00
+2024,8,shopee,jawa tengah,kabupaten blora,2,2,172829.00
+2024,6,shopee,jawa timur,kabupaten banyuwangi,2,3,172531.00
+2024,9,shopee,jawa timur,kabupaten bangkalan,2,2,172185.00
+2024,9,tiktok,jawa tengah,kabupaten batang,2,2,171896.00
+2024,9,shopee,di yogyakarta,kabupaten gunung kidul,2,2,171680.00
+2024,6,tiktok,jawa tengah,kota semarang,2,2,171279.00
+2024,8,tiktok,jawa timur,kabupaten tuban,2,2,171140.00
+2024,4,shopee,jawa tengah,kabupaten pekalongan,2,2,171052.00
+2024,10,tiktok,jambi,kota jambi,2,2,171010.00
+2024,7,tiktok,sumatera utara,kabupaten labuhan batu,1,2,170000.00
+2024,5,tiktok,kalimantan tengah,kabupaten kota waringin barat,1,1,170000.00
+2024,6,tiktok,bangka belitung,kabupaten bangka selatan,1,1,170000.00
+2024,11,shopee,jawa tengah,kabupaten demak,2,2,169757.00
+2024,4,shopee,jawa barat,kota cimahi,2,2,169410.00
+2024,9,shopee,jawa tengah,kabupaten purbalingga,2,2,169139.00
+2024,5,shopee,kalimantan timur,kabupaten kutai barat,1,1,169064.00
+2024,8,tiktok,jawa barat,kota banjar,2,2,168914.00
+2024,10,tiktok,kalimantan selatan,kabupaten barito kuala,1,2,168860.00
+2024,10,shopee,jawa timur,kota blitar,2,3,168326.00
+2024,6,shopee,kalimantan barat,kabupaten sekadau,2,2,168172.00
+2024,7,shopee,sulawesi utara,kabupaten minahasa utara,2,2,168084.00
+2024,5,shopee,kalimantan utara,kota tarakan,1,1,167972.00
+2024,8,tiktok,sumatera barat,kabupaten padang pariaman,2,2,167778.00
+2024,4,shopee,jawa barat,kabupaten sukabumi,2,2,167652.00
+2024,8,tiktok,sulawesi selatan,kabupaten takalar,2,2,167600.00
+2024,9,tiktok,sulawesi selatan,kabupaten luwu utara,1,1,167500.00
+2024,12,shopee,lampung,kabupaten pringsewu,3,3,167181.00
+2024,8,tiktok,jawa barat,kota tasikmalaya,2,2,167080.00
+2024,5,tiktok,jawa tengah,kota surakarta (solo),2,2,167000.00
+2024,6,tiktok,kalimantan tengah,kota palangka raya,1,2,167000.00
+2024,8,tiktok,jawa barat,kabupaten kuningan,2,2,166940.00
+2024,12,shopee,bali,kota denpasar,3,3,166879.00
+2024,8,tiktok,lampung,kabupaten tanggamus,2,2,166630.00
+2024,7,shopee,jawa tengah,kabupaten sragen,2,2,166560.00
+2024,9,shopee,kalimantan tengah,kabupaten seruyan,2,3,166391.00
+2024,8,tiktok,gorontalo,kota gorontalo,2,2,166241.00
+2024,4,shopee,lampung,kabupaten lampung timur,2,2,166060.00
+2024,8,tiktok,sulawesi barat,kabupaten mamuju,2,2,165892.00
+2024,11,tiktok,sumatera selatan,kabupaten ogan komering ulu timur,2,2,165745.00
+2024,7,tiktok,jawa timur,kabupaten blitar,2,2,165580.00
+2024,11,tiktok,nusa tenggara barat (ntb),kabupaten dompu,2,2,164865.00
+2024,11,tiktok,sulawesi tengah,kota palu,2,2,164729.00
+2024,11,shopee,lampung,kabupaten mesuji,2,3,164550.00
+2024,12,shopee,jawa tengah,kabupaten batang,2,2,164541.00
+2024,10,tiktok,kalimantan barat,kabupaten kubu raya,2,2,164403.00
+2024,7,tiktok,sumatera barat,kota padang,1,2,164390.00
+2024,6,tiktok,jawa timur,kabupaten ponorogo,2,2,164254.00
+2024,11,tiktok,jawa timur,kabupaten bojonegoro,2,2,163841.00
+2024,12,shopee,jawa tengah,kabupaten banjarnegara,2,2,163794.00
+2024,10,tiktok,sulawesi selatan,kabupaten pangkajene kepulauan,2,2,163680.00
+2024,7,shopee,sumatera barat,kota padang,2,2,163610.00
+2024,4,shopee,lampung,kabupaten lampung tengah,2,3,163600.00
+2024,7,tiktok,riau,kabupaten bengkalis,2,2,163401.00
+2024,10,shopee,,,1,2,163240.00
+2024,11,shopee,jawa tengah,kabupaten jepara,2,4,163223.00
+2024,11,tiktok,jawa timur,kabupaten tulungagung,2,2,163197.00
+2024,10,shopee,jambi,kota jambi,2,2,163060.00
+2024,8,shopee,jawa timur,kabupaten pasuruan,1,1,162930.00
+2024,12,tiktok,jawa tengah,kabupaten kudus,2,2,162640.00
+2024,7,shopee,jawa timur,kota blitar,2,2,162500.00
+2024,7,shopee,sulawesi selatan,kabupaten gowa,2,2,162460.00
+2024,11,tiktok,kalimantan tengah,kabupaten kapuas,1,1,162105.00
+2024,7,shopee,jawa timur,kabupaten ponorogo,2,2,161801.00
+2024,9,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa barat,2,2,161476.00
+2024,11,shopee,jawa barat,kota sukabumi,2,3,161253.00
+2024,8,shopee,jawa barat,kabupaten tasikmalaya,2,3,161233.00
+2024,11,shopee,sumatera selatan,kota palembang,2,3,161214.00
+2024,12,shopee,jawa tengah,kota magelang,2,2,161169.00
+2024,10,shopee,di yogyakarta,kota yogyakarta,2,2,160784.00
+2024,12,tiktok,lampung,kota metro,2,2,160740.00
+2024,5,shopee,jawa barat,kabupaten sumedang,2,2,160372.00
+2024,8,shopee,,,1,1,160175.00
+2024,10,shopee,jawa tengah,kabupaten batang,3,3,159956.00
+2024,5,shopee,kalimantan timur,kabupaten kutai timur,2,3,159529.00
+2024,11,tiktok,jawa timur,kabupaten nganjuk,2,2,159400.00
+2024,12,tiktok,kalimantan tengah,kabupaten barito selatan,2,2,159346.00
+2024,4,tiktok,jawa barat,kabupaten indramayu,1,1,158860.00
+2024,4,shopee,jawa tengah,kabupaten temanggung,2,2,158689.00
+2024,12,tiktok,sumatera selatan,kabupaten ogan komering ulu,2,2,158558.00
+2024,4,shopee,jawa tengah,kabupaten banyumas,2,2,157921.00
+2024,7,shopee,jawa barat,kabupaten cirebon,3,3,157758.00
+2024,12,tiktok,kalimantan selatan,kota banjarbaru,2,2,157612.00
+2024,11,tiktok,sulawesi tenggara,kabupaten konawe kepulauan,2,2,156561.00
+2024,9,tiktok,jawa tengah,kota salatiga,1,1,156480.00
+2024,7,tiktok,jawa timur,kabupaten nganjuk,1,1,156480.00
+2024,10,shopee,jawa tengah,kota salatiga,2,2,156373.00
+2024,7,shopee,lampung,kota metro,2,2,155896.00
+2024,7,tiktok,bangka belitung,kota pangkal pinang,1,1,155779.00
+2024,10,shopee,jawa barat,kabupaten cirebon,2,2,155363.00
+2024,11,shopee,jawa tengah,kabupaten grobogan,2,3,155240.00
+2024,10,shopee,kalimantan barat,kabupaten kapuas hulu,1,1,154630.00
+2024,6,shopee,di yogyakarta,kota yogyakarta,2,2,154419.00
+2024,10,tiktok,jawa timur,kabupaten nganjuk,2,2,153946.00
+2024,12,shopee,kalimantan barat,kota pontianak,2,3,153748.00
+2024,7,tiktok,jawa timur,kabupaten pacitan,2,2,153280.00
+2024,10,shopee,lampung,kabupaten tulang bawang,2,2,152684.00
+2024,6,tiktok,jawa timur,kabupaten tuban,1,1,152650.00
+2024,9,tiktok,jawa timur,kota blitar,1,2,152527.00
+2024,11,tiktok,nusa tenggara barat (ntb),kota bima,1,1,151640.00
+2024,3,tiktok,nusa tenggara barat (ntb),kabupaten lombok timur,1,2,151000.00
+2024,9,shopee,jawa tengah,kota magelang,3,3,150607.00
+2024,8,shopee,bengkulu,kabupaten kepahiang,1,1,149936.00
+2024,5,tiktok,kalimantan tengah,kabupaten kota waringin timur,2,2,149200.00
+2024,4,shopee,jawa tengah,kota semarang,2,2,149133.00
+2024,7,shopee,sulawesi utara,kabupaten bolaang mongondow (bolmong),1,1,148485.00
+2024,6,shopee,sumatera selatan,kabupaten ogan komering ulu selatan,2,2,148172.00
+2024,9,shopee,jawa barat,kabupaten garut,2,2,148099.00
+2024,6,shopee,jawa tengah,kabupaten wonosobo,2,2,148067.00
+2024,4,tiktok,bali,kabupaten buleleng,1,1,147500.00
+2024,5,shopee,jawa tengah,kabupaten klaten,2,2,147435.00
+2024,4,shopee,jawa tengah,kabupaten klaten,2,2,147350.00
+2024,10,tiktok,riau,kabupaten kepulauan meranti,1,1,147100.00
+2024,5,tiktok,jawa timur,kota pasuruan,1,1,147000.00
+2024,5,tiktok,jawa timur,kabupaten tulungagung,1,1,147000.00
+2024,5,shopee,banten,kota serang,2,2,146479.00
+2024,6,shopee,sulawesi utara,kabupaten bolaang mongondow (bolmong),1,1,146050.00
+2024,11,tiktok,kalimantan timur,kota samarinda,1,1,145615.00
+2024,9,tiktok,sulawesi barat,kabupaten polewali mandar,1,1,145600.00
+2024,10,shopee,jawa timur,kota kediri,2,2,145263.00
+2024,8,shopee,jawa timur,kota kediri,2,3,143420.00
+2024,9,tiktok,bali,kabupaten bangli,1,1,143270.00
+2024,10,shopee,kalimantan barat,kabupaten sekadau,1,1,143104.00
+2024,11,shopee,papua,kota jayapura,1,1,142990.00
+2024,8,tiktok,jawa tengah,kabupaten wonosobo,1,1,142578.00
+2024,6,shopee,sulawesi utara,kabupaten minahasa selatan,1,2,142459.00
+2024,4,shopee,di yogyakarta,kabupaten sleman,2,2,140783.00
+2024,9,shopee,jawa tengah,kota pekalongan,3,3,140717.00
+2024,5,shopee,jawa timur,kabupaten bojonegoro,2,2,140525.00
+2024,4,shopee,jawa tengah,kabupaten tegal,2,2,140069.00
+2024,12,tiktok,jambi,kabupaten tanjung jabung barat,1,1,139885.00
+2024,5,shopee,jawa timur,kabupaten pasuruan,2,2,139694.00
+2024,12,tiktok,jawa timur,kota batu,1,1,139598.00
+2024,8,tiktok,jawa timur,kota madiun,1,1,139460.00
+2024,9,shopee,nanggroe aceh darussalam (nad),kota banda aceh,1,1,138945.00
+2024,5,shopee,sulawesi utara,kabupaten bolaang mongondow utara,1,2,138296.00
+2024,9,tiktok,jawa timur,kabupaten lamongan,1,1,138170.00
+2024,5,tiktok,bali,kabupaten buleleng,1,1,138150.00
+2024,6,shopee,nanggroe aceh darussalam (nad),kabupaten aceh selatan,1,1,137811.00
+2024,9,tiktok,kepulauan riau,kabupaten bintan,1,1,137580.00
+2024,4,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,1,1,137300.00
+2024,3,tiktok,sulawesi barat,kabupaten mamuju utara,1,2,137000.00
+2024,5,tiktok,sulawesi selatan,kabupaten pangkajene kepulauan,1,1,136750.00
+2024,5,tiktok,nusa tenggara barat (ntb),kabupaten dompu,1,1,136500.00
+2024,10,shopee,banten,kabupaten lebak,2,2,136266.00
+2024,8,tiktok,jawa tengah,kabupaten rembang,1,1,135980.00
+2024,8,shopee,sulawesi utara,kota tomohon,1,1,135855.00
+2024,5,tiktok,bangka belitung,kabupaten bangka,1,1,135500.00
+2024,5,shopee,jawa timur,kabupaten bangkalan,2,2,135016.00
+2024,4,shopee,sumatera selatan,kabupaten musi banyuasin,1,1,134692.00
+2024,8,tiktok,sumatera barat,kota padang,1,1,134500.00
+2024,9,tiktok,jambi,kabupaten muaro jambi,1,1,134500.00
+2024,11,tiktok,kalimantan selatan,kabupaten balangan,2,2,134456.00
+2024,10,tiktok,lampung,kabupaten lampung selatan,1,1,134058.00
+2024,12,tiktok,sumatera selatan,kabupaten banyuasin,1,1,133950.00
+2024,12,tiktok,jawa barat,kabupaten sukabumi,2,2,133476.00
+2024,8,tiktok,nusa tenggara barat (ntb),kabupaten bima,1,1,133460.00
+2024,11,shopee,bali,kota denpasar,2,2,133360.00
+2024,9,tiktok,sulawesi tengah,kabupaten tojo una-una,1,1,133320.00
+2024,7,tiktok,jawa tengah,kabupaten purbalingga,1,1,132050.00
+2024,7,tiktok,riau,kabupaten kuantan singingi,1,1,131980.00
+2024,8,shopee,jawa timur,kabupaten bangkalan,2,2,131789.00
+2024,9,tiktok,nanggroe aceh darussalam (nad),kota subulussalam,1,1,131630.00
+2024,7,tiktok,jawa timur,kabupaten lumajang,1,1,131500.00
+2024,5,tiktok,jawa barat,kota cimahi,1,1,131180.00
+2024,7,tiktok,kalimantan selatan,kabupaten tanah bumbu,1,1,130980.00
+2024,11,shopee,sulawesi tengah,kabupaten banggai,1,1,130584.00
+2024,10,shopee,sulawesi tengah,kabupaten banggai,1,1,130584.00
+2024,12,shopee,kalimantan tengah,kabupaten sukamara,1,1,130584.00
+2024,5,tiktok,jawa timur,kabupaten jombang,1,1,130500.00
+2024,11,tiktok,sulawesi selatan,kabupaten jeneponto,1,1,130400.00
+2024,5,tiktok,kalimantan timur,kabupaten berau,1,1,130100.00
+2024,6,tiktok,kalimantan barat,kabupaten ketapang,1,1,129500.00
+2024,9,tiktok,sumatera utara,kabupaten simalungun,1,1,129400.00
+2024,10,shopee,jawa barat,kabupaten tasikmalaya,1,1,129062.00
+2024,6,shopee,nanggroe aceh darussalam (nad),kabupaten aceh singkil,1,1,129048.00
+2024,9,shopee,jawa timur,kabupaten banyuwangi,1,1,129040.00
+2024,10,shopee,jawa tengah,kabupaten semarang,2,2,129028.00
+2024,8,tiktok,sumatera selatan,kabupaten ogan komering ulu selatan,1,1,129000.00
+2024,4,tiktok,jawa tengah,kabupaten magelang,1,1,128733.00
+2024,7,shopee,bengkulu,kota bengkulu,1,1,128655.00
+2024,5,tiktok,jambi,kabupaten bungo,1,1,128000.00
+2024,7,tiktok,jawa tengah,kabupaten temanggung,1,1,127960.00
+2024,7,shopee,sulawesi selatan,kabupaten jeneponto,1,1,127880.00
+2024,8,shopee,sulawesi selatan,kabupaten jeneponto,1,1,127880.00
+2024,9,shopee,kalimantan tengah,kabupaten barito timur,1,1,127720.00
+2024,12,tiktok,jawa timur,kabupaten lamongan,1,1,127614.00
+2024,10,shopee,jawa timur,kabupaten magetan,2,2,127482.00
+2024,5,tiktok,jawa timur,kabupaten mojokerto,1,1,127390.00
+2024,8,tiktok,kalimantan utara,kota tarakan,1,1,127360.00
+2024,9,shopee,sulawesi tengah,kabupaten banggai,1,1,127174.00
+2024,5,tiktok,jawa timur,kabupaten kediri,1,1,127000.00
+2024,12,tiktok,nusa tenggara barat (ntb),kabupaten dompu,1,1,126957.00
+2024,7,shopee,jawa tengah,kota pekalongan,2,2,126921.00
+2024,12,shopee,kalimantan barat,kabupaten kapuas hulu,1,1,126679.00
+2024,6,tiktok,sumatera utara,kota binjai,1,1,126585.00
+2024,7,tiktok,sulawesi utara,kabupaten minahasa,1,1,126500.00
+2024,10,shopee,kalimantan tengah,kabupaten seruyan,2,2,126351.00
+2024,4,shopee,jawa tengah,kabupaten demak,1,2,126240.00
+2024,9,tiktok,riau,kabupaten kepulauan meranti,1,1,126222.00
+2024,12,tiktok,lampung,kabupaten lampung timur,1,1,126001.00
+2024,5,tiktok,banten,kabupaten pandeglang,1,1,126000.00
+2024,7,tiktok,sumatera selatan,kabupaten ogan komering ulu selatan,1,1,125991.00
+2024,11,tiktok,sulawesi tengah,kabupaten banggai,1,1,125570.00
+2024,4,shopee,jawa tengah,kabupaten cilacap,2,2,125480.00
+2024,4,shopee,banten,kabupaten pandeglang,2,2,125479.00
+2024,8,shopee,sulawesi tenggara,kabupaten kolaka,1,1,125280.00
+2024,7,shopee,jawa timur,kabupaten bangkalan,2,2,125247.00
+2024,8,tiktok,jawa barat,kabupaten ciamis,1,1,124800.00
+2024,8,shopee,jambi,kabupaten batang hari,1,1,124654.00
+2024,6,tiktok,sulawesi selatan,kabupaten pinrang,1,1,124600.00
+2024,8,shopee,sulawesi selatan,kabupaten luwu timur,1,1,124550.00
+2024,5,tiktok,jawa tengah,kabupaten kudus,1,1,123998.00
+2024,6,tiktok,jawa timur,kabupaten tulungagung,1,1,123728.00
+2024,5,tiktok,jawa barat,kabupaten karawang,1,1,123600.00
+2024,11,shopee,kalimantan tengah,kabupaten murung raya,1,1,123550.00
+2024,11,shopee,bengkulu,kabupaten rejang lebong,1,1,123545.00
+2024,7,tiktok,sulawesi selatan,kabupaten jeneponto,1,1,123500.00
+2024,11,shopee,sulawesi barat,kabupaten polewali mandar,1,1,123289.00
+2024,7,tiktok,jawa timur,kabupaten pasuruan,1,1,123222.00
+2024,10,tiktok,riau,kabupaten siak,1,1,123160.00
+2024,6,tiktok,kalimantan tengah,kabupaten murung raya,1,1,123000.00
+2024,10,tiktok,jambi,kabupaten merangin,1,1,122800.00
+2024,4,tiktok,jawa barat,kabupaten cirebon,1,1,122500.00
+2024,6,tiktok,sumatera selatan,kabupaten musi rawas,1,1,122500.00
+2024,5,tiktok,jawa barat,kabupaten sumedang,1,1,122180.00
+2024,12,tiktok,sumatera utara,kabupaten simalungun,1,1,122180.00
+2024,7,tiktok,nanggroe aceh darussalam (nad),kabupaten aceh utara,1,1,121980.00
+2024,11,tiktok,bangka belitung,kabupaten bangka selatan,1,1,121907.00
+2024,11,tiktok,jawa timur,kabupaten blitar,1,1,121907.00
+2024,11,tiktok,kalimantan tengah,kabupaten barito selatan,1,1,121907.00
+2024,8,shopee,sulawesi utara,kota kotamobagu,1,1,121822.00
+2024,11,tiktok,sumatera utara,kabupaten karo,1,1,121700.00
+2024,8,shopee,sulawesi selatan,kabupaten pinrang,1,1,121692.00
+2024,8,shopee,sumatera selatan,kabupaten lahat,1,1,121692.00
+2024,6,shopee,sulawesi barat,kabupaten mamuju tengah,2,2,121640.00
+2024,6,tiktok,jawa tengah,kabupaten semarang,1,1,121550.00
+2024,12,shopee,bangka belitung,kabupaten bangka selatan,1,1,121266.00
+2024,10,shopee,kalimantan tengah,kabupaten sukamara,1,1,121224.00
+2024,11,shopee,jawa tengah,kabupaten banjarnegara,2,3,121190.00
+2024,7,shopee,jawa tengah,kabupaten blora,1,1,121120.00
+2024,12,tiktok,sulawesi utara,kabupaten bolaang mongondow (bolmong),1,1,121100.00
+2024,11,tiktok,riau,kabupaten indragiri hilir,1,1,120897.00
+2024,11,tiktok,kalimantan selatan,kabupaten kota baru,1,1,120897.00
+2024,9,shopee,bali,kabupaten klungkung,1,1,120779.00
+2024,10,tiktok,lampung,kabupaten pesawaran,1,1,120700.00
+2024,9,tiktok,kalimantan tengah,kabupaten kapuas,1,1,120700.00
+2024,10,tiktok,kalimantan timur,kabupaten paser,1,1,120700.00
+2024,8,shopee,sulawesi selatan,kabupaten soppeng,1,1,120692.00
+2024,9,tiktok,sulawesi barat,kabupaten mamasa,1,1,120689.00
+2024,4,tiktok,kalimantan utara,kabupaten bulungan (bulongan),1,1,120500.00
+2024,8,tiktok,jawa barat,kabupaten pangandaran,1,1,120292.00
+2024,7,shopee,nusa tenggara barat (ntb),kota bima,1,1,120180.00
+2024,7,shopee,jawa tengah,kabupaten batang,3,4,120110.00
+2024,10,shopee,jawa timur,kabupaten jember,4,4,120082.00
+2024,11,shopee,kepulauan riau,kota tanjung pinang,1,1,120029.00
+2024,8,tiktok,sumatera utara,kabupaten tapanuli utara,1,1,120000.00
+2024,5,tiktok,kalimantan timur,kota balikpapan,1,1,120000.00
+2024,8,tiktok,riau,kota dumai,1,1,120000.00
+2024,7,tiktok,bangka belitung,kabupaten bangka barat,1,1,120000.00
+2024,8,tiktok,jawa timur,kabupaten madiun,1,1,120000.00
+2024,7,tiktok,sumatera utara,kabupaten asahan,1,1,119860.00
+2024,8,tiktok,gorontalo,kabupaten bone bolango,1,1,119700.00
+2024,8,tiktok,kalimantan timur,kota bontang,1,1,119700.00
+2024,9,tiktok,sumatera selatan,kota prabumulih,1,1,119700.00
+2024,8,tiktok,sumatera selatan,kabupaten lahat,1,1,119700.00
+2024,9,tiktok,bangka belitung,kota pangkal pinang,1,1,119680.00
+2024,10,tiktok,sumatera selatan,kabupaten ogan komering ulu,1,1,119644.00
+2024,10,shopee,jambi,kabupaten batang hari,1,1,119612.00
+2024,5,tiktok,jawa barat,kabupaten ciamis,1,1,119500.00
+2024,4,tiktok,jawa timur,kota kediri,1,1,119500.00
+2024,8,shopee,sulawesi utara,kabupaten bolaang mongondow timur,1,1,119262.00
+2024,7,shopee,kalimantan barat,kabupaten sambas,2,2,119092.00
+2024,4,shopee,jawa timur,kabupaten jember,1,1,119000.00
+2024,10,shopee,jawa tengah,kota magelang,2,2,118796.00
+2024,10,shopee,jawa barat,kabupaten garut,1,2,118620.00
+2024,4,tiktok,sulawesi selatan,kabupaten maros,1,1,118602.00
+2024,10,shopee,kalimantan barat,kabupaten kubu raya,1,1,118572.00
+2024,11,shopee,bali,kabupaten gianyar,1,1,118572.00
+2024,5,tiktok,jawa timur,kota kediri,1,1,118500.00
+2024,5,tiktok,jawa barat,kabupaten sukabumi,1,1,118500.00
+2024,5,tiktok,lampung,kabupaten lampung tengah,1,1,118500.00
+2024,5,tiktok,di yogyakarta,kabupaten gunung kidul,1,1,118500.00
+2024,6,tiktok,lampung,kota bandar lampung,1,1,118500.00
+2024,6,tiktok,bali,kabupaten bangli,1,1,118500.00
+2024,6,tiktok,jawa tengah,kabupaten banjarnegara,1,1,118500.00
+2024,4,tiktok,jawa tengah,kabupaten klaten,1,1,118500.00
+2024,5,shopee,sulawesi tengah,kabupaten banggai,1,2,118387.00
+2024,12,shopee,kalimantan barat,kabupaten sanggau,1,1,118312.00
+2024,8,shopee,jambi,kota jambi,1,1,118211.00
+2024,8,tiktok,kalimantan timur,kabupaten paser,1,1,118200.00
+2024,8,shopee,jambi,kabupaten tanjung jabung barat,1,1,117911.00
+2024,6,tiktok,gorontalo,kabupaten bone bolango,1,1,117821.00
+2024,7,tiktok,jawa timur,kabupaten jombang,1,1,117743.00
+2024,7,shopee,nanggroe aceh darussalam (nad),kabupaten aceh singkil,1,1,117532.00
+2024,4,tiktok,kalimantan tengah,kabupaten kota waringin timur,1,1,117500.00
+2024,5,tiktok,kalimantan selatan,kota banjarbaru,1,1,117300.00
+2024,4,tiktok,jawa barat,kabupaten sukabumi,1,1,117300.00
+2024,10,shopee,sumatera utara,kota pematang siantar,1,1,117188.00
+2024,9,shopee,kepulauan riau,kabupaten bintan,1,1,116758.00
+2024,12,tiktok,jawa timur,kabupaten ponorogo,1,1,116756.00
+2024,10,tiktok,lampung,kabupaten mesuji,1,1,116722.00
+2024,6,tiktok,kalimantan barat,kabupaten kubu raya,1,1,116550.00
+2024,10,shopee,kalimantan tengah,kabupaten murung raya,1,1,116529.00
+2024,4,tiktok,jawa tengah,kabupaten cilacap,1,1,116500.00
+2024,11,shopee,sumatera selatan,kabupaten musi rawas utara,1,1,116221.00
+2024,12,tiktok,jambi,kota sungaipenuh,1,1,116200.00
+2024,5,tiktok,,,1,1,116106.00
+2024,6,tiktok,jawa tengah,kabupaten sukoharjo,1,1,116100.00
+2024,11,shopee,sumatera selatan,kabupaten musi rawas,1,1,116076.00
+2024,5,shopee,sulawesi selatan,kabupaten bulukumba,1,1,116075.00
+2024,11,shopee,kalimantan tengah,kabupaten barito utara,1,1,116024.00
+2024,5,tiktok,banten,kota cilegon,1,1,116000.00
+2024,4,shopee,sumatera utara,kabupaten langkat,1,1,116000.00
+2024,5,shopee,jawa tengah,kabupaten purworejo,1,1,115970.00
+2024,5,tiktok,jawa timur,kabupaten tuban,1,1,115950.00
+2024,10,tiktok,nusa tenggara barat (ntb),kota bima,1,1,115940.00
+2024,11,tiktok,jawa barat,kota sukabumi,1,1,115940.00
+2024,8,tiktok,bengkulu,kabupaten bengkulu selatan,1,1,115940.00
+2024,8,shopee,lampung,kabupaten lampung barat,1,1,115911.00
+2024,11,tiktok,kalimantan selatan,kabupaten hulu sungai selatan,1,1,115796.00
+2024,11,tiktok,lampung,kabupaten lampung tengah,1,1,115650.00
+2024,6,tiktok,kalimantan barat,kota pontianak,1,1,115550.00
+2024,11,shopee,lampung,kabupaten way kanan,3,4,115504.00
+2024,10,shopee,jawa timur,kabupaten bangkalan,1,2,115504.00
+2024,10,shopee,jambi,kabupaten tanjung jabung timur,1,1,115504.00
+2024,9,shopee,bengkulu,kabupaten kepahiang,1,1,115504.00
+2024,11,shopee,sumatera selatan,kabupaten ogan komering ulu selatan,1,1,115504.00
+2024,11,shopee,sulawesi selatan,kota palopo,1,1,115504.00
+2024,11,shopee,sulawesi selatan,kabupaten bulukumba,1,1,115504.00
+2024,12,tiktok,jawa tengah,kabupaten semarang,1,1,115250.00
+2024,11,shopee,kalimantan barat,kabupaten kayong utara,1,1,115200.00
+2024,12,shopee,jawa tengah,kabupaten rembang,1,1,115181.00
+2024,11,shopee,jawa timur,kota pasuruan,1,1,115181.00
+2024,9,shopee,kalimantan selatan,kabupaten hulu sungai tengah,1,1,115157.00
+2024,12,shopee,jawa timur,kabupaten trenggalek,1,1,115050.00
+2024,9,shopee,sumatera utara,kabupaten mandailing natal,1,1,114942.00
+2024,8,tiktok,sulawesi tengah,kabupaten donggala,1,1,114840.00
+2024,10,tiktok,jawa timur,kabupaten madiun,1,1,114650.00
+2024,12,shopee,sumatera utara,kabupaten karo,1,1,114568.00
+2024,4,shopee,jawa timur,kabupaten tuban,1,1,114500.00
+2024,11,tiktok,kalimantan timur,kabupaten penajam paser utara,1,1,114499.00
+2024,8,shopee,sulawesi barat,kabupaten mamuju utara,1,1,114342.00
+2024,10,shopee,jawa timur,kabupaten probolinggo,1,1,114281.00
+2024,12,tiktok,bengkulu,kota bengkulu,1,1,114150.00
+2024,10,shopee,kalimantan timur,kota bontang,1,1,114050.00
+2024,6,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa barat,1,1,114050.00
+2024,12,tiktok,sulawesi selatan,kabupaten bantaeng,1,1,114015.00
+2024,7,tiktok,jawa tengah,kabupaten grobogan,1,1,114000.00
+2024,11,shopee,jambi,kabupaten merangin,1,1,113984.00
+2024,6,tiktok,lampung,kabupaten lampung barat,1,1,113960.00
+2024,9,tiktok,sumatera selatan,kabupaten ogan komering ilir,1,1,113784.00
+2024,7,shopee,bali,kabupaten karangasem,1,1,113660.00
+2024,11,tiktok,jawa tengah,kabupaten rembang,1,1,113650.00
+2024,8,shopee,jawa barat,kabupaten cirebon,2,2,113592.00
+2024,8,tiktok,kalimantan selatan,kabupaten kota baru,1,1,113460.00
+2024,8,tiktok,lampung,kabupaten lampung selatan,1,1,113460.00
+2024,10,shopee,maluku,kota ambon,1,1,113424.00
+2024,4,shopee,gorontalo,kabupaten gorontalo,1,1,113320.00
+2024,4,shopee,jawa tengah,kota magelang,1,1,113320.00
+2024,5,tiktok,bali,kabupaten tabanan,1,1,113300.00
+2024,5,tiktok,jawa barat,kabupaten cianjur,1,1,113214.00
+2024,9,shopee,sulawesi utara,kabupaten minahasa,2,2,113200.00
+2024,9,tiktok,sulawesi selatan,kabupaten pangkajene kepulauan,1,2,113122.00
+2024,8,tiktok,jawa timur,kota blitar,1,1,113100.00
+2024,8,tiktok,jambi,kabupaten bungo,1,1,113100.00
+2024,6,tiktok,sumatera utara,kota tebing tinggi,1,1,113050.00
+2024,6,tiktok,jawa timur,kabupaten madiun,1,1,113050.00
+2024,5,tiktok,sumatera selatan,kabupaten banyuasin,1,1,113050.00
+2024,7,shopee,sumatera utara,kota binjai,1,1,113029.00
+2024,5,tiktok,jawa timur,kota malang,1,1,113020.00
+2024,7,tiktok,sumatera utara,kota padang sidempuan,1,1,112860.00
+2024,7,tiktok,sumatera selatan,kabupaten banyuasin,1,1,112860.00
+2024,8,shopee,sumatera utara,kabupaten padang lawas,1,1,112851.00
+2024,4,tiktok,kepulauan riau,kota batam,1,1,112780.00
+2024,9,tiktok,sumatera selatan,kabupaten banyuasin,1,1,112580.00
+2024,10,tiktok,jambi,kabupaten batang hari,1,1,112520.00
+2024,8,tiktok,sumatera barat,kota payakumbuh,1,1,112520.00
+2024,8,tiktok,kalimantan tengah,kabupaten kota waringin barat,1,1,112520.00
+2024,8,tiktok,sulawesi barat,kabupaten majene,1,1,112490.00
+2024,11,shopee,kalimantan selatan,kabupaten kota baru,1,2,112447.00
+2024,11,shopee,jawa barat,kabupaten subang,2,2,112201.00
+2024,11,shopee,lampung,kabupaten tanggamus,1,1,112201.00
+2024,10,shopee,jawa tengah,kabupaten rembang,1,1,112201.00
+2024,8,shopee,sulawesi selatan,kabupaten takalar,1,1,112201.00
+2024,8,tiktok,jawa timur,kabupaten ngawi,1,1,112172.00
+2024,10,shopee,jawa timur,kabupaten banyuwangi,1,1,112162.00
+2024,11,shopee,kalimantan barat,kabupaten bengkayang,2,2,112162.00
+2024,10,shopee,jawa timur,kota madiun,1,1,112162.00
+2024,10,shopee,sumatera selatan,kabupaten musi rawas utara,1,1,112162.00
+2024,10,shopee,riau,kota pekanbaru,1,1,112162.00
+2024,10,shopee,sulawesi selatan,kabupaten bantaeng,1,1,112162.00
+2024,10,shopee,jambi,kabupaten tanjung jabung barat,1,1,112162.00
+2024,12,tiktok,di yogyakarta,kabupaten kulon progo,1,1,112100.00
+2024,5,tiktok,banten,kabupaten serang,1,1,112100.00
+2024,8,tiktok,lampung,kabupaten way kanan,1,1,112100.00
+2024,6,tiktok,jawa tengah,kabupaten pati,1,1,112050.00
+2024,3,tiktok,jawa tengah,kabupaten jepara,1,1,112000.00
+2024,6,tiktok,jawa tengah,kabupaten wonogiri,1,1,112000.00
+2024,3,tiktok,kalimantan timur,kota balikpapan,1,1,112000.00
+2024,7,tiktok,kepulauan riau,kabupaten bintan,1,1,111960.00
+2024,6,tiktok,nusa tenggara barat (ntb),kabupaten dompu,1,1,111960.00
+2024,4,tiktok,jawa barat,kota bogor,1,1,111890.00
+2024,9,tiktok,sumatera barat,kabupaten tanah datar,1,1,111872.00
+2024,12,shopee,sumatera utara,kabupaten simalungun,1,1,111812.00
+2024,12,tiktok,sumatera barat,kota padang panjang,1,1,111810.00
+2024,12,tiktok,kalimantan selatan,kabupaten hulu sungai utara,1,1,111770.00
+2024,8,tiktok,jawa timur,kota probolinggo,1,1,111732.00
+2024,10,shopee,sulawesi tengah,kabupaten morowali utara,1,1,111602.00
+2024,8,tiktok,jawa timur,kabupaten magetan,1,1,111599.00
+2024,12,shopee,kalimantan selatan,kabupaten banjar,1,1,111575.00
+2024,12,shopee,sulawesi tengah,kabupaten poso,1,1,111343.00
+2024,9,shopee,jawa timur,kota mojokerto,1,1,111292.00
+2024,11,shopee,riau,kabupaten siak,1,1,111270.00
+2024,11,shopee,jawa timur,kabupaten nganjuk,1,1,111270.00
+2024,9,shopee,jawa tengah,kabupaten purworejo,1,1,111200.00
+2024,11,shopee,jawa barat,kabupaten majalengka,1,1,111119.00
+2024,9,shopee,lampung,kabupaten pringsewu,1,1,111119.00
+2024,10,shopee,sumatera selatan,kabupaten ogan komering ulu,1,1,111119.00
+2024,11,shopee,jawa timur,kabupaten pacitan,1,1,111119.00
+2024,6,tiktok,jawa tengah,kabupaten brebes,1,1,111100.00
+2024,6,tiktok,jawa barat,kabupaten cirebon,1,1,111100.00
+2024,10,shopee,sumatera selatan,kabupaten ogan komering ulu selatan,1,1,111029.00
+2024,4,shopee,banten,kabupaten serang,1,1,111000.00
+2024,12,tiktok,jawa tengah,kabupaten wonosobo,1,1,110989.00
+2024,4,tiktok,jawa timur,kota pasuruan,1,1,110960.00
+2024,6,tiktok,sumatera utara,kabupaten deli serdang,1,1,110922.00
+2024,11,shopee,kalimantan tengah,kabupaten lamandau,1,1,110910.00
+2024,11,shopee,jawa timur,kota batu,1,1,110829.00
+2024,10,tiktok,sulawesi selatan,kabupaten bantaeng,1,1,110782.00
+2024,8,tiktok,kalimantan selatan,kabupaten balangan,1,1,110725.00
+2024,7,tiktok,lampung,kabupaten lampung tengah,1,1,110722.00
+2024,9,shopee,kalimantan timur,kabupaten penajam paser utara,1,1,110686.00
+2024,7,tiktok,jawa barat,kabupaten ciamis,1,1,110600.00
+2024,8,shopee,jawa timur,kota probolinggo,1,1,110600.00
+2024,8,shopee,jawa barat,kabupaten sumedang,2,2,110548.00
+2024,10,shopee,jawa tengah,kabupaten wonogiri,1,1,110528.00
+2024,8,tiktok,jawa timur,kabupaten nganjuk,1,1,110480.00
+2024,9,tiktok,bengkulu,kota bengkulu,1,1,110480.00
+2024,9,tiktok,sulawesi selatan,kabupaten bone,1,1,110480.00
+2024,9,tiktok,sumatera utara,kabupaten tapanuli tengah,1,1,110480.00
+2024,9,tiktok,sumatera utara,kabupaten dairi,1,1,110480.00
+2024,9,tiktok,jawa timur,kabupaten tuban,1,1,110480.00
+2024,10,tiktok,jawa timur,kabupaten bojonegoro,1,1,110480.00
+2024,9,tiktok,jawa tengah,kabupaten jepara,1,1,110480.00
+2024,9,tiktok,kalimantan barat,kabupaten sambas,1,1,110480.00
+2024,9,tiktok,jawa tengah,kabupaten grobogan,1,1,110450.00
+2024,11,shopee,jawa timur,kabupaten lumajang,1,1,110270.00
+2024,4,shopee,jawa barat,kabupaten kuningan,1,1,110252.00
+2024,11,shopee,bangka belitung,kabupaten bangka,1,1,110156.00
+2024,4,tiktok,sumatera selatan,kota prabumulih,1,1,110050.00
+2024,8,shopee,jawa timur,kabupaten madiun,2,3,110025.00
+2024,8,shopee,kalimantan tengah,kabupaten kota waringin barat,1,2,110025.00
+2024,8,shopee,bali,kabupaten jembrana,1,1,110025.00
+2024,8,shopee,jambi,kabupaten muaro jambi,1,1,110025.00
+2024,8,shopee,bengkulu,kabupaten rejang lebong,1,1,110025.00
+2024,8,shopee,jawa barat,kabupaten subang,1,1,110025.00
+2024,8,shopee,banten,kota cilegon,2,2,110025.00
+2024,7,tiktok,sumatera utara,kabupaten simalungun,1,1,110000.00
+2024,7,tiktok,lampung,kabupaten lampung selatan,1,1,110000.00
+2024,7,tiktok,kepulauan riau,kabupaten karimun,1,1,110000.00
+2024,8,tiktok,kalimantan timur,kabupaten penajam paser utara,1,1,110000.00
+2024,7,tiktok,sulawesi selatan,kabupaten luwu utara,1,1,110000.00
+2024,7,tiktok,kalimantan barat,kabupaten ketapang,1,1,110000.00
+2024,8,tiktok,sulawesi tenggara,kabupaten konawe utara,1,1,110000.00
+2024,8,tiktok,sumatera utara,kabupaten batu bara,1,1,110000.00
+2024,12,tiktok,riau,kabupaten kampar,1,1,110000.00
+2024,6,tiktok,lampung,kota metro,1,1,110000.00
+2024,6,tiktok,sulawesi tengah,kabupaten banggai,1,1,110000.00
+2024,7,tiktok,lampung,kota bandar lampung,1,1,110000.00
+2024,7,tiktok,jawa tengah,kota magelang,1,1,110000.00
+2024,7,tiktok,sulawesi selatan,kabupaten soppeng,1,1,110000.00
+2024,7,tiktok,kalimantan barat,kabupaten kapuas hulu,1,1,110000.00
+2024,7,tiktok,jawa tengah,kabupaten rembang,1,1,110000.00
+2024,7,tiktok,sumatera utara,kota tebing tinggi,1,1,110000.00
+2024,11,shopee,sumatera utara,kota pematang siantar,1,1,109948.00
+2024,10,shopee,bengkulu,kabupaten bengkulu utara,1,1,109935.00
+2024,5,shopee,jambi,kabupaten batang hari,1,1,109876.00
+2024,8,shopee,sulawesi selatan,kabupaten bantaeng,1,1,109834.00
+2024,6,tiktok,kalimantan tengah,kabupaten kota waringin timur,1,1,109640.00
+2024,8,shopee,nanggroe aceh darussalam (nad),kabupaten aceh singkil,2,2,109568.00
+2024,8,tiktok,kalimantan barat,kabupaten sambas,1,1,109560.00
+2024,9,tiktok,sumatera utara,kota tebing tinggi,1,1,109560.00
+2024,9,tiktok,sulawesi utara,kabupaten minahasa selatan,1,1,109560.00
+2024,9,tiktok,riau,kabupaten indragiri hulu,1,1,109560.00
+2024,9,tiktok,jawa tengah,kota magelang,1,1,109560.00
+2024,10,tiktok,jawa barat,kota banjar,1,1,109560.00
+2024,9,tiktok,sumatera selatan,kota pagar alam,1,1,109480.00
+2024,5,tiktok,jawa timur,kabupaten nganjuk,1,1,109435.00
+2024,7,shopee,sumatera utara,kota pematang siantar,1,1,109342.00
+2024,12,shopee,bengkulu,kabupaten bengkulu utara,1,1,109316.00
+2024,12,shopee,kalimantan barat,kabupaten melawi,1,1,109316.00
+2024,12,shopee,bali,kabupaten karangasem,1,1,109316.00
+2024,12,shopee,bali,kabupaten klungkung,1,1,109316.00
+2024,12,shopee,jawa tengah,kabupaten kendal,1,1,109316.00
+2024,12,shopee,kalimantan selatan,kabupaten tanah bumbu,1,1,109316.00
+2024,8,tiktok,kalimantan tengah,kabupaten barito timur,1,1,109290.00
+2024,12,tiktok,sulawesi selatan,kabupaten bulukumba,1,1,109234.00
+2024,11,tiktok,sulawesi selatan,kota parepare,1,1,109181.00
+2024,11,tiktok,jambi,kabupaten bungo,1,1,109181.00
+2024,12,tiktok,nusa tenggara timur (ntt),kota kupang,1,1,109181.00
+2024,12,shopee,jawa barat,kota banjar,1,1,109171.00
+2024,9,shopee,kalimantan barat,kabupaten kubu raya,1,1,109107.00
+2024,10,shopee,bali,kabupaten badung,1,1,109100.00
+2024,7,shopee,bali,kabupaten jembrana,2,2,109100.00
+2024,11,tiktok,jawa timur,kota blitar,1,1,109080.00
+2024,5,shopee,jawa tengah,kabupaten kebumen,1,1,109050.00
+2024,10,shopee,sumatera utara,kabupaten deli serdang,1,1,109042.00
+2024,7,tiktok,nanggroe aceh darussalam (nad),kota langsa,1,1,109000.00
+2024,8,tiktok,nanggroe aceh darussalam (nad),kabupaten aceh utara,1,1,109000.00
+2024,4,shopee,bangka belitung,kabupaten bangka tengah,1,1,109000.00
+2024,7,shopee,bengkulu,kabupaten muko muko,1,1,109000.00
+2024,12,tiktok,sulawesi tengah,kabupaten morowali,1,1,108997.00
+2024,12,shopee,kalimantan selatan,kota banjarmasin,1,1,108983.00
+2024,12,shopee,jawa timur,kabupaten madiun,2,3,108970.00
+2024,11,shopee,sumatera utara,kabupaten simalungun,1,1,108956.00
+2024,8,shopee,jawa barat,kota cimahi,1,1,108887.00
+2024,10,tiktok,kalimantan timur,kota bontang,1,1,108873.00
+2024,12,shopee,kepulauan riau,kabupaten karimun,1,1,108836.00
+2024,6,shopee,sumatera utara,kabupaten labuhan batu utara,1,1,108692.00
+2024,7,shopee,sulawesi selatan,kabupaten takalar,1,1,108692.00
+2024,7,shopee,kalimantan barat,kabupaten melawi,1,1,108692.00
+2024,7,shopee,jawa barat,kabupaten tasikmalaya,1,1,108692.00
+2024,7,shopee,bangka belitung,kabupaten bangka selatan,1,1,108692.00
+2024,6,shopee,sulawesi selatan,kabupaten wajo,2,2,108692.00
+2024,6,shopee,lampung,kabupaten pesawaran,1,1,108692.00
+2024,6,shopee,kalimantan barat,kabupaten kapuas hulu,1,1,108692.00
+2024,6,shopee,jawa timur,kabupaten sumenep,1,1,108692.00
+2024,6,shopee,bengkulu,kota bengkulu,1,1,108692.00
+2024,6,shopee,bengkulu,kabupaten muko muko,1,1,108692.00
+2024,6,shopee,banten,kota cilegon,2,2,108692.00
+2024,5,shopee,sumatera selatan,kabupaten penukal abab lematang ilir,1,1,108692.00
+2024,5,shopee,sulawesi tengah,kota palu,1,2,108692.00
+2024,5,shopee,sulawesi selatan,kabupaten maros,1,1,108692.00
+2024,5,shopee,kalimantan timur,kabupaten kutai kartanegara,1,1,108692.00
+2024,5,shopee,jambi,kabupaten tebo,1,1,108692.00
+2024,5,tiktok,jawa timur,kabupaten lumajang,1,1,108600.00
+2024,10,tiktok,sulawesi tengah,kabupaten parigi moutong,1,1,108600.00
+2024,9,tiktok,nusa tenggara timur (ntt),kota kupang,1,1,108560.00
+2024,12,tiktok,sulawesi selatan,kabupaten soppeng,1,1,108554.00
+2024,7,tiktok,sumatera barat,kabupaten padang pariaman,1,1,108523.00
+2024,6,shopee,sumatera selatan,kabupaten lahat,1,1,108507.00
+2024,7,tiktok,banten,kabupaten lebak,1,1,108460.00
+2024,4,tiktok,sumatera selatan,kota palembang,1,1,108455.00
+2024,12,shopee,kalimantan selatan,kabupaten kota baru,1,1,108432.00
+2024,12,shopee,lampung,kabupaten tulang bawang,1,1,108432.00
+2024,5,tiktok,banten,kota serang,1,1,108430.00
+2024,11,tiktok,kalimantan tengah,kabupaten kota waringin timur,1,1,108420.00
+2024,9,tiktok,sumatera barat,kabupaten lima puluh koto/kota,1,1,108380.00
+2024,9,tiktok,lampung,kabupaten lampung selatan,1,1,108380.00
+2024,9,tiktok,kalimantan timur,kota bontang,1,1,108380.00
+2024,12,shopee,jambi,kabupaten merangin,1,1,108264.00
+2024,5,tiktok,sumatera utara,kabupaten karo,1,1,108240.00
+2024,10,tiktok,kalimantan timur,kabupaten kutai timur,1,1,108170.00
+2024,7,tiktok,sulawesi tenggara,kabupaten bombana,1,1,108168.00
+2024,4,shopee,jawa tengah,kabupaten batang,1,1,108114.00
+2024,10,tiktok,sulawesi selatan,kabupaten barru,1,1,108100.00
+2024,9,tiktok,kalimantan barat,kabupaten pontianak,1,1,108100.00
+2024,11,tiktok,nanggroe aceh darussalam (nad),kabupaten aceh besar,1,1,108100.00
+2024,10,tiktok,sumatera selatan,kota prabumulih,1,1,108100.00
+2024,10,tiktok,sumatera selatan,kabupaten musi rawas utara,1,1,108100.00
+2024,10,tiktok,bengkulu,kabupaten muko muko,1,1,108100.00
+2024,10,tiktok,bangka belitung,kabupaten belitung timur,1,1,108100.00
+2024,10,tiktok,sulawesi utara,kabupaten minahasa utara,1,1,108100.00
+2024,8,tiktok,sumatera utara,kabupaten tapanuli tengah,1,1,108100.00
+2024,10,shopee,kalimantan selatan,kabupaten tanah bumbu,1,1,108089.00
+2024,8,shopee,riau,kota dumai,1,1,108051.00
+2024,9,shopee,riau,kota pekanbaru,2,2,108047.00
+2024,8,tiktok,jawa timur,kabupaten bojonegoro,1,1,108036.00
+2024,11,shopee,jawa timur,kota blitar,1,1,107973.00
+2024,10,shopee,sumatera utara,kabupaten humbang hasundutan,1,1,107929.00
+2024,11,tiktok,kalimantan selatan,kabupaten tanah laut,1,1,107721.00
+2024,12,tiktok,jawa timur,kota probolinggo,1,1,107710.00
+2024,6,shopee,jawa barat,kabupaten pangandaran,1,1,107692.00
+2024,6,tiktok,lampung,kabupaten lampung timur,1,1,107600.00
+2024,5,tiktok,jawa tengah,kabupaten temanggung,1,1,107600.00
+2024,9,tiktok,kalimantan selatan,kabupaten hulu sungai selatan,1,1,107477.00
+2024,12,shopee,sumatera barat,kabupaten pasaman,1,1,107344.00
+2024,10,tiktok,lampung,kabupaten tulang bawang,1,1,107200.00
+2024,10,tiktok,nusa tenggara timur (ntt),kabupaten alor,1,1,107200.00
+2024,10,tiktok,sulawesi barat,kabupaten mamasa,1,1,107200.00
+2024,10,tiktok,jawa timur,kota blitar,1,1,107200.00
+2024,6,tiktok,jawa tengah,kabupaten klaten,1,1,107140.00
+2024,10,shopee,jambi,kabupaten tebo,1,1,107100.00
+2024,9,shopee,sulawesi barat,kabupaten polewali mandar,1,1,107009.00
+2024,7,tiktok,sulawesi selatan,kabupaten bantaeng,1,1,107000.00
+2024,8,shopee,kalimantan tengah,kabupaten seruyan,2,2,106965.00
+2024,11,tiktok,kalimantan barat,kabupaten sambas,1,1,106734.00
+2024,9,tiktok,jambi,kabupaten batang hari,1,1,106730.00
+2024,9,tiktok,lampung,kabupaten tanggamus,1,1,106730.00
+2024,9,tiktok,kepulauan riau,kota tanjung pinang,1,1,106730.00
+2024,11,tiktok,kalimantan barat,kabupaten sekadau,1,1,106720.00
+2024,9,tiktok,jawa tengah,kabupaten sragen,1,1,106720.00
+2024,6,tiktok,bali,kabupaten klungkung,1,1,106600.00
+2024,6,tiktok,jawa timur,kabupaten jombang,1,1,106500.00
+2024,12,tiktok,kalimantan tengah,kota palangka raya,1,1,106220.00
+2024,8,shopee,sumatera selatan,kabupaten ogan komering ulu,1,1,106217.00
+2024,12,shopee,bengkulu,kabupaten rejang lebong,1,1,106196.00
+2024,12,shopee,sumatera utara,kabupaten serdang bedagai,1,1,106196.00
+2024,11,shopee,kalimantan barat,kabupaten kubu raya,2,2,106150.00
+2024,12,shopee,jawa barat,kota cimahi,1,1,106150.00
+2024,12,shopee,kalimantan tengah,kabupaten barito utara,1,1,106150.00
+2024,12,shopee,jawa timur,kabupaten tuban,2,2,106150.00
+2024,11,shopee,kalimantan timur,kabupaten kutai kartanegara,1,1,106144.00
+2024,7,shopee,sumatera selatan,kabupaten ogan komering ulu,1,1,106144.00
+2024,6,tiktok,jawa tengah,kabupaten karanganyar,1,1,106109.00
+2024,8,tiktok,bangka belitung,kota pangkal pinang,1,1,106101.00
+2024,4,shopee,jawa timur,kabupaten kediri,1,2,106040.00
+2024,12,shopee,lampung,kabupaten tanggamus,1,1,105936.00
+2024,10,shopee,riau,kabupaten pelalawan,1,1,105926.00
+2024,8,shopee,bali,kabupaten tabanan,1,2,105887.00
+2024,11,tiktok,kalimantan tengah,kabupaten kota waringin barat,1,1,105840.00
+2024,12,tiktok,jawa timur,kabupaten jember,1,1,105767.00
+2024,6,shopee,sulawesi selatan,kabupaten barru,1,1,105586.00
+2024,6,shopee,sumatera utara,kabupaten serdang bedagai,1,1,105586.00
+2024,5,shopee,jawa tengah,kota tegal,1,1,105586.00
+2024,12,shopee,sulawesi tengah,kabupaten morowali,1,1,105560.00
+2024,6,shopee,sulawesi tenggara,kota kendari,1,2,105550.00
+2024,4,shopee,jawa tengah,kabupaten brebes,1,1,105550.00
+2024,8,tiktok,riau,kabupaten rokan hilir,1,1,105550.00
+2024,6,shopee,bali,kabupaten gianyar,1,1,105550.00
+2024,4,tiktok,banten,kabupaten serang,1,1,105500.00
+2024,4,tiktok,jawa tengah,kota semarang,1,1,105500.00
+2024,4,tiktok,kalimantan tengah,kabupaten kota waringin barat,1,1,105500.00
+2024,5,shopee,kalimantan tengah,kabupaten kapuas,1,1,105395.00
+2024,12,shopee,sulawesi selatan,kabupaten bantaeng,1,1,105300.00
+2024,11,shopee,kalimantan barat,kota pontianak,1,1,105280.00
+2024,11,tiktok,riau,kabupaten rokan hulu,1,1,105257.00
+2024,11,tiktok,sulawesi selatan,kabupaten sinjai,1,1,105257.00
+2024,8,tiktok,sumatera selatan,kota prabumulih,1,1,105134.00
+2024,8,tiktok,kalimantan barat,kota pontianak,1,1,104960.00
+2024,10,shopee,jawa barat,kota cimahi,1,1,104887.00
+2024,8,shopee,kalimantan selatan,kota banjarbaru,1,1,104887.00
+2024,9,shopee,jawa tengah,kabupaten banjarnegara,1,1,104882.00
+2024,4,tiktok,kalimantan tengah,kabupaten sukamara,1,1,104827.00
+2024,12,shopee,kalimantan selatan,kabupaten tabalong,1,1,104800.00
+2024,11,tiktok,riau,kabupaten indragiri hulu,1,1,104773.00
+2024,5,tiktok,jawa barat,kota tasikmalaya,1,1,104745.00
+2024,8,shopee,jawa timur,kabupaten probolinggo,1,1,104610.00
+2024,5,shopee,jawa timur,kabupaten ngawi,1,1,104550.00
+2024,6,tiktok,sulawesi tenggara,kota kendari,1,1,104550.00
+2024,7,tiktok,kalimantan barat,kota singkawang,1,1,104550.00
+2024,7,tiktok,sulawesi utara,kota tomohon,1,1,104550.00
+2024,4,shopee,sumatera utara,kabupaten deli serdang,1,1,104550.00
+2024,8,shopee,riau,kabupaten pelalawan,1,1,104545.00
+2024,11,shopee,sulawesi utara,kota manado,1,1,104521.00
+2024,6,shopee,sulawesi utara,kota bitung,3,3,104480.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten dompu,1,1,104400.00
+2024,12,tiktok,jawa tengah,kota salatiga,1,1,104381.00
+2024,4,tiktok,di yogyakarta,kota yogyakarta,1,1,104300.00
+2024,10,tiktok,,,1,1,104285.00
+2024,10,tiktok,kalimantan tengah,kabupaten barito timur,1,1,104245.00
+2024,12,tiktok,kalimantan selatan,kabupaten barito kuala,1,1,104182.00
+2024,9,shopee,sulawesi selatan,kabupaten luwu timur,1,1,104178.00
+2024,10,shopee,jawa barat,kabupaten sumedang,1,1,104178.00
+2024,11,shopee,sumatera barat,kabupaten lima puluh koto/kota,1,1,104178.00
+2024,12,tiktok,kalimantan selatan,kabupaten kota baru,1,1,104150.00
+2024,8,shopee,sumatera selatan,kabupaten musi rawas utara,1,1,104122.00
+2024,10,shopee,sumatera selatan,kabupaten ogan komering ilir,1,2,104122.00
+2024,12,tiktok,kalimantan tengah,kabupaten sukamara,1,1,103995.00
+2024,11,shopee,riau,kota dumai,1,1,103887.00
+2024,10,tiktok,kalimantan selatan,kabupaten hulu sungai selatan,1,1,103854.00
+2024,10,tiktok,sulawesi selatan,kabupaten sinjai,1,1,103816.00
+2024,7,shopee,sumatera utara,kabupaten mandailing natal,2,2,103804.00
+2024,6,shopee,sumatera utara,kota pematang siantar,1,1,103764.00
+2024,12,tiktok,gorontalo,kabupaten gorontalo,1,1,103676.00
+2024,12,tiktok,lampung,kabupaten pringsewu,1,1,103649.00
+2024,6,shopee,kalimantan barat,kabupaten sintang,1,1,103550.00
+2024,3,tiktok,sulawesi selatan,kota makassar,1,1,103520.00
+2024,7,tiktok,nanggroe aceh darussalam (nad),kota sabang,1,1,103460.00
+2024,7,tiktok,bangka belitung,kabupaten bangka,1,1,103460.00
+2024,8,tiktok,riau,kabupaten kuantan singingi,1,1,103460.00
+2024,8,tiktok,jawa timur,kabupaten ponorogo,1,1,103460.00
+2024,7,tiktok,jambi,kabupaten bungo,1,1,103460.00
+2024,11,tiktok,sulawesi selatan,kabupaten sidenreng rappang/rapang,1,1,103450.00
+2024,6,shopee,kalimantan utara,kota tarakan,1,1,103307.00
+2024,7,shopee,kalimantan barat,kabupaten pontianak,1,1,103307.00
+2024,12,shopee,jawa tengah,kabupaten sragen,1,1,103162.00
+2024,12,tiktok,kepulauan riau,kota tanjung pinang,1,1,103150.00
+2024,11,shopee,bengkulu,kabupaten kepahiang,1,1,103119.00
+2024,9,shopee,jawa tengah,kabupaten blora,1,1,103100.00
+2024,10,shopee,kalimantan selatan,kabupaten tanah laut,1,1,103083.00
+2024,10,shopee,sulawesi selatan,kabupaten bone,1,2,103040.00
+2024,6,shopee,riau,kota pekanbaru,1,1,103024.00
+2024,7,shopee,riau,kota dumai,1,1,103024.00
+2024,6,shopee,sulawesi selatan,kabupaten bone,1,1,103024.00
+2024,7,tiktok,kalimantan barat,kabupaten sekadau,1,1,102827.00
+2024,10,tiktok,jawa tengah,kabupaten rembang,1,1,102822.00
+2024,12,shopee,kalimantan tengah,kabupaten seruyan,1,1,102759.00
+2024,10,tiktok,sumatera selatan,kabupaten ogan komering ilir,1,1,102746.00
+2024,10,tiktok,lampung,kabupaten way kanan,1,1,102745.00
+2024,6,tiktok,di yogyakarta,kota yogyakarta,1,1,102695.00
+2024,12,shopee,jawa timur,kabupaten bangkalan,1,1,102650.00
+2024,11,shopee,sumatera selatan,kabupaten banyuasin,1,1,102639.00
+2024,11,shopee,kalimantan selatan,kabupaten banjar,1,2,102615.00
+2024,5,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,1,1,102500.00
+2024,5,tiktok,bali,kabupaten karangasem,1,1,102376.00
+2024,7,tiktok,riau,kabupaten rokan hulu,1,1,102370.00
+2024,11,shopee,jawa tengah,kabupaten blora,1,1,102368.00
+2024,9,shopee,kalimantan selatan,kabupaten tabalong,2,2,102147.00
+2024,10,shopee,kalimantan barat,kabupaten ketapang,2,2,102140.00
+2024,9,shopee,bengkulu,kabupaten bengkulu tengah,1,1,102120.00
+2024,11,shopee,sulawesi tengah,kabupaten morowali,1,1,102119.00
+2024,10,shopee,sumatera utara,kabupaten mandailing natal,2,3,102119.00
+2024,12,shopee,banten,kota cilegon,2,2,102105.00
+2024,4,shopee,jawa timur,kabupaten gresik,1,1,102000.00
+2024,12,tiktok,lampung,kabupaten lampung tengah,1,1,101997.00
+2024,8,tiktok,sumatera utara,kabupaten simalungun,1,1,101961.00
+2024,11,tiktok,jawa timur,kota batu,1,1,101961.00
+2024,11,shopee,kalimantan barat,kabupaten sambas,1,1,101939.00
+2024,5,shopee,sumatera utara,kabupaten karo,1,1,101927.00
+2024,7,shopee,bangka belitung,kota pangkal pinang,1,1,101880.00
+2024,6,shopee,bengkulu,kabupaten kepahiang,1,1,101880.00
+2024,5,shopee,jawa tengah,kabupaten kendal,1,1,101880.00
+2024,6,shopee,bengkulu,kabupaten seluma,1,2,101880.00
+2024,12,tiktok,jawa tengah,kabupaten rembang,1,1,101736.00
+2024,3,tiktok,riau,kota pekanbaru,1,1,101714.00
+2024,9,shopee,kepulauan riau,kabupaten karimun,1,1,101707.00
+2024,5,tiktok,sulawesi tengah,kabupaten banggai,1,1,101650.00
+2024,5,tiktok,riau,kabupaten kampar,1,1,101650.00
+2024,6,tiktok,kalimantan barat,kota singkawang,1,1,101650.00
+2024,7,shopee,jawa timur,kota probolinggo,1,2,101600.00
+2024,12,tiktok,sulawesi barat,kabupaten mamasa,1,1,101404.00
+2024,6,shopee,kalimantan timur,kabupaten berau,1,1,101372.00
+2024,8,tiktok,kalimantan barat,kabupaten landak,1,1,101280.00
+2024,7,tiktok,sumatera utara,kota pematang siantar,1,1,101280.00
+2024,7,tiktok,sulawesi utara,kabupaten minahasa selatan,1,1,101280.00
+2024,8,tiktok,sulawesi selatan,kabupaten luwu timur,1,1,101258.00
+2024,7,shopee,dki jakarta,kabupaten kepulauan seribu,1,1,101175.00
+2024,11,shopee,nanggroe aceh darussalam (nad),kabupaten aceh singkil,1,1,101173.00
+2024,12,tiktok,riau,kabupaten siak,1,1,101090.00
+2024,10,shopee,kalimantan selatan,kabupaten banjar,1,1,101058.00
+2024,11,shopee,sulawesi selatan,kabupaten bone,1,1,101058.00
+2024,10,tiktok,nusa tenggara timur (ntt),kabupaten manggarai,1,1,101000.00
+2024,6,shopee,jawa timur,kabupaten bondowoso,1,1,100996.00
+2024,8,shopee,riau,kabupaten indragiri hulu,1,1,100937.00
+2024,9,shopee,lampung,kabupaten mesuji,1,1,100718.00
+2024,5,tiktok,jawa barat,kota depok,1,1,100680.00
+2024,12,tiktok,kalimantan barat,kabupaten sambas,1,1,100627.00
+2024,12,shopee,sumatera selatan,kabupaten musi banyuasin,1,1,100622.00
+2024,10,shopee,kalimantan tengah,kabupaten barito utara,1,1,100600.00
+2024,11,tiktok,sulawesi selatan,kabupaten bulukumba,1,1,100532.00
+2024,4,shopee,kalimantan timur,kota balikpapan,1,1,100528.00
+2024,12,shopee,jambi,kabupaten muaro jambi,1,1,100476.00
+2024,11,shopee,sumatera utara,kabupaten batu bara,1,1,100476.00
+2024,5,shopee,jawa tengah,kabupaten purbalingga,1,1,100356.00
+2024,8,tiktok,nusa tenggara barat (ntb),kabupaten sumbawa barat,1,1,100286.00
+2024,4,tiktok,jawa tengah,kota surakarta (solo),1,1,100280.00
+2024,11,tiktok,jawa timur,kabupaten tuban,1,1,100257.00
+2024,11,tiktok,sulawesi utara,kota bitung,1,1,100250.00
+2024,4,tiktok,banten,kabupaten tangerang,1,1,100180.00
+2024,9,tiktok,jawa timur,kabupaten nganjuk,1,1,100174.00
+2024,5,tiktok,jawa tengah,kabupaten brebes,1,1,100172.00
+2024,11,shopee,bali,kabupaten bangli,1,1,100157.00
+2024,6,tiktok,kalimantan timur,kabupaten kutai timur,1,1,100150.00
+2024,9,shopee,jambi,kabupaten tanjung jabung timur,1,1,100144.00
+2024,11,tiktok,bengkulu,kota bengkulu,1,1,100100.00
+2024,7,shopee,sumatera barat,kabupaten tanah datar,1,1,100100.00
+2024,7,shopee,jawa tengah,kabupaten kendal,2,2,100100.00
+2024,11,shopee,bali,kabupaten klungkung,1,1,100096.00
+2024,11,tiktok,jawa barat,kota banjar,1,1,100091.00
+2024,6,shopee,jambi,kabupaten bungo,1,1,100077.00
+2024,7,tiktok,bangka belitung,kabupaten bangka selatan,1,1,100042.00
+2024,8,tiktok,sumatera utara,kabupaten labuhan batu utara,1,1,100013.00
+2024,4,tiktok,jawa tengah,kabupaten brebes,1,1,99983.00
+2024,10,shopee,lampung,kabupaten tulang bawang barat,1,1,99963.00
+2024,11,tiktok,sulawesi selatan,kabupaten gowa,1,1,99900.00
+2024,9,tiktok,jawa barat,kabupaten majalengka,1,1,99790.00
+2024,7,shopee,di yogyakarta,kabupaten gunung kidul,1,1,99720.00
+2024,4,tiktok,jawa tengah,kabupaten banjarnegara,1,1,99680.00
+2024,11,tiktok,jawa tengah,kota pekalongan,1,1,99548.00
+2024,12,shopee,sulawesi utara,kota kotamobagu,1,1,99547.00
+2024,10,tiktok,nusa tenggara barat (ntb),kabupaten dompu,1,1,99532.00
+2024,9,tiktok,kalimantan tengah,kabupaten katingan,1,1,99532.00
+2024,9,tiktok,jawa barat,kabupaten ciamis,1,1,99532.00
+2024,10,tiktok,kepulauan riau,kabupaten karimun,1,1,99532.00
+2024,10,tiktok,sulawesi barat,kabupaten mamuju utara,1,1,99532.00
+2024,10,tiktok,jawa tengah,kabupaten wonosobo,1,1,99532.00
+2024,5,shopee,kalimantan barat,kabupaten pontianak,1,1,99372.00
+2024,5,shopee,jawa barat,kabupaten subang,2,2,99372.00
+2024,4,tiktok,jawa barat,kota bekasi,2,2,99296.00
+2024,9,shopee,lampung,kabupaten tanggamus,1,3,99248.00
+2024,10,shopee,kalimantan tengah,kabupaten kota waringin barat,1,1,99230.00
+2024,9,shopee,sumatera barat,kota padang,1,1,99210.00
+2024,5,shopee,sumatera utara,kabupaten deli serdang,2,2,99150.00
+2024,10,tiktok,sulawesi selatan,kabupaten jeneponto,1,1,99100.00
+2024,7,tiktok,kalimantan utara,kabupaten nunukan,1,1,99100.00
+2024,10,tiktok,jawa barat,kabupaten ciamis,1,1,99100.00
+2024,8,shopee,nusa tenggara barat (ntb),kabupaten sumbawa barat,1,1,99043.00
+2024,9,shopee,jawa tengah,kabupaten batang,2,2,98861.00
+2024,11,tiktok,sumatera selatan,kabupaten musi rawas,1,1,98754.00
+2024,5,tiktok,jawa tengah,kota semarang,1,1,98740.00
+2024,7,tiktok,sulawesi selatan,kabupaten luwu timur,1,1,98740.00
+2024,10,tiktok,sumatera selatan,kabupaten banyuasin,1,1,98704.00
+2024,9,tiktok,sulawesi selatan,kota parepare,1,1,98704.00
+2024,10,tiktok,kalimantan tengah,kabupaten kota waringin barat,1,1,98700.00
+2024,11,shopee,sumatera barat,kota bukittinggi,1,1,98562.00
+2024,3,tiktok,nusa tenggara barat (ntb),kabupaten lombok barat,1,1,98500.00
+2024,4,shopee,jawa tengah,kabupaten wonosobo,1,1,98500.00
+2024,5,tiktok,jawa tengah,kabupaten karanganyar,1,1,98327.00
+2024,8,tiktok,bali,kabupaten karangasem,1,1,98272.00
+2024,9,tiktok,jawa tengah,kabupaten pati,1,1,98272.00
+2024,8,tiktok,sulawesi selatan,kabupaten jeneponto,1,1,98272.00
+2024,9,shopee,di yogyakarta,kota yogyakarta,1,1,98172.00
+2024,7,tiktok,nanggroe aceh darussalam (nad),kota banda aceh,1,1,98000.00
+2024,7,tiktok,jawa barat,kabupaten indramayu,1,1,98000.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten bima,1,1,98000.00
+2024,4,tiktok,sulawesi barat,kabupaten mamuju utara,1,1,97983.00
+2024,5,shopee,bengkulu,kabupaten bengkulu selatan,1,1,97923.00
+2024,5,shopee,sumatera utara,kabupaten langkat,1,1,97923.00
+2024,6,shopee,sulawesi selatan,kabupaten takalar,1,1,97923.00
+2024,3,tiktok,,,1,1,97910.00
+2024,5,shopee,jawa timur,kabupaten magetan,1,1,97876.00
+2024,7,shopee,kalimantan selatan,kota banjarmasin,2,2,97850.00
+2024,11,tiktok,sulawesi selatan,kabupaten wajo,1,1,97776.00
+2024,9,shopee,jambi,kabupaten tebo,1,1,97717.00
+2024,8,tiktok,kalimantan selatan,kabupaten hulu sungai utara,1,1,97683.00
+2024,9,shopee,kalimantan tengah,kabupaten sukamara,1,1,97519.00
+2024,8,shopee,jawa tengah,kabupaten wonogiri,1,1,97477.00
+2024,7,shopee,lampung,kabupaten lampung barat,1,1,97455.00
+2024,12,shopee,nusa tenggara barat (ntb),kabupaten sumbawa,1,1,97420.00
+2024,6,shopee,sumatera selatan,kota lubuk linggau,1,1,97356.00
+2024,4,tiktok,jawa tengah,kabupaten purbalingga,1,1,97327.00
+2024,5,tiktok,jawa timur,kabupaten madiun,1,1,97316.00
+2024,9,shopee,jawa timur,kota madiun,2,2,97157.00
+2024,4,shopee,jawa tengah,kabupaten karanganyar,1,1,97150.00
+2024,9,shopee,sumatera selatan,kabupaten empat lawang,1,1,97142.00
+2024,8,shopee,lampung,kabupaten pringsewu,1,1,97109.00
+2024,4,tiktok,jawa barat,kabupaten bandung,1,1,97040.00
+2024,7,shopee,sulawesi selatan,kabupaten luwu timur,1,1,96888.00
+2024,3,tiktok,jawa timur,kabupaten kediri,1,1,96860.00
+2024,7,shopee,jambi,kabupaten bungo,1,1,96836.00
+2024,6,shopee,kalimantan barat,kabupaten sambas,2,2,96836.00
+2024,6,shopee,sumatera selatan,kabupaten musi banyuasin,1,1,96836.00
+2024,5,shopee,banten,kabupaten pandeglang,2,3,96836.00
+2024,5,shopee,kalimantan barat,kabupaten sanggau,1,1,96836.00
+2024,6,shopee,di yogyakarta,kabupaten kulon progo,1,1,96836.00
+2024,6,shopee,sulawesi tengah,kabupaten morowali,1,1,96836.00
+2024,6,shopee,kalimantan barat,kabupaten kayong utara,1,1,96836.00
+2024,5,shopee,lampung,kabupaten lampung selatan,1,1,96836.00
+2024,6,tiktok,bali,kabupaten karangasem,1,1,96800.00
+2024,12,shopee,bengkulu,kabupaten seluma,1,2,96677.00
+2024,12,shopee,bangka belitung,kota pangkal pinang,1,1,96677.00
+2024,7,tiktok,nusa tenggara barat (ntb),kabupaten lombok utara,1,1,96578.00
+2024,5,tiktok,jawa barat,kota cirebon,1,1,96570.00
+2024,12,tiktok,jawa tengah,kabupaten jepara,1,1,96397.00
+2024,4,shopee,lampung,kabupaten pesawaran,1,1,96181.00
+2024,7,shopee,kalimantan barat,kabupaten landak,1,1,96132.00
+2024,9,tiktok,jawa timur,kabupaten pacitan,1,1,96097.00
+2024,12,shopee,riau,kota pekanbaru,1,1,95987.00
+2024,6,shopee,bengkulu,kabupaten lebong,1,3,95940.00
+2024,4,tiktok,dki jakarta,kota jakarta utara,1,1,95800.00
+2024,4,tiktok,jawa timur,kabupaten sumenep,1,1,95800.00
+2024,4,shopee,kalimantan tengah,kabupaten kota waringin timur,1,1,95796.00
+2024,12,shopee,sumatera selatan,kabupaten empat lawang,1,1,95720.00
+2024,12,shopee,jambi,kabupaten sarolangun,1,1,95720.00
+2024,12,shopee,bengkulu,kabupaten kepahiang,1,1,95720.00
+2024,3,tiktok,jawa barat,kota bekasi,1,1,95718.00
+2024,12,shopee,sulawesi utara,kabupaten minahasa utara,1,1,95650.00
+2024,6,shopee,kalimantan barat,kabupaten bengkayang,1,2,95650.00
+2024,10,tiktok,sumatera barat,kota payakumbuh,1,1,95551.00
+2024,4,tiktok,jawa barat,kabupaten ciamis,1,1,95500.00
+2024,5,shopee,kalimantan tengah,kabupaten kota waringin barat,1,1,95486.00
+2024,6,shopee,kalimantan timur,kabupaten paser,1,1,95150.00
+2024,6,shopee,lampung,kota metro,2,2,95127.00
+2024,8,shopee,sulawesi tengah,kabupaten morowali,2,2,95056.00
+2024,4,tiktok,banten,kota serang,1,1,94890.00
+2024,12,tiktok,nanggroe aceh darussalam (nad),kabupaten aceh besar,1,1,94890.00
+2024,11,tiktok,lampung,kabupaten lampung barat,1,1,94836.00
+2024,8,tiktok,jawa tengah,kabupaten karanganyar,2,2,94820.00
+2024,4,tiktok,jawa barat,kabupaten sumedang,1,1,94595.00
+2024,12,tiktok,lampung,kabupaten lampung utara,1,1,94297.00
+2024,12,tiktok,riau,kabupaten indragiri hulu,1,1,94297.00
+2024,12,tiktok,jambi,kabupaten bungo,1,1,94230.00
+2024,12,tiktok,bangka belitung,kabupaten bangka,1,1,94230.00
+2024,6,shopee,nanggroe aceh darussalam (nad),kota banda aceh,1,1,94195.00
+2024,3,tiktok,bali,kota denpasar,1,1,94190.00
+2024,7,shopee,kalimantan barat,kabupaten kayong utara,1,1,93971.00
+2024,12,tiktok,jawa tengah,kabupaten sukoharjo,1,1,93927.00
+2024,12,shopee,jawa tengah,kota salatiga,1,1,93800.00
+2024,12,shopee,jawa timur,kabupaten pamekasan,1,1,93750.00
+2024,4,shopee,kepulauan riau,kabupaten karimun,1,1,93664.00
+2024,5,tiktok,sulawesi barat,kabupaten mamuju utara,1,1,93612.00
+2024,9,tiktok,kalimantan selatan,kabupaten barito kuala,1,1,93427.00
+2024,4,shopee,jawa timur,kabupaten bojonegoro,1,1,93175.00
+2024,9,shopee,sulawesi selatan,kabupaten luwu,1,1,93137.00
+2024,6,tiktok,kalimantan selatan,kabupaten hulu sungai utara,1,1,92938.00
+2024,7,shopee,kepulauan riau,kabupaten karimun,1,1,92794.00
+2024,9,shopee,kepulauan riau,kota tanjung pinang,2,2,92705.00
+2024,4,shopee,lampung,kabupaten pringsewu,1,1,92681.00
+2024,6,shopee,sumatera utara,kabupaten karo,1,1,92538.00
+2024,6,tiktok,sumatera barat,kota bukittinggi,1,1,92435.00
+2024,5,shopee,,,1,1,92312.00
+2024,4,tiktok,dki jakarta,kota jakarta timur,1,1,92230.00
+2024,5,shopee,jawa barat,kabupaten cirebon,1,2,92124.00
+2024,5,shopee,jawa timur,kabupaten mojokerto,2,2,91981.00
+2024,5,shopee,sumatera utara,kota medan,1,1,91636.00
+2024,7,tiktok,bengkulu,kota bengkulu,1,1,91493.00
+2024,7,shopee,lampung,kabupaten lampung utara,2,2,91423.00
+2024,4,tiktok,di yogyakarta,kabupaten sleman,1,1,91410.00
+2024,9,shopee,sumatera selatan,kabupaten banyuasin,1,1,91400.00
+2024,4,tiktok,bali,kabupaten jembrana,1,1,91062.00
+2024,3,tiktok,bangka belitung,kabupaten belitung,1,1,91000.00
+2024,10,shopee,sulawesi selatan,kabupaten takalar,1,1,90896.00
+2024,7,tiktok,sulawesi selatan,kabupaten pangkajene kepulauan,1,1,90800.00
+2024,10,tiktok,kalimantan barat,kabupaten kapuas hulu,1,1,90540.00
+2024,8,shopee,kalimantan selatan,kabupaten tanah laut,1,1,90505.00
+2024,3,shopee,jawa tengah,kota semarang,1,1,90440.00
+2024,4,tiktok,banten,kota tangerang selatan,1,1,90280.00
+2024,4,tiktok,bangka belitung,kabupaten belitung,1,1,90280.00
+2024,7,tiktok,sumatera barat,kabupaten lima puluh koto/kota,1,1,90240.00
+2024,7,tiktok,jawa tengah,kabupaten semarang,1,1,90240.00
+2024,6,shopee,jawa timur,kabupaten ponorogo,1,1,90017.00
+2024,5,shopee,jawa tengah,kabupaten banjarnegara,1,1,90017.00
+2024,5,shopee,jawa barat,kabupaten bandung barat,2,2,89867.00
+2024,10,shopee,bangka belitung,kabupaten bangka selatan,1,1,89740.00
+2024,4,shopee,sumatera selatan,kota palembang,1,1,89670.00
+2024,9,shopee,sulawesi selatan,kabupaten selayar (kepulauan selayar),1,1,89525.00
+2024,3,tiktok,jawa barat,kabupaten indramayu,1,1,89520.00
+2024,4,shopee,jawa barat,kota bandung,1,1,89440.00
+2024,4,tiktok,kalimantan timur,kota balikpapan,1,1,89410.00
+2024,6,shopee,jawa barat,kota cirebon,1,1,89200.00
+2024,6,shopee,lampung,kabupaten pringsewu,1,1,89072.00
+2024,3,shopee,dki jakarta,kota jakarta utara,1,1,89000.00
+2024,3,shopee,jawa barat,kabupaten bogor,1,1,89000.00
+2024,6,shopee,sumatera selatan,kabupaten musi rawas,1,1,88984.00
+2024,3,tiktok,di yogyakarta,kabupaten bantul,1,1,88690.00
+2024,4,tiktok,,,1,1,88540.00
+2024,3,tiktok,jawa tengah,kabupaten sragen,1,1,88520.00
+2024,7,shopee,kepulauan riau,kabupaten bintan,1,1,88464.00
+2024,6,shopee,sulawesi selatan,kabupaten jeneponto,1,1,88435.00
+2024,8,shopee,lampung,kabupaten tulang bawang barat,1,1,88410.00
+2024,7,shopee,sulawesi utara,kabupaten minahasa,2,2,88405.00
+2024,6,shopee,kalimantan tengah,kabupaten pulang pisau,1,1,88256.00
+2024,7,shopee,jawa barat,kabupaten garut,3,3,88099.00
+2024,3,shopee,jawa barat,kota sukabumi,1,1,88092.00
+2024,9,tiktok,bangka belitung,kabupaten belitung,1,1,88059.00
+2024,3,shopee,jambi,kabupaten tanjung jabung barat,1,1,88000.00
+2024,12,tiktok,kalimantan barat,kabupaten sintang,1,1,87867.00
+2024,12,tiktok,jawa barat,kabupaten pangandaran,1,1,87867.00
+2024,4,tiktok,di yogyakarta,kabupaten bantul,1,1,87860.00
+2024,9,shopee,jambi,kabupaten tanjung jabung barat,1,1,87795.00
+2024,7,shopee,jawa timur,kabupaten trenggalek,1,1,87736.00
+2024,12,shopee,jawa timur,kabupaten jember,2,2,87597.00
+2024,8,shopee,sumatera utara,kabupaten langkat,2,2,87526.00
+2024,4,shopee,jawa timur,kabupaten probolinggo,1,1,87500.00
+2024,4,shopee,jawa timur,kabupaten malang,1,1,87350.00
+2024,12,shopee,riau,kota dumai,1,1,87348.00
+2024,8,shopee,kalimantan timur,kabupaten paser,1,1,87230.00
+2024,12,tiktok,lampung,kabupaten pesawaran,1,1,87197.00
+2024,12,tiktok,sumatera selatan,kabupaten musi banyuasin,1,1,87197.00
+2024,11,shopee,kepulauan riau,kabupaten karimun,1,1,87072.00
+2024,7,tiktok,sumatera utara,kabupaten serdang bedagai,1,1,87000.00
+2024,7,shopee,bali,kabupaten badung,1,1,86909.00
+2024,12,tiktok,jawa timur,kabupaten blitar,1,1,86857.00
+2024,3,tiktok,bali,kabupaten buleleng,1,1,86520.00
+2024,3,tiktok,jawa timur,kabupaten tuban,1,1,86520.00
+2024,3,tiktok,jawa barat,kabupaten bekasi,1,1,86520.00
+2024,3,tiktok,jawa tengah,kabupaten banyumas,1,1,86500.00
+2024,3,tiktok,jawa tengah,kota surakarta (solo),1,1,86500.00
+2024,12,tiktok,sumatera selatan,kabupaten ogan komering ulu timur,1,1,86197.00
+2024,12,tiktok,sulawesi tengah,kabupaten tojo una-una,1,1,86197.00
+2024,12,shopee,jawa barat,kabupaten majalengka,1,1,86191.00
+2024,3,tiktok,nusa tenggara barat (ntb),kabupaten lombok tengah,1,1,86190.00
+2024,11,shopee,bali,kabupaten tabanan,1,1,85921.00
+2024,3,tiktok,jawa barat,kota depok,1,1,85690.00
+2024,6,shopee,kalimantan barat,kota singkawang,1,1,85656.00
+2024,6,shopee,kalimantan tengah,kabupaten katingan,1,1,85446.00
+2024,9,shopee,riau,kabupaten rokan hilir,1,1,85340.00
+2024,9,shopee,bangka belitung,kota pangkal pinang,1,1,85285.00
+2024,3,tiktok,jawa barat,kota bandung,1,1,84860.00
+2024,8,shopee,jawa barat,kabupaten indramayu,1,1,84846.00
+2024,3,tiktok,sulawesi selatan,kabupaten maros,1,1,84796.00
+2024,9,shopee,bangka belitung,kabupaten belitung,1,1,84704.00
+2024,4,shopee,sumatera selatan,kota lubuk linggau,1,1,84650.00
+2024,9,shopee,kalimantan barat,kota singkawang,1,1,84632.00
+2024,10,tiktok,gorontalo,kabupaten gorontalo,1,1,84247.00
+2024,4,tiktok,jawa timur,kabupaten kediri,1,1,84102.00
+2024,3,shopee,jawa barat,kota bekasi,1,1,84000.00
+2024,5,shopee,jawa timur,kabupaten tuban,1,1,83935.00
+2024,7,shopee,jambi,kabupaten muaro jambi,1,1,83846.00
+2024,9,tiktok,bengkulu,kabupaten muko muko,1,1,83800.00
+2024,8,shopee,lampung,kabupaten lampung utara,1,1,83722.00
+2024,6,shopee,kalimantan tengah,kota palangka raya,1,1,83600.00
+2024,4,shopee,di yogyakarta,kota yogyakarta,1,1,83555.00
+2024,5,tiktok,kalimantan tengah,kabupaten murung raya,1,1,83500.00
+2024,3,tiktok,di yogyakarta,kota yogyakarta,1,1,83427.00
+2024,7,shopee,lampung,kabupaten pesawaran,1,5,83102.00
+2024,11,shopee,sumatera selatan,kota pagar alam,1,1,82957.00
+2024,7,shopee,jambi,kabupaten tanjung jabung barat,2,2,82820.00
+2024,9,shopee,kalimantan selatan,kota banjarmasin,1,1,82500.00
+2024,9,shopee,sulawesi selatan,kabupaten gowa,2,2,82494.00
+2024,6,shopee,kalimantan selatan,kota banjarmasin,1,1,82460.00
+2024,5,shopee,jawa barat,kabupaten indramayu,2,2,82460.00
+2024,7,shopee,jawa timur,kabupaten probolinggo,1,1,82442.00
+2024,3,tiktok,riau,kabupaten bengkalis,1,1,82102.00
+2024,12,tiktok,sumatera selatan,kabupaten ogan komering ilir,1,1,81997.00
+2024,11,shopee,sulawesi selatan,kabupaten maros,1,1,81818.00
+2024,7,shopee,kalimantan selatan,kabupaten balangan,1,1,81768.00
+2024,3,tiktok,banten,kota cilegon,1,1,81718.00
+2024,4,shopee,jawa timur,kabupaten pasuruan,1,1,81650.00
+2024,7,shopee,lampung,kabupaten way kanan,1,1,81553.00
+2024,8,shopee,dki jakarta,kabupaten kepulauan seribu,1,1,81113.00
+2024,11,shopee,sumatera utara,kota tebing tinggi,2,4,80638.00
+2024,3,tiktok,bali,kabupaten klungkung,1,1,80500.00
+2024,7,shopee,jawa barat,kabupaten majalengka,1,1,79936.00
+2024,3,tiktok,jawa tengah,kabupaten wonogiri,1,1,79700.00
+2024,7,tiktok,sulawesi tenggara,kabupaten muna,1,1,79675.00
+2024,11,shopee,jawa barat,kota cirebon,1,1,79583.00
+2024,9,shopee,sulawesi utara,kabupaten bolaang mongondow utara,1,1,79560.00
+2024,6,shopee,bangka belitung,kabupaten bangka barat,1,1,79376.00
+2024,11,shopee,jawa barat,kota cimahi,2,2,79280.00
+2024,3,tiktok,jambi,kota jambi,1,1,78700.00
+2024,3,tiktok,dki jakarta,kota jakarta selatan,1,1,78613.00
+2024,4,shopee,sumatera selatan,kabupaten muara enim,1,1,78480.00
+2024,11,shopee,nanggroe aceh darussalam (nad),kota subulussalam,1,2,78106.00
+2024,7,shopee,jawa timur,kota mojokerto,1,1,77871.00
+2024,4,shopee,lampung,kabupaten tulang bawang,1,1,77625.00
+2024,10,shopee,bengkulu,kabupaten bengkulu selatan,1,1,77532.00
+2024,4,tiktok,jawa barat,kabupaten karawang,1,1,77500.00
+2024,6,shopee,sumatera selatan,kabupaten muara enim,1,1,77440.00
+2024,7,shopee,bengkulu,kabupaten lebong,1,1,77366.00
+2024,4,tiktok,jawa tengah,kabupaten pekalongan,1,1,77000.00
+2024,5,tiktok,jawa timur,kabupaten magetan,1,1,77000.00
+2024,9,shopee,sulawesi selatan,kabupaten wajo,1,1,76640.00
+2024,7,shopee,kalimantan selatan,kabupaten tabalong,1,1,76610.00
+2024,12,shopee,sulawesi barat,kabupaten mamuju utara,1,1,76495.00
+2024,4,shopee,jawa timur,kabupaten madiun,1,1,76400.00
+2024,9,tiktok,kalimantan timur,kabupaten penajam paser utara,1,1,76300.00
+2024,6,shopee,sumatera utara,kota tebing tinggi,1,1,76111.00
+2024,12,shopee,sumatera selatan,kabupaten ogan komering ulu,1,1,76053.00
+2024,5,tiktok,jawa timur,kabupaten malang,1,1,75995.00
+2024,6,shopee,jawa timur,kota batu,1,1,75329.00
+2024,7,tiktok,sulawesi selatan,kabupaten sidenreng rappang/rapang,1,1,75000.00
+2024,7,shopee,kalimantan selatan,kota banjarbaru,1,1,74466.00
+2024,5,tiktok,sulawesi selatan,kabupaten sidenreng rappang/rapang,1,1,74000.00
+2024,7,tiktok,jawa barat,kabupaten majalengka,1,1,74000.00
+2024,11,shopee,nusa tenggara barat (ntb),kabupaten dompu,1,1,73800.00
+2024,6,shopee,sumatera barat,kabupaten lima puluh koto/kota,1,1,73332.00
+2024,6,tiktok,kalimantan tengah,kabupaten kota waringin barat,1,1,73000.00
+2024,8,shopee,kalimantan barat,kabupaten sintang,1,1,72550.00
+2024,9,shopee,sumatera utara,kabupaten toba samosir,1,1,72541.00
+2024,6,shopee,sumatera utara,kabupaten simalungun,1,1,72438.00
+2024,8,tiktok,jawa timur,kabupaten lumajang,1,1,71200.00
+2024,11,shopee,lampung,kabupaten lampung utara,1,1,71118.00
+2024,10,shopee,jawa tengah,kabupaten kebumen,1,1,71000.00
+2024,10,shopee,kalimantan timur,kabupaten kutai kartanegara,1,1,70892.00
+2024,9,tiktok,jawa tengah,kota pekalongan,1,1,70730.00
+2024,9,shopee,kalimantan barat,kabupaten kapuas hulu,1,2,70631.00
+2024,5,tiktok,jawa barat,kabupaten subang,1,1,70600.00
+2024,5,shopee,lampung,kabupaten lampung utara,1,1,70500.00
+2024,10,shopee,jawa barat,kabupaten indramayu,1,1,70237.00
+2024,8,tiktok,kalimantan selatan,kabupaten hulu sungai tengah,1,1,70000.00
+2024,9,shopee,kalimantan timur,kabupaten berau,2,2,69890.00
+2024,10,shopee,jawa barat,kabupaten purwakarta,1,1,69890.00
+2024,8,shopee,di yogyakarta,kota yogyakarta,2,2,69860.00
+2024,5,shopee,lampung,kabupaten lampung timur,1,1,69744.00
+2024,9,shopee,kalimantan selatan,kabupaten banjar,1,1,69676.00
+2024,8,shopee,jawa barat,kabupaten ciamis,2,2,69536.00
+2024,10,shopee,jawa barat,kabupaten bandung barat,1,1,69536.00
+2024,7,shopee,sumatera selatan,kabupaten ogan komering ilir,2,2,69172.00
+2024,8,shopee,lampung,kabupaten pesawaran,1,1,68920.00
+2024,6,tiktok,jawa tengah,kota salatiga,1,1,68500.00
+2024,6,shopee,jawa barat,kabupaten purwakarta,2,2,68240.00
+2024,9,shopee,bengkulu,kabupaten seluma,1,1,67902.00
+2024,11,tiktok,gorontalo,kota gorontalo,1,1,67822.00
+2024,4,tiktok,nusa tenggara barat (ntb),kota mataram,1,1,67796.00
+2024,4,tiktok,jawa timur,kabupaten malang,1,1,67796.00
+2024,7,shopee,jawa timur,kota pasuruan,1,1,67040.00
+2024,8,shopee,jawa tengah,kota salatiga,1,1,66530.00
+2024,4,tiktok,bali,kabupaten badung,1,1,65296.00
+2024,8,shopee,sumatera selatan,kabupaten ogan komering ulu selatan,1,1,65187.00
+2024,5,shopee,lampung,kabupaten tulang bawang,1,1,65145.00
+2024,8,tiktok,sulawesi selatan,kota parepare,1,1,64980.00
+2024,4,shopee,di yogyakarta,kabupaten bantul,1,1,64960.00
+2024,9,shopee,sumatera utara,kabupaten karo,1,1,64900.00
+2024,9,tiktok,sumatera utara,kabupaten langkat,1,1,64109.00
+2024,10,shopee,lampung,kabupaten pesisir barat,1,1,64040.00
+2024,6,tiktok,sulawesi utara,kabupaten minahasa utara,1,1,63600.00
+2024,11,tiktok,nanggroe aceh darussalam (nad),kota banda aceh,1,1,63471.00
+2024,5,shopee,jawa timur,kabupaten gresik,1,1,63452.00
+2024,9,tiktok,sulawesi tengah,kabupaten sigi,1,1,63170.00
+2024,9,shopee,kalimantan barat,kabupaten sintang,1,1,63118.00
+2024,4,shopee,jawa tengah,kota salatiga,1,1,62988.00
+2024,7,shopee,di yogyakarta,kabupaten kulon progo,1,1,62932.00
+2024,12,shopee,riau,kabupaten bengkalis,1,1,62680.00
+2024,8,shopee,di yogyakarta,kabupaten gunung kidul,1,1,62640.00
+2024,5,tiktok,riau,kota dumai,1,1,62600.00
+2024,3,shopee,banten,kota tangerang,1,1,62360.00
+2024,10,shopee,kalimantan barat,kabupaten kayong utara,1,1,62360.00
+2024,12,shopee,jawa timur,kabupaten lumajang,2,2,62360.00
+2024,7,shopee,banten,kabupaten serang,2,2,62360.00
+2024,5,shopee,jawa barat,kabupaten ciamis,1,1,62360.00
+2024,3,shopee,jawa barat,kota depok,1,1,62360.00
+2024,3,shopee,di yogyakarta,kabupaten bantul,1,1,62360.00
+2024,10,shopee,kalimantan selatan,kota banjarmasin,1,1,62256.00
+2024,9,tiktok,bangka belitung,kabupaten bangka selatan,1,1,62140.00
+2024,11,tiktok,sumatera selatan,kota prabumulih,1,1,62070.00
+2024,12,shopee,riau,kabupaten kampar,1,1,62016.00
+2024,5,tiktok,jawa timur,kabupaten pamekasan,1,1,62000.00
+2024,4,shopee,jawa barat,kabupaten subang,1,1,61741.00
+2024,3,tiktok,jawa timur,kabupaten sampang,1,1,61500.00
+2024,8,shopee,jawa timur,kabupaten sumenep,1,1,61406.00
+2024,11,tiktok,lampung,kabupaten pesisir barat,1,1,61400.00
+2024,5,shopee,jawa timur,kabupaten sampang,1,1,61372.00
+2024,10,tiktok,kalimantan tengah,kabupaten katingan,1,1,61360.00
+2024,4,shopee,jawa tengah,kabupaten purworejo,1,1,61320.00
+2024,4,shopee,lampung,kota bandar lampung,1,1,61320.00
+2024,11,shopee,di yogyakarta,kota yogyakarta,1,1,61133.00
+2024,6,shopee,jawa timur,kabupaten gresik,1,1,61127.00
+2024,11,tiktok,sulawesi tenggara,kabupaten konawe,1,1,61004.00
+2024,11,tiktok,kalimantan utara,kota tarakan,1,1,61004.00
+2024,10,shopee,jawa barat,kota cirebon,1,1,61000.00
+2024,4,shopee,jawa tengah,kabupaten pemalang,1,1,60722.00
+2024,12,tiktok,jawa barat,kota sukabumi,1,1,60600.00
+2024,7,shopee,jawa barat,kota cirebon,1,1,60590.00
+2024,5,shopee,jawa barat,kabupaten tasikmalaya,1,1,60590.00
+2024,5,shopee,sumatera selatan,kabupaten lahat,1,1,60590.00
+2024,10,tiktok,lampung,kabupaten pringsewu,1,1,60400.00
+2024,10,shopee,kalimantan timur,kabupaten paser,1,1,60320.00
+2024,9,tiktok,gorontalo,kabupaten gorontalo,1,1,60282.00
+2024,10,shopee,sumatera selatan,kota pagar alam,1,1,60176.00
+2024,6,shopee,jawa tengah,kabupaten wonogiri,1,1,60050.00
+2024,3,shopee,jawa barat,kabupaten bekasi,1,1,60000.00
+2024,11,tiktok,banten,kabupaten pandeglang,1,1,59994.00
+2024,11,shopee,lampung,kabupaten lampung barat,1,1,59906.00
+2024,11,shopee,kalimantan timur,kabupaten paser,1,1,59906.00
+2024,8,tiktok,riau,kabupaten indragiri hilir,1,1,59597.00
+2024,11,tiktok,jawa barat,kabupaten pangandaran,1,1,59590.00
+2024,4,shopee,jawa tengah,kabupaten semarang,1,1,59532.00
+2024,4,shopee,jawa tengah,kota tegal,1,1,59410.00
+2024,10,shopee,jawa timur,kabupaten trenggalek,1,1,59318.00
+2024,8,shopee,jawa timur,kabupaten situbondo,1,1,59308.00
+2024,5,shopee,banten,kota cilegon,1,1,59292.00
+2024,5,shopee,jawa barat,kota tasikmalaya,1,1,59292.00
+2024,11,shopee,lampung,kabupaten pringsewu,2,3,59266.00
+2024,4,shopee,jawa tengah,kabupaten magelang,1,1,59230.00
+2024,11,shopee,jawa timur,kabupaten bangkalan,1,3,59053.00
+2024,6,shopee,jawa barat,kabupaten sumedang,1,1,59050.00
+2024,10,shopee,jawa tengah,kabupaten blora,1,1,58678.00
+2024,10,shopee,jawa tengah,kota tegal,1,2,58678.00
+2024,11,shopee,sulawesi selatan,kabupaten luwu utara,1,1,58640.00
+2024,12,tiktok,kalimantan timur,kabupaten berau,1,1,58450.00
+2024,11,shopee,bangka belitung,kabupaten belitung,1,1,58206.00
+2024,9,shopee,jawa barat,kota cimahi,1,1,58206.00
+2024,8,shopee,jawa tengah,kabupaten rembang,1,1,58171.00
+2024,12,tiktok,kepulauan riau,kabupaten karimun,1,1,58050.00
+2024,6,shopee,jawa tengah,kota tegal,2,2,58050.00
+2024,10,tiktok,kalimantan barat,kabupaten pontianak,1,1,58040.00
+2024,9,tiktok,sumatera utara,kabupaten padang lawas utara,1,1,58040.00
+2024,9,tiktok,sulawesi utara,kota kotamobagu,1,1,58040.00
+2024,9,tiktok,,,1,1,58040.00
+2024,5,shopee,banten,kabupaten serang,1,1,58000.00
+2024,12,shopee,sulawesi selatan,kabupaten takalar,1,1,57820.00
+2024,12,tiktok,sulawesi selatan,kabupaten jeneponto,1,1,57620.00
+2024,10,tiktok,kalimantan barat,kabupaten ketapang,1,1,57265.00
+2024,12,tiktok,sulawesi utara,kabupaten minahasa,1,1,57100.00
+2024,9,shopee,banten,kota cilegon,1,1,56929.00
+2024,10,tiktok,jawa barat,kabupaten pangandaran,1,1,56500.00
+2024,11,tiktok,kalimantan timur,kabupaten kutai timur,1,1,56474.00
+2024,9,tiktok,sumatera barat,kota payakumbuh,1,1,56341.00
+2024,12,shopee,di yogyakarta,kabupaten gunung kidul,1,1,56322.00
+2024,9,shopee,bengkulu,kabupaten rejang lebong,1,1,56280.00
+2024,9,shopee,bengkulu,kabupaten kaur,1,1,56280.00
+2024,11,shopee,bangka belitung,kabupaten bangka tengah,1,1,56241.00
+2024,6,shopee,jambi,kabupaten tebo,1,1,56224.00
+2024,8,shopee,jawa barat,kabupaten garut,1,1,56152.00
+2024,11,tiktok,kepulauan riau,kabupaten bintan,1,1,56141.00
+2024,8,shopee,di yogyakarta,kabupaten kulon progo,1,2,55884.00
+2024,8,tiktok,jawa barat,kabupaten tasikmalaya,1,1,55870.00
+2024,8,tiktok,sulawesi selatan,kabupaten bantaeng,1,1,55870.00
+2024,10,tiktok,sumatera selatan,kabupaten ogan komering ulu timur,1,1,55580.00
+2024,10,tiktok,lampung,kabupaten lampung barat,1,1,55108.00
+2024,9,shopee,jawa timur,kota blitar,1,1,54712.00
+2024,11,shopee,dki jakarta,kabupaten kepulauan seribu,1,1,54706.00
+2024,7,shopee,jawa barat,kabupaten indramayu,1,1,54668.00
+2024,11,shopee,jawa tengah,kabupaten kendal,1,1,53461.00
+2024,9,tiktok,jawa timur,kabupaten ngawi,1,1,53409.00
+2024,8,tiktok,sulawesi selatan,kabupaten bone,1,1,53409.00
+2024,12,tiktok,jawa timur,kota madiun,1,1,52475.00
+2024,11,tiktok,kalimantan barat,kabupaten pontianak,1,1,51878.00
+2024,10,shopee,riau,kabupaten kampar,1,1,51820.00
+2024,11,tiktok,jawa tengah,kabupaten blora,1,1,51510.00
+2024,10,shopee,jawa timur,kota batu,1,1,51238.00
+2024,11,tiktok,jawa tengah,kabupaten wonosobo,1,1,50904.00
+2024,11,tiktok,jawa tengah,kabupaten karanganyar,1,1,50663.00
+2024,9,tiktok,sumatera barat,kabupaten solok,1,1,50519.00
+2024,7,shopee,kalimantan barat,kabupaten kubu raya,1,2,50296.00
+2024,5,shopee,jawa tengah,kabupaten wonosobo,1,1,48360.00
+2024,8,tiktok,kalimantan tengah,kabupaten barito selatan,1,1,46500.00
+2024,11,shopee,kalimantan utara,kabupaten bulungan (bulongan),1,1,45900.00
+2024,11,tiktok,sumatera selatan,kabupaten ogan komering ulu,1,1,42622.00
+2024,5,tiktok,jawa barat,kabupaten purwakarta,1,1,42000.00
+2024,6,shopee,jawa timur,kabupaten probolinggo,1,1,41456.00
+2024,9,shopee,jawa timur,kabupaten probolinggo,1,1,40416.00
+2024,5,tiktok,jawa tengah,kabupaten kendal,1,1,37000.00
+2024,5,shopee,bali,kota denpasar,1,1,34500.00
+2024,3,tiktok,lampung,kabupaten lampung tengah,1,1,28000.00
+2024,7,shopee,sulawesi utara,kota bitung,1,1,0.00
+2024,7,shopee,sulawesi tengah,kabupaten morowali utara,1,1,0.00
+2024,7,shopee,sulawesi utara,kota kotamobagu,2,2,0.00
+2024,9,shopee,,,1,1,0.00
+2024,7,shopee,sulawesi tengah,kabupaten morowali,1,1,0.00
+2024,7,shopee,sulawesi tengah,kabupaten banggai,1,1,0.00
+2024,7,shopee,sulawesi selatan,kabupaten selayar (kepulauan selayar),1,1,0.00
+2024,7,shopee,sulawesi selatan,kabupaten maros,1,1,0.00
+2024,7,shopee,sulawesi selatan,kabupaten luwu utara,1,1,0.00
+2024,9,shopee,sumatera utara,kabupaten serdang bedagai,2,2,0.00
+2024,7,shopee,sulawesi selatan,kabupaten bulukumba,1,1,0.00
+2024,12,shopee,jawa tengah,kabupaten blora,1,1,0.00
+2024,9,shopee,sumatera selatan,kabupaten ogan komering ulu timur,1,1,0.00
+2024,9,shopee,nusa tenggara timur (ntt),kota kupang,1,1,0.00
+2024,7,shopee,riau,kabupaten bengkalis,1,1,0.00
+2024,7,shopee,nanggroe aceh darussalam (nad),kota subulussalam,1,1,0.00
+2024,7,shopee,kalimantan utara,kabupaten bulungan (bulongan),1,1,0.00
+2024,3,shopee,banten,kabupaten pandeglang,1,1,0.00
+2024,10,shopee,jawa barat,kabupaten kuningan,1,1,0.00
+2024,9,shopee,kalimantan tengah,kabupaten gunung mas,1,1,0.00
+2024,9,shopee,jawa timur,kabupaten sampang,1,1,0.00
+2024,5,shopee,bengkulu,kabupaten lebong,1,1,0.00
+2024,7,shopee,sulawesi utara,kota manado,1,1,0.00
+2024,6,shopee,sumatera selatan,kabupaten banyuasin,1,1,0.00
+2024,9,shopee,jambi,kabupaten batang hari,1,1,0.00
+2024,11,shopee,kalimantan barat,kota singkawang,1,1,0.00
+2024,10,shopee,kalimantan timur,kabupaten kutai timur,1,1,0.00
+2024,6,shopee,sulawesi utara,kabupaten minahasa utara,1,1,0.00
+2024,10,shopee,kalimantan utara,kota tarakan,1,1,0.00
+2024,8,shopee,jawa tengah,kabupaten temanggung,1,1,0.00
+2024,12,shopee,kalimantan timur,kabupaten penajam paser utara,1,1,0.00
+2024,6,shopee,riau,kabupaten kampar,1,1,0.00
+2024,7,shopee,sumatera utara,kota tanjung balai,1,1,0.00
+2024,10,shopee,sulawesi tengah,kabupaten morowali,1,1,0.00
+2024,10,shopee,sulawesi utara,kota kotamobagu,1,1,0.00
+2024,10,shopee,sumatera barat,kabupaten pasaman barat,1,1,0.00
+2024,10,shopee,sumatera selatan,kota lubuk linggau,1,1,0.00
+2024,6,shopee,nusa tenggara barat (ntb),kabupaten lombok tengah,1,1,0.00
+2024,10,shopee,sumatera utara,kabupaten langkat,1,2,0.00
+2024,6,shopee,kalimantan barat,kabupaten pontianak,1,1,0.00
+2024,5,shopee,sulawesi utara,kabupaten minahasa utara,2,3,0.00
+2024,6,shopee,kalimantan barat,kabupaten ketapang,2,6,0.00
+2024,6,shopee,jawa timur,kota probolinggo,1,1,0.00
+2024,11,shopee,sumatera utara,kabupaten langkat,1,1,0.00
+2024,7,shopee,sumatera utara,kota tebing tinggi,1,1,0.00
+2024,12,shopee,jambi,kota jambi,1,1,0.00
+2024,4,shopee,sulawesi selatan,kabupaten wajo,1,1,0.00
+2024,11,shopee,sulawesi selatan,kabupaten sinjai,1,1,0.00
+2024,6,shopee,jambi,kabupaten tanjung jabung timur,1,1,0.00
+2024,12,shopee,bengkulu,kabupaten kaur,1,1,0.00
+2024,8,shopee,sumatera utara,kabupaten simalungun,1,1,0.00
+2024,12,shopee,sumatera utara,kota tanjung balai,1,1,0.00
+2024,11,shopee,bengkulu,kabupaten seluma,1,1,0.00
+2024,5,shopee,kalimantan timur,kabupaten paser,1,1,0.00
+2024,8,shopee,kalimantan selatan,kabupaten banjar,1,1,0.00
+2024,5,shopee,kalimantan timur,kota bontang,1,1,0.00
+2024,5,shopee,kalimantan timur,kota samarinda,1,1,0.00
+2024,8,shopee,kalimantan barat,kabupaten sekadau,1,1,0.00
+2024,11,shopee,jawa tengah,kota tegal,1,1,0.00
+2024,11,shopee,kalimantan selatan,kabupaten tanah bumbu,1,1,0.00
+2024,8,shopee,kalimantan barat,kabupaten sanggau,2,2,0.00
+2024,8,shopee,jambi,kabupaten tanjung jabung timur,1,1,0.00
+2024,11,shopee,jawa timur,kota mojokerto,1,1,0.00
+2024,8,shopee,jawa barat,kota cirebon,1,1,0.00
+2024,5,shopee,sumatera utara,kota binjai,1,1,0.00
+2024,11,shopee,kalimantan barat,kabupaten sanggau,1,1,0.00
+2024,5,shopee,sulawesi barat,kabupaten majene,1,1,0.00
+2024,5,shopee,sulawesi selatan,kota makassar,1,1,0.00
+2024,5,shopee,sulawesi utara,kota manado,1,1,0.00
+2024,5,shopee,sumatera selatan,kabupaten ogan komering ulu timur,1,1,0.00
